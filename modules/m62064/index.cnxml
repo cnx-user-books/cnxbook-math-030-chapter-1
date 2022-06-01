@@ -1,0 +1,1531 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Dividing Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62064</md:content-id>
+  <md:title>Dividing Whole Numbers</md:title>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
+<item>Use division notation</item>
+<item>Model division of whole numbers</item>
+<item>Divide whole numbers</item>
+<item>Translate word phrases to math notation</item>
+<item>Divide whole numbers in applications</item>
+</list></md:abstract>
+  <md:uuid>a716c1fb-4555-422b-b1e6-8e2a4da39611</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id2294519">
+<title>Division Notation</title><para id="fs-id1563789">So far we have explored addition, subtraction, and multiplication. Now let’s consider division. Suppose you have the <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> cookies in <link target-id="CNX_BMath_Figure_01_05_001"/> and want to package them in bags with <m:math><m:mn>4</m:mn></m:math> cookies in each bag. How many bags would we need?</para>
+<figure id="CNX_BMath_Figure_01_05_001">
+<media id="fs-id2170048" alt="An image of three rows of four cookies to show twelve cookies.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_001.jpg"/>
+</media>
+</figure>
+<para id="fs-id1614746">You might put <m:math><m:mn>4</m:mn></m:math> cookies in first bag, <m:math><m:mn>4</m:mn></m:math> in the second bag, and so on until you run out of cookies. Doing it this way, you would fill <m:math><m:mn>3</m:mn></m:math> bags.</para>
+<media id="fs-id2353237" alt="An image of 3 bags of cookies, each bag containing 4 cookies.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_042.jpg"/>
+</media>
+<para id="fs-id1792383">In other words, starting with the <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> cookies, you would take away, or subtract, <m:math><m:mn>4</m:mn></m:math> cookies at a time. Division is a way to represent repeated subtraction just as multiplication represents repeated addition.</para>
+<para id="fs-id2310660">Instead of subtracting <m:math><m:mn>4</m:mn></m:math> repeatedly, we can write</para>
+<equation id="fs-id1395694" class="unnumbered"><label/><m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math></equation>
+<para id="fs-id2221649">We read this as <emphasis effect="italics">twelve divided by four</emphasis> and the result is the <term>quotient</term> of <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math> The quotient is <m:math><m:mn>3</m:mn></m:math> because we can subtract <m:math><m:mn>4</m:mn></m:math> from <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> exactly <m:math><m:mn>3</m:mn></m:math> times. We call the number being divided the <term>dividend</term> and the number dividing it the <term>divisor</term>. In this case, the dividend is <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> and the divisor is <m:math><m:mrow><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id2133242">In the past you may have used the notation <m:math><m:mrow><m:mn>4</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>12</m:mn></m:mrow></m:menclose><m:mo>,</m:mo></m:mrow></m:math> but this division also can be written as <m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mn>12</m:mn><m:mtext>/</m:mtext><m:mn>4</m:mn><m:mo>,</m:mo><m:mfrac><m:mrow><m:mn>12</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> In each case the <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> is the dividend and the <m:math><m:mn>4</m:mn></m:math> is the divisor.</para>
+<note id="fs-id1381461">
+<title>Operation Symbols for Division</title>
+<para id="fs-id1510263">To represent and describe division, we can use symbols and words.</para>
+<media id="fs-id2466235" alt="An image of a table showing the “Operation” is Division. There a 3 “notations” of Division: the division symbol, the fraction bar, and the division bar. There are 3 expressions of division: 12 divided by 4 with the division symbol, 12 over 4 with the fraction bar, and 4 divided into 12 with the division bar. It is “Read as” twelve divided by 4. The “Result” is “the quotient of 12 and 4”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_002_img.jpg"/>
+</media>
+<para id="fs-id1171104071823"><newline/></para>
+</note>
+</section>
+<section id="fs-id1861858">
+<title>Divide Whole Numbers</title>
+<para id="fs-id1225369">We said that addition and subtraction are inverse operations because one undoes the other. Similarly, division is the inverse operation of multiplication. We know <m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> because <m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>12</m:mn><m:mo>.</m:mo></m:mrow></m:math> Knowing all the multiplication number facts is very important when doing division.</para>
+<para id="fs-id1279045">We check our answer to division by multiplying the quotient by the divisor to determine if it equals the dividend. In <link target-id="fs-id1918047"/>, we know <m:math><m:mrow><m:mn>24</m:mn><m:mo>÷</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> is correct because <m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>24</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<example id="fs-id1258127"><exercise id="fs-id1512149">
+<problem id="fs-id2214838">
+<para id="fs-id1373672">Divide. Then check by multiplying. <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>42</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>72</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>63</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2287905">
+<para id="fs-id1512161">(a)<newline/>
+<m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>42</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Divide 42 by 6.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>6</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>42</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id1177693">(b)<newline/>
+<m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>72</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Divide 72 by 9.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>8</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>9</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>72</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id1470768">(c)<newline/>
+<m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>63</m:mn></m:mrow></m:menclose></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Divide 63 by 7.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>9</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>9</m:mn><m:mo>·</m:mo><m:mn>7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>63</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example><note id="fs-id1960047" class="try">
+<exercise id="fs-id1614042">
+<problem id="fs-id4160856">
+<para id="fs-id2204458">Divide. Then check by multiplying:</para>
+<para id="fs-id4876861"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>54</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1607894">
+<para id="fs-id2477924">(a) 9 (b) 3</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2199415" class="try">
+<exercise id="fs-id1582307">
+<problem id="fs-id1777516">
+<para id="fs-id3219784">Divide. Then check by multiplying:</para>
+<para id="fs-id2323218"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>36</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>40</m:mn></m:mrow></m:menclose></m:mrow></m:math></para></problem>
+<solution id="fs-id2224558">
+<para id="fs-id2817393">(a) 4 (b) 5</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2202156">What is the quotient when you divide a number by itself?</para>
+<equation id="fs-id2333898" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>because</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>15</m:mn><m:mo>=</m:mo><m:mn>15</m:mn></m:mrow></m:math></equation>
+<para id="fs-id2555680">Dividing any number <m:math><m:mrow><m:mtext>(except 0)</m:mtext></m:mrow></m:math> by itself produces a quotient of <m:math><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math> Also, any number divided by <m:math><m:mn>1</m:mn></m:math> produces a quotient of the number. These two ideas are stated in the <term>Division Properties of One</term>.</para>
+<note id="fs-id1774822">
+<title>Division Properties of One</title>
+<para id="fs-id1714502"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Any number (except 0) divided by itself is one.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mi>a</m:mi><m:mo>÷</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Any number divided by one is the same number.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mi>a</m:mi><m:mo>÷</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</note>
+<example id="fs-id1893326">
+<exercise id="fs-id2418744">
+<problem id="fs-id1568881">
+<para id="fs-id2375144">Divide. Then check by multiplying:</para>
+<para id="fs-id2200621"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>11</m:mn><m:mo>÷</m:mo><m:mn>11</m:mn></m:mrow></m:math></para>
+<para id="fs-id1799512"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>19</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></para>
+<para id="fs-id1918941"><m:math><m:mrow><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:menclose notation="longdiv"><m:mn>7</m:mn></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1851628">
+<title>Solution</title>
+<para id="fs-id1544187"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>(a)</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>11</m:mn><m:mo>÷</m:mo><m:mn>11</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>A number divided by itself is 1.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>11</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>11</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>(b)</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>19</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>A number divided by 1 equals itself.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>19</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>19</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>19</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>(c)</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1</m:mn><m:menclose notation="longdiv"><m:mn>7</m:mn></m:menclose></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>A number divided by 1 equals itself.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1409826" class="try">
+<exercise id="fs-id1881615">
+<problem id="fs-id1746950">
+<para id="fs-id1842669">Divide. Then check by multiplying:</para>
+<para id="fs-id2140926"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>14</m:mn><m:mo>÷</m:mo><m:mn>14</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2325887">
+<para id="fs-id2704059">(a) 1 (b) 27</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2835516" class="try">
+<exercise id="fs-id2149691">
+<problem id="fs-id1285554">
+<para id="fs-id2379661">Divide. Then check by multiplying:</para>
+<para id="fs-id2607122"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>16</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:menclose notation="longdiv"><m:mn>4</m:mn></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2486533">
+<para id="fs-id783103">(a) 16 (b) 4</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1508917">Suppose we have <m:math><m:mrow><m:mtext>$0</m:mtext><m:mo>,</m:mo></m:mrow></m:math> and want to divide it among <m:math><m:mn>3</m:mn></m:math> people. How much would each person get? Each person would get <m:math><m:mrow><m:mtext>$0</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Zero divided by any number is <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1595186">Now suppose that we want to divide <m:math><m:mrow><m:mtext>$1</m:mtext><m:mn>0</m:mn></m:mrow></m:math> by <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math> That means we would want to find a number that we multiply by <m:math><m:mn>0</m:mn></m:math> to get <m:math><m:mrow><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math> This cannot happen because <m:math><m:mn>0</m:mn></m:math> times any number is <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math> Division by zero is said to be <emphasis effect="italics">undefined</emphasis>.</para>
+<para id="fs-id2684817">These two ideas make up the <term>Division Properties of Zero</term>.</para>
+<note id="fs-id2291485">
+<title>Division Properties of Zero</title>
+<para id="fs-id1516969"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Zero divided by any number is 0.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn><m:mo>÷</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Dividing a number by zero is undefined.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mi>a</m:mi><m:mo>÷</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>undefined</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</note>
+<para id="fs-id2751522">Another way to explain why division by zero is undefined is to remember that division is really repeated subtraction. How many times can we take away <m:math><m:mn>0</m:mn></m:math> from <m:math><m:mrow><m:mn>10</m:mn><m:mo>?</m:mo></m:mrow></m:math> Because subtracting <m:math><m:mn>0</m:mn></m:math> will never change the total, we will never get an answer. So we cannot divide a number by <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<example id="fs-id2626690"><exercise id="fs-id1361945">
+<problem id="fs-id1549268">
+<para id="fs-id1318625">Divide. Check by multiplying: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>10</m:mn><m:mo stretchy="false">/</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id3265010">
+<para id="fs-id2291492"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>(a)</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Zero divided by any number is zero.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>(b)</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>10</m:mn><m:mo stretchy="false">/</m:mo><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Division by zero is undefined.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>undefined</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example><para id="fs-id2384199">When the divisor or the dividend has more than one digit, it is usually easier to use the <m:math><m:mrow><m:mn>4</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>12</m:mn></m:mrow></m:menclose></m:mrow></m:math> notation. This process is called long division. Let’s work through the process by dividing <m:math><m:mrow><m:mn>78</m:mn></m:mrow></m:math> by <m:math><m:mrow><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<media id="fs-id1798454" alt="This image has 2 columns. the left column contains instructions and the right column contains expressions. The exercises being worked out is 78 divided by 3. The first line reads: Divide the first digit of dividend 7, by the divisor, 3. The next line reads: the divisor 3 can go into 7 two times since 2 times 3 equals 6. Write the 2 above the 7 in the quotient. Next to this shows the expression 3 divided by 78, with the two above the seven in the quotient. The next line reads “multiply the 2 in the quotient by 3 and write the product, 6 under the 7”. The expression now shows the 6 under the seven. the next line reads “subtract that product from the first digit in the dividend. Subtract 7 minus 6. Write the difference,1, under the first digit in the dividend”. The expression now shows the 6 subtracted from the 7 and the difference of 1. The next line says to bring sown the next digit of the dividend. Bring down the 8. The expression now shows the 8 brought down next to the 1. In the next line, it says to divide 18 by the divisor, 3. The divisor 3 goes into 18 six times. Write 6 in the quotient above the 8. The expression shows the quotient 6 above the 8. Finally, it says to multiply the 6 in the quotient by the divisor and write the product, 18 under the dividend. Subtract 18 from 18. The expression shows 18 minus 18 in long division which equals zero.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_043_img.jpg"/>
+</media>
+<para id="fs-id2168392">We would repeat the process until there are no more digits in the dividend to bring down. In this problem, there are no more digits to bring down, so the division is finished.</para>
+<equation id="fs-id1372054" class="unnumbered"><label/><m:math><m:mrow><m:mtext>So</m:mtext><m:mspace width="0.2em"/><m:mn>78</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>26</m:mn><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-id1894799">Check by multiplying the quotient times the divisor to get the dividend. Multiply <m:math><m:mrow><m:mn>26</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn></m:mrow></m:math> to make sure that product equals the dividend, <m:math><m:mrow><m:mn>78</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<equation id="fs-id2611413" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mover><m:mn>2</m:mn><m:mn mathsize="small">1</m:mn></m:mover><m:mn>6</m:mn><m:mspace width="1.3em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder><m:mspace width="1.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>78</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id2261231">It does, so our answer is correct.</para>
+<note id="fs-id1969382" class="howto">
+<para id="fs-id2375201"><emphasis effect="bold">Divide whole numbers.</emphasis></para>
+<para id="fs-id2787629">Step 1. Divide the first digit of the dividend by the divisor.</para>
+<list id="fs-id1199672" list-type="bulleted" bullet-style="bulleted">
+<item>If the divisor is larger than the first digit of the dividend, divide the first two digits of the dividend by the divisor, and so on.</item>
+</list>
+<para id="fs-id2392242">Step 2. Write the quotient above the dividend.</para>
+<para id="fs-id1731696">Step 3. Multiply the quotient by the divisor and write the product under the dividend.</para>
+<para id="fs-id2587608">Step 4. Subtract that product from the dividend.</para>
+<para id="fs-id1548632">Step 5. Bring down the next digit of the dividend.</para>
+<para id="fs-id1753417">Step 6. Repeat from Step 1 until there are no more digits in the dividend to bring down.</para>
+<para id="fs-id2265134">Step 7. Check by multiplying the quotient times the divisor.</para>
+</note>
+<example id="fs-id2817427"><exercise id="fs-id1231874">
+<problem id="fs-id3217661">
+<para id="fs-id2146634">Divide <m:math><m:mrow><m:mn>2,596</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math> Check by multiplying:</para>
+</problem>
+<solution id="fs-id3408306">
+<para id="fs-id1314602"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext/><m:mspace width="0.2em"/><m:mn>2,596</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>649</m:mn><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para><para id="fs-id2306133"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.5em"/><m:mover><m:mn>6</m:mn><m:mn mathsize="small">1</m:mn></m:mover><m:mover><m:mn>4</m:mn><m:mn mathsize="small">3</m:mn></m:mover><m:mn>9</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.3em"/><m:mn>4</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>2,596</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id3294278">It equals the dividend, so our answer is correct.</para>
+</solution>
+</exercise>
+</example><note id="fs-id1404611" class="try">
+<exercise id="fs-id2384443">
+<problem id="fs-id1484877">
+<para id="fs-id2211329">Divide. Then check by multiplying:</para>
+<para id="fs-id1500138"><m:math><m:mrow><m:mn>2,636</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2483342">
+<para id="fs-id1726776">659</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1944668" class="try">
+<exercise id="fs-id2478020">
+<problem id="fs-id1549430">
+<para id="fs-id2594077">Divide. Then check by multiplying:</para>
+<para id="fs-id1269366"><m:math><m:mrow><m:mn>2,716</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2906276">
+<para id="fs-id1334834">679</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id2466254"><exercise id="fs-id2877048">
+<problem id="fs-id2138930">
+<para id="fs-id2833202">Divide <m:math><m:mrow><m:mn>4,506</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn><m:mo>.</m:mo></m:mrow></m:math> Check by multiplying:</para>
+</problem>
+<solution id="fs-id2319448">
+<para id="fs-id1777111"><m:math><m:mrow><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mspace width="23.5em"/><m:mn>6</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>4,506</m:mn></m:mrow></m:menclose></m:mtd></m:mtr></m:mtable></m:mrow></m:math><newline/>
+<media id="fs-id1966376" alt="This image shows how 4,506 divided by six is worked out in long division. The first line reads first we try to divide 6 into 4. Since that won't work, we try 6 into 45. There are 7 sixes in 45. We write the 7 over the 5. The expression shows the 7 above the 5 in the quotient. Multiply the 7 by the 6 and subtract the product from 45. The expression shows in long division, 45 minus 42, equals 3. The next line reads “now bring down the 0 and repeat these steps. There are 5 sixes in 30. Write the 5 over the 0. Multiply the 5 by 6 and subtract this product from 30.” The expression shows, in long division, the 0 brought down and placed next to the 3, the 5 placed above the zero. The next line reads “now bring down the 6 and repeat these steps. there is 1 six in 6. Write the 1 over the 6. Multiply the 1 by 6 and subtract the product from 6. The expression now shows all long division and the answer as 751.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_045_img.jpg"/>
+</media></para>
+<para id="fs-id1885781"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.5em"/><m:mover><m:mn>7</m:mn><m:mn mathsize="small">3</m:mn></m:mover><m:mn>5</m:mn><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mn>6</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>4,506</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-id1335804">It equals the dividend, so our answer is correct.</para>
+</solution>
+</exercise>
+</example><note id="fs-id2310582" class="try">
+<exercise id="fs-id1416056">
+<problem id="fs-id1567055">
+<para id="fs-id2265063">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>4,305</m:mn><m:mo>÷</m:mo><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2628089">
+<para id="fs-id2626244">861</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1396859" class="try">
+<exercise id="fs-id2626768">
+<problem id="fs-id2278419">
+<para id="fs-id2658322">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>3,906</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1883300">
+<para id="fs-id2789133">651</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2485777" class="try">
+<exercise id="fs-id2276824">
+<problem id="fs-id2149662">
+<para id="fs-id1402295">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>4,928</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1602082">
+<para id="fs-id1885039">704</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1805524" class="try">
+<exercise id="fs-id1977427">
+<problem id="fs-id2370490">
+<para id="fs-id1726463">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>5,663</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2266310">
+<para id="fs-id2662674">809</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2263826">So far all the division problems have worked out evenly. For example, if we had <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> cookies and wanted to make bags of <m:math><m:mn>8</m:mn></m:math> cookies, we would have <m:math><m:mn>3</m:mn></m:math> bags. But what if there were <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> cookies and we wanted to make bags of <m:math><m:mrow><m:mn>8</m:mn><m:mo>?</m:mo></m:mrow></m:math> Start with the <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> cookies as shown in <link target-id="CNX_BMath_Figure_01_05_027"/>.</para>
+<figure id="CNX_BMath_Figure_01_05_027">
+<media id="fs-id2244431" alt="An image of 28 cookies placed at random.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_027.jpg"/>
+</media>
+</figure>
+<para id="fs-id1862338">Try to put the cookies in groups of eight as in <link target-id="CNX_BMath_Figure_01_05_028"/>.</para>
+<figure id="CNX_BMath_Figure_01_05_028">
+<media id="fs-id2590530" alt="An image of 28 cookies. There are 3 circles, each containing 8 cookies, leaving 3 cookies outside the circles.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_028.jpg"/>
+</media>
+</figure>
+<para id="fs-id2277086">There are <m:math><m:mn>3</m:mn></m:math> groups of eight cookies, and <m:math><m:mn>4</m:mn></m:math> cookies left over. We call the <m:math><m:mn>4</m:mn></m:math> cookies that are left over the remainder and show it by writing R4 next to the <m:math><m:mrow><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow></m:math> (The R stands for remainder.)</para>
+<para id="fs-id2657435">To check this division we multiply <m:math><m:mn>3</m:mn></m:math> times <m:math><m:mn>8</m:mn></m:math> to get <m:math><m:mrow><m:mn>24</m:mn><m:mo>,</m:mo></m:mrow></m:math> and then add the remainder of <m:math><m:mrow><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<equation id="fs-id1752438" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>3</m:mn><m:mspace width="0.25em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>24</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>28</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<example id="fs-id2597529">
+<exercise id="fs-id1572223">
+<problem id="fs-id764513">
+<para id="fs-id2198022">Divide <m:math><m:mrow><m:mn>1,439</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math> Check by multiplying.</para>
+</problem>
+<solution id="fs-id1509715">
+<title>Solution</title>
+<para id="fs-id1167904155886"><media id="fs-id2466728" alt="This image shows 1,439 divided by 4. The first line says to try to divide 4 into 1. Since this won't work, try 4 into 14. There are 3 fours in 14. Write the 3 over the 4. the expression shows the quotient 3 above the 4. Next, multiply the 3 by the 4 and subtract this product from 14. The expressions shows this in long division with the quotient 5 above the 3. The next line says to bring down the 3 and repeat these steps. There are 5 fours in 23. Write the 5 over the 3. Multiply the 5 by 4 and subtract the product from 23. The expression shows this in long division. The next line says to bring down the 9 and repeat these steps. There are 9 fours in 39. Write the 9 over the 9. Multiply the 9 by 4 and subtract the product from 39. There are no more numbers to bring down. There is a remainder of 3. The expression shows the answer of 359 remainder 3.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_047_img.jpg"/>
+</media></para>
+<para id="fs-id1167905143326"><newline/></para>
+<para id="fs-id1371034"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Check by multiplying.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.6em"/><m:mover><m:mn>3</m:mn><m:mn mathsize="small">2</m:mn></m:mover><m:mover><m:mn>5</m:mn><m:mn mathsize="small">2</m:mn></m:mover><m:mn>9</m:mn></m:mtd><m:mtd columnalign="left"><m:mtext>quotient</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.1em"/><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.4em"/><m:mn>4</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd><m:mtd columnalign="left"><m:mtext>divisor</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1,436</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mspace width="0.4em"/><m:mn>3</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd><m:mtd columnalign="left"><m:mtext>remainder</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1,439</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id1171103123439">So <m:math><m:mrow><m:mn>1,439</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math> is <m:math><m:mrow><m:mn>359</m:mn></m:mrow></m:math> with a remainder of <m:math><m:mrow><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow></m:math> Our answer is correct.</para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1525279" class="try">
+<exercise id="fs-id2264506">
+<problem id="fs-id1083728">
+<para id="fs-id2261808">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>3,812</m:mn><m:mo>÷</m:mo><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1308265">
+<para id="fs-id1717136">476 with a remainder of 4</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2668931" class="try">
+<exercise id="fs-id2298403">
+<problem id="fs-id2629377">
+<para id="fs-id1973597">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>4,319</m:mn><m:mo>÷</m:mo><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2278942">
+<para id="fs-id1378267">539 with a remainder of 7</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id2482169">
+<exercise id="fs-id1524226">
+<problem id="fs-id2279323">
+<para id="fs-id2601370">Divide and then check by multiplying: <m:math><m:mrow><m:mn>1,461</m:mn><m:mo>÷</m:mo><m:mn>13</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2758779">
+<title>Solution</title>
+<para id="fs-id1167905606423"><media id="fs-id2482043" alt="This image shows 1,461 divided by 13. The first line says First we try to divide 13 into 1. Since that won’t work, we try 13 into 14. There is 1 thirteen in 14. We write the 1 over the 4. Multiply the 1 by 13 and subtract this product from 14. The expression shows the quotient 1 above the 4, and 13 under 14 with the difference as 1. The next line says to bring down the 6 and repeat these steps. There is 1 thirteen in 16. Write the 1 over the 6. Multiply the 1 by 13 and subtract this product from 16. The expression shows the 6 in the dividend with a blue arrow pointing downward to show the 6 is brought down next to the 1. In long division, 16 minus 3 shows a difference of 3. Next it says, now bring down the 1 and repeat these steps. There are 2 thirteens in 31. Write the 2 over the 1. Multiply the 2 by 13 and subtract this product from 31. The expression shows in long division the 1 in the dividend with a blue arrow pointing downward  to show the one brought down to make 31. A 2 is placed above the 1 in the dividend. Thirty-one minus 26 is 5, but there are no more numbers to bring down, so we are done. The remainder is 5. The answer is 112 remainder 5.  The next line says to check by multiplying in which the expression shows 112 with the word “quotient” next to it multiplied vertically by 13 which has the word “divisor” next to it. The multiplication is worked out to show 336 plus 1,120 plus 5. Next t0 5 is the word “remainder” and the answers checks as 1,461.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_048_img.jpg"/>
+</media></para>
+<para id="fs-id2198033">Our answer is correct.</para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1752916" class="try">
+<exercise id="fs-id1467605">
+<problem id="fs-id2170186">
+<para id="fs-id1779042">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>1,493</m:mn><m:mo>÷</m:mo><m:mn>13</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2188706">
+<para id="fs-id2908889">114 R11</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2440063" class="try">
+<exercise id="fs-id1608732">
+<problem id="fs-id1131389">
+<para id="fs-id1378462">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>1,461</m:mn><m:mo>÷</m:mo><m:mn>12</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2199654">
+<para id="fs-id1781870">121 R9</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id2316210">
+<exercise id="fs-id1410272">
+<problem id="fs-id2300758">
+<para id="fs-id2219998">Divide and check by multiplying: <m:math><m:mrow><m:mn>74,521</m:mn><m:mo>÷</m:mo><m:mn>241</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1410391">
+<title>Solution</title>
+<para id="fs-id1167905224867"><media id="fs-id3399464" alt="This image shows 74,521 divided by 241. First we try to divide 241 into 7. Since that won’t work, we try 241 into 74. That still won’t work, so we try 241 into 745. Since 2 divides into 7 three times, we try 3. Since 3 times 241 equals 723, we write the 3 over the 5 in 745. The image shows the expression in long division with the quotient  3 above the 5. Next it says to bring down the 2 and repeat these steps. 241 does not divide into 222. Write a 0 over the 2 as a place holder and then continue. Note that 4 would be too large because 4 times  241 equals 964, which is greater than 745. Multiply the 3 by 241 and subtract this product from 745.  The image shows the expression in long division 745 minus 723, which is 22. Next, it says to bring down the 2 and repeat these steps. 241 does not divide into 222. Write a 0 over the 2 as a place holder and then continue. Next, it says to bring down the 1 and repeat these steps. Try 9 Since 9 times 241 equals 2,169, we write the 9 over the 1. Multiply the 9 by 241 and subtract this product from 2,221. The expression shows the one brought down and the subtraction of 2,221 minus 2,169 which gives the answer as 309 remainder 52. The image is checked through multiplication. The numbers 309 times 241are multiplied vertically. The expression is worked out to show that 74,3521 checks and the answer is correct.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_049.jpg"/>
+</media></para>
+<para id="fs-id2202222">Sometimes it might not be obvious how many times the divisor goes into digits of the dividend. We will have to guess and check numbers to find the greatest number that goes into the digits without exceeding them.</para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id3323649" class="try">
+<exercise id="fs-id2210847">
+<problem id="fs-id1407955">
+<para id="fs-id1936057">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>78,641</m:mn><m:mo>÷</m:mo><m:mn>256</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2140421">
+<para id="fs-id1826518">307 R49</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1893334" class="try">
+<exercise id="fs-id2265911">
+<problem id="fs-id1806283">
+<para id="fs-id2751262">Divide. Then check by multiplying: <m:math><m:mrow><m:mn>76,461</m:mn><m:mo>÷</m:mo><m:mn>248</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2170567">
+<para id="fs-id1334647">308 R77</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2594193">
+<title>Translate Word Phrases to Math Notation</title>
+<para id="fs-id1617036">Earlier in this section, we translated math notation for division into words. Now we’ll translate word phrases into math notation. Some of the words that indicate division are given in <link target-id="fs-id1619545"/>.</para>
+<table id="fs-id1619545" summary="A table with 4 columns and 3 rows. The first column is labeled “operation” and has the value “division”, which spans all rows. The second column is labeled “word phrase” with the values “divided by; quotient of; divided into”. The thirs column has the values “12 divided by 4; the quotient of 12 and 4; 4 divided into 12”. The fourth column is labeled “expression” and has 3 different representations of division - the division symbol, the fraction bar, and the division bar.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="left">Operation</entry>
+<entry align="left">Word Phrase</entry>
+<entry align="left">Example</entry>
+<entry align="left">Expression</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Division</entry>
+<entry valign="top" align="left">divided by<newline/>quotient of<newline/>divided into</entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> divided by <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math><newline/>the quotient of <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> divided into <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math><newline/><m:math><m:mrow><m:mrow><m:mrow><m:mn>12</m:mn></m:mrow><m:mtext>/</m:mtext><m:mn>4</m:mn></m:mrow></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>4</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>12</m:mn></m:mrow></m:menclose></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-id1524151">
+<exercise id="fs-id1618615">
+<problem id="fs-id1966312">
+<para id="fs-id4197970">Translate and simplify: the quotient of <m:math><m:mrow><m:mn>51</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>17</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1742734">
+<title>Solution</title>
+<para id="fs-id1339372">The word <emphasis effect="italics">quotient</emphasis> tells us to divide.</para>
+<para id="fs-id1884005"><m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the quotient of 51 and 17</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>51</m:mn><m:mo>÷</m:mo><m:mn>17</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Divide</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>3</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id2666259">We could just as correctly have translated <emphasis effect="italics">the quotient of</emphasis> <m:math><m:mrow><m:mstyle fontstyle="italic"><m:mn>51</m:mn></m:mstyle></m:mrow></m:math> <emphasis effect="italics">and</emphasis> <m:math><m:mrow><m:mstyle fontstyle="italic"><m:mn>17</m:mn></m:mstyle></m:mrow></m:math> using the notation</para>
+<para id="fs-id1152231"><m:math><m:mrow><m:mn>17</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>51</m:mn></m:mrow></m:menclose><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.4em"/><m:mfrac><m:mrow><m:mn>51</m:mn></m:mrow><m:mrow><m:mn>17</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2628016" class="try">
+<exercise id="fs-id1206671">
+<problem id="fs-id1632423">
+<para id="fs-id2495790">Translate and simplify: the quotient of <m:math><m:mrow><m:mn>91</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>13</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1949887">
+<para id="fs-id1545340">91 ÷ 13; 7</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2369356" class="try">
+<exercise id="fs-id1949025">
+<problem id="fs-id1825984">
+<para id="fs-id2785940">Translate and simplify: the quotient of <m:math><m:mrow><m:mn>52</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>13</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1985350">
+<para id="fs-id1401653">52 ÷ 13; 4</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2472595">
+<title>Divide Whole Numbers in Applications</title>
+<para id="fs-id1467564">We will use the same strategy we used in previous sections to solve applications. First, we determine what we are looking for. Then we write a phrase that gives the information to find it. We then translate the phrase into math notation and simplify it to get the answer. Finally, we write a sentence to answer the question.</para>
+<example id="fs-id1567366"><exercise id="fs-id1519296">
+<problem id="fs-id2295539">
+<para id="fs-id1577532">Cecelia bought a <m:math><m:mrow><m:mtext>160-ounce</m:mtext></m:mrow></m:math> box of oatmeal at the big box store. She wants to divide the <m:math><m:mrow><m:mn>160</m:mn></m:mrow></m:math> ounces of oatmeal into <m:math><m:mtext>8-ounce</m:mtext></m:math> servings. She will put each serving into a plastic bag so she can take one bag to work each day. How many servings will she get from the big box?</para>
+</problem>
+<solution id="fs-id1607610">
+<para id="fs-id2212160">We are asked to find the how many servings she will get from the big box.</para>
+<para id="fs-id1913720"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>160 ounces divided by 8 ounces</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>160</m:mn><m:mo>÷</m:mo><m:mn>8</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Simplify by dividing.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>20</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Cecelia will get 20 servings from the big</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>box.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example><note id="fs-id1370911" class="try">
+<exercise id="fs-id2830290">
+<problem id="fs-id1207426">
+<para id="fs-id2326546">Marcus is setting out animal crackers for snacks at the preschool. He wants to put <m:math><m:mn>9</m:mn></m:math> crackers in each cup. One box of animal crackers contains <m:math><m:mrow><m:mn>135</m:mn></m:mrow></m:math> crackers. How many cups can he fill from one box of crackers?</para>
+</problem>
+<solution id="fs-id1742151">
+<para id="fs-id1166760921748">Marcus can fill 15 cups.</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1357991" class="try">
+<exercise id="fs-id1738974">
+<problem id="fs-id2369899">
+<para id="fs-id1542119">Andrea is making bows for the girls in her dance class to wear at the recital. Each bow takes <m:math><m:mn>4</m:mn></m:math> feet of ribbon, and <m:math><m:mrow><m:mn>36</m:mn></m:mrow></m:math> feet of ribbon are on one spool. How many bows can Andrea make from one spool of ribbon?</para>
+</problem>
+<solution id="fs-id1602316">
+<para id="fs-id1396569">Andrea can make 9 bows.</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2325853">We encourage you to go to <link class="target-chapter" document="m56269">Appendix B</link> to complete the Self Check for this section.</para>
+<note id="fs-id1762336" class="media-2">
+<para id="fs-id2757019">Access these online resources for additional instruction and practice with dividing whole numbers.</para>
+<list id="fs-id1334503" display="block">
+<item><link url="http://www.openstaxcollege.org/l/24divwhlnum">Dividing Whole Numbers</link></item>
+<item><link url="http://www.openstaxcollege.org/l/24divnumnorem">Dividing Whole Numbers No Remainder</link></item>
+<item><link url="http://www.openstaxcollege.org/l/24divnumwrem">Dividing Whole Numbers With Remainder</link></item>
+</list>
+</note>
+</section>
+<section id="fs-id1334797" class="key-concepts">
+<title>Key Concepts</title>
+<list id="fs-id2669309" list-type="bulleted" bullet-style="bullet">
+<item>Division and multiplication are inverse operations so the result of a division problem can be checked by multiplying the divisor by the dividend. See <link target-id="fs-id2666153"/>.</item>
+<item>The Division Properties of One state that any number <m:math><m:mrow><m:mtext>(except 0)</m:mtext></m:mrow></m:math> divided by itself is one and any number divided by one is the same number. See <link target-id="fs-id1893326"/>.</item>
+<item>The Division Properties of Zero state that zero divided by any number is <m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math> and dividing a number by zero is undefined. See <link target-id="fs-id2626690"/>.</item>
+<item>Long division can be used to divide large numbers. See <link target-id="fs-id2817427"/>.</item>
+<item>Dividing by a divisor that does not go evenly into the dividend results in a remainder. See <link target-id="fs-id2597529"/>.</item>
+<item>Just as math notation can be translated into words, word phrases can be translated into math notation. Key words and phrases that indicate division are <emphasis effect="italics">divided by, quotient of, total</emphasis>, and <emphasis effect="italics">divided into</emphasis>. See <link target-id="fs-id1524151"/>.</item>
+<item>Applications involving the division of whole numbers requires identifying the problem, writing a phrase, translating to math notation, and then dividing. See <link target-id="fs-id1567366"/>.</item>
+</list>
+</section>
+<section id="fs-id2220943" class="section-exercises">
+<section id="fs-id2261764">
+<title>Practice Makes Perfect</title>
+<para id="fs-id2170404"><emphasis effect="bold">Divide Whole Numbers</emphasis> For the following exercises, divide. Then check by multiplying.</para>
+<exercise id="fs-id2327170">
+<problem id="fs-id2679985">
+<para id="fs-id2384292"><m:math><m:mrow><m:mn>18</m:mn><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1920319">
+<para id="fs-id2265478">9</para>
+</solution>
+</exercise>
+<exercise id="fs-id1160089">
+<problem id="fs-id1728211">
+<para id="fs-id1728213"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>27</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1525662">
+<para id="fs-id1988085">9</para>
+</solution>
+</exercise>
+<exercise id="fs-id1742258">
+<problem id="fs-id1742260">
+<para id="fs-id2214052"><m:math><m:mrow><m:mn>4</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>28</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2645602">
+<para id="fs-id1458363">7</para>
+</solution>
+</exercise>
+<exercise id="fs-id2368364">
+<problem id="fs-id1566157">
+<para id="fs-id1566160"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>45</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2447094">
+<para id="fs-id2296788">9</para>
+</solution>
+</exercise>
+<exercise id="fs-id1376254">
+<problem id="fs-id1376256">
+<para id="fs-id1561025"><m:math><m:mrow><m:mn>72</m:mn><m:mo stretchy="false">/</m:mo><m:mn>8</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1397773">
+<para id="fs-id1397776">9</para>
+</solution>
+</exercise>
+<exercise id="fs-id2279396">
+<problem id="fs-id2279399">
+<para id="fs-id1386935"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>35</m:mn></m:mrow><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1949251">
+<para id="fs-id1949253">5</para>
+</solution>
+</exercise>
+<exercise id="fs-id1373800">
+<problem id="fs-id3414969">
+<para id="fs-id1920988"><m:math><m:mrow><m:mn>15</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>15</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2201467">
+<para id="fs-id2201469">1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1256898">
+<problem id="fs-id1256900">
+<para id="fs-id2331007"><m:math><m:mrow><m:mn>43</m:mn><m:mo>÷</m:mo><m:mn>43</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4280480">
+<para id="fs-id4280482">1</para>
+</solution>
+</exercise>
+<exercise id="fs-id3202674">
+<problem id="fs-id2205850">
+<para id="fs-id1221583"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>23</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1479731">
+<para id="fs-id1891592">23</para>
+</solution>
+</exercise>
+<exercise id="fs-id2472749">
+<problem id="fs-id3016690">
+<para id="fs-id3016693"><m:math><m:mrow><m:mn>19</m:mn><m:mo>÷</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2307877">
+<para id="fs-id1328092">19</para>
+</solution>
+</exercise>
+<exercise id="fs-id2749202">
+<problem id="fs-id2749204">
+<para id="fs-id1804529"><m:math><m:mrow><m:mn>0</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2710688">
+<para id="fs-id2710690">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id1827458">
+<problem id="fs-id1859724">
+<para id="fs-id1511137"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1755123">
+<para id="fs-id2587343">undefined</para>
+</solution>
+</exercise>
+<exercise id="fs-id2794582">
+<problem id="fs-id1363278">
+<para id="fs-id2495950"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>26</m:mn></m:mrow><m:mn>0</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1394702">
+<para id="fs-id1812670">undefined</para>
+</solution>
+</exercise>
+<exercise id="fs-id1892014">
+<problem id="fs-id2419066">
+<para id="fs-id2419068"><m:math><m:mrow><m:mn>12</m:mn><m:menclose notation="longdiv"><m:mn>0</m:mn></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2454143">
+<para id="fs-id1360720">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id1512456">
+<problem id="fs-id1512458">
+<para id="fs-id1511290"><m:math><m:mrow><m:mn>72</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1741528">
+<para id="fs-id1741530">24</para>
+</solution>
+</exercise>
+<exercise id="fs-id2375254">
+<problem id="fs-id2202216">
+<para id="fs-id2939632"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>96</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1279965">
+<para id="fs-id818021">12</para>
+</solution>
+</exercise>
+<exercise id="fs-id1160058">
+<problem id="fs-id2140315">
+<para id="fs-id2140317"><m:math><m:mrow><m:mn>5</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>465</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4214285">
+<para id="fs-id1783943">93</para>
+</solution>
+</exercise>
+<exercise id="fs-id1383594">
+<problem id="fs-id1465033">
+<para id="fs-id2719163"><m:math><m:mrow><m:mn>924</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2472201">
+<para id="fs-id1406630">132</para>
+</solution>
+</exercise>
+<exercise id="fs-id2754185">
+<problem id="fs-id2129743">
+<para id="fs-id2129745"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5,226</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2862262">
+<para id="fs-id1470504">871</para>
+</solution>
+</exercise>
+<exercise id="fs-id2690909">
+<problem id="fs-id2690911">
+<para id="fs-id1518946"><m:math><m:mrow><m:mn>4</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>31,324</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2257637">
+<para id="fs-id2208898">7,831</para>
+</solution>
+</exercise>
+<exercise id="fs-id2669485">
+<problem id="fs-id3407418">
+<para id="fs-id3407420"><m:math><m:mrow><m:mn>7,209</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1496085">
+<para id="fs-id2266393">2,403</para>
+</solution>
+</exercise>
+<exercise id="fs-id1225644">
+<problem id="fs-id1225646">
+<para id="fs-id1215317"><m:math><m:mrow><m:mn>5,406</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1618180">
+<para id="fs-id1618182">901</para>
+</solution>
+</exercise>
+<exercise id="fs-id1804471">
+<problem id="fs-id1499660">
+<para id="fs-id4228044"><m:math><m:mrow><m:mn>4</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>2,816</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1619645">
+<para id="fs-id1619647">704</para>
+</solution>
+</exercise>
+<exercise id="fs-id2758284">
+<problem id="fs-id2758286">
+<para id="fs-id2171412"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>91,881</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1571415">
+<para id="fs-id1571417">10,209</para>
+</solution>
+</exercise>
+<exercise id="fs-id2149825">
+<problem id="fs-id1966439">
+<para id="fs-id2707996"><m:math><m:mrow><m:mn>2,470</m:mn><m:mo>÷</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2443087">
+<para id="fs-id2993341">352 R6</para>
+</solution>
+</exercise>
+<exercise id="fs-id1798590">
+<problem id="fs-id1500224">
+<para id="fs-id1500226"><m:math><m:mrow><m:mn>8</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>55,305</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2215136">
+<para id="fs-id1786044">6,913 R1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1355232">
+<problem id="fs-id1384049">
+<para id="fs-id1787898"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>431,174</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1483205">
+<para id="fs-id2577536">86,234 R4</para>
+</solution>
+</exercise>
+<exercise id="fs-id2660744">
+<problem id="fs-id1384246">
+<para id="fs-id1384248"><m:math><m:mrow><m:mn>130,016</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1933134">
+<para id="fs-id1933136">43,338 R2</para>
+</solution>
+</exercise>
+<exercise id="fs-id1962483">
+<problem id="fs-id1962486">
+<para id="fs-id1717347"><m:math><m:mrow><m:mn>15</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>5,735</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1463489">
+<para id="fs-id1463491">382 R5</para>
+</solution>
+</exercise>
+<exercise id="fs-id2149511">
+<problem id="fs-id2149513">
+<para id="fs-id1800092"><m:math><m:mrow><m:mn>56,883</m:mn><m:mo>÷</m:mo><m:mn>67</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2202518">
+<para id="fs-id1499752">849</para>
+</solution>
+</exercise>
+<exercise id="fs-id2256318">
+<problem id="fs-id2485578">
+<para id="fs-id2485580"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>30,144</m:mn></m:mrow><m:mrow><m:mn>314</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2199607">
+<para id="fs-id2256298">96</para>
+</solution>
+</exercise>
+<exercise id="fs-id2262205">
+<problem id="fs-id2262208">
+<para id="fs-id1693460"><m:math><m:mrow><m:mn>273</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>542,195</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2470978">
+<para id="fs-id2470980">1,986 R17</para>
+</solution>
+</exercise>
+<para id="fs-id2319233"><emphasis effect="bold">Mixed Practice</emphasis> For the following exercises, simplify.</para>
+<exercise id="fs-id1782151">
+<problem id="fs-id1183464">
+<para id="fs-id1183466"><m:math><m:mrow><m:mn>15</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>204</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id969459">
+<para id="fs-id969461">3,060</para>
+</solution>
+</exercise>
+<exercise id="fs-id2294065">
+<problem id="fs-id2294067">
+<para id="fs-id2925971"><m:math><m:mrow><m:mn>256</m:mn><m:mo>−</m:mo><m:mn>184</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2425813">
+<para id="fs-id1714396">72</para>
+</solution>
+</exercise>
+<exercise id="fs-id2137806">
+<problem id="fs-id2139119">
+<para id="fs-id2139121"><m:math><m:mrow><m:mn>719</m:mn><m:mo>+</m:mo><m:mn>341</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1523870">
+<para id="fs-id1523872">1,060</para>
+</solution>
+</exercise>
+<exercise id="fs-id2206699">
+<problem id="fs-id2206701">
+<para id="fs-id1754689"><m:math><m:mrow><m:mn>25</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>875</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1782522">
+<para id="fs-id1782524">35</para>
+</solution>
+</exercise>
+<para id="fs-id2145516"><emphasis effect="bold">Translate Word Phrases to Algebraic Expressions</emphasis> For the following exercises, translate and simplify.</para>
+<exercise id="fs-id2942820">
+<problem id="fs-id2942823">
+<para id="fs-id2196602">the quotient of <m:math><m:mrow><m:mn>45</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1265359">
+<para id="fs-id1929341">45 ÷ 15; 3</para>
+</solution>
+</exercise>
+<exercise id="fs-id1859960">
+<problem id="fs-id2425022">
+<para id="fs-id2425024">the quotient of <m:math><m:mrow><m:mn>288</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2168226">
+<para id="fs-id2168228">288 ÷ 24; 12</para>
+</solution>
+</exercise>
+<para id="fs-id2669579"><emphasis effect="bold">Divide Whole Numbers in Applications</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id2266431">
+<problem id="fs-id2376736">
+<para id="fs-id2376739"><emphasis effect="bold">Trail mix</emphasis> Ric bought <m:math><m:mrow><m:mn>64</m:mn></m:mrow></m:math> ounces of trail mix. He wants to divide it into small bags, with <m:math><m:mn>2</m:mn></m:math> ounces of trail mix in each bag. How many bags can Ric fill?</para>
+</problem>
+<solution id="fs-id1885508">
+<para id="fs-id2898531">Ric can fill 32 bags.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2189920">
+<problem id="fs-id2261511">
+<para id="fs-id2261513">There are <m:math><m:mrow><m:mn>125</m:mn></m:mrow></m:math> students in an astronomy class. The professor assigns them into groups of <m:math><m:mrow><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math> How many groups of students are there?</para></problem>
+<solution id="fs-id1842715">
+<para id="fs-id4428663">There are 25 groups.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1347502">
+<problem id="fs-id2301221">
+<para id="fs-id2301223">One roll of plastic wrap is <m:math><m:mrow><m:mn>48</m:mn></m:mrow></m:math> feet long. Marta uses <m:math><m:mn>3</m:mn></m:math> feet of plastic wrap to wrap each cake she bakes. How many cakes can she wrap from one roll?</para></problem>
+<solution id="fs-id2710662">
+<para id="fs-id1270170">Marta can wrap 16 cakes from 1 roll.</para>
+</solution>
+</exercise>
+<para id="fs-id1563615"><emphasis effect="bold">Mixed Practice</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id2993531">
+<problem id="fs-id2993534">
+<para id="fs-id2161055">Susana’s hybrid car gets <m:math><m:mrow><m:mn>45</m:mn></m:mrow></m:math> miles per gallon. Her son’s truck gets <m:math><m:mrow><m:mn>17</m:mn></m:mrow></m:math> miles per gallon. What is the difference in miles per gallon between Jane’s car and her son’s truck?</para></problem>
+<solution id="fs-id1371560">
+<para id="fs-id2434568">The difference is 28 miles per gallon.</para>
+</solution>
+</exercise>
+<exercise id="fs-id3366641">
+<problem id="fs-id1225749">
+<para id="fs-id1225752">The <m:math><m:mrow><m:mn>45</m:mn></m:mrow></m:math> students in a Geology class will go on a field trip, using the college’s vans. Each van can hold <m:math><m:mn>9</m:mn></m:math> students. How many vans will they need for the field trip?</para></problem>
+<solution id="fs-id1472224">
+<para id="fs-id1472226">They will need 5 vans for the field trip</para>
+</solution>
+</exercise>
+<exercise id="fs-id1258137">
+<problem id="fs-id1258140">
+<para id="fs-id1159958">Bill hiked <m:math><m:mn>8</m:mn></m:math> miles on the first day of his backpacking trip, <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> miles the second day, <m:math><m:mrow><m:mn>11</m:mn></m:mrow></m:math> miles the third day, and <m:math><m:mrow><m:mn>17</m:mn></m:mrow></m:math> miles the fourth day. What is the total number of miles Bill hiked?</para></problem>
+<solution id="fs-id2299826">
+<para id="fs-id2190356">Bill hiked 50 miles</para>
+</solution>
+</exercise>
+<exercise id="fs-id998947">
+<problem id="fs-id2375960">
+<para id="fs-id2375962">LaVonne treats <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> patients each day in her dental office. Last week she worked <m:math><m:mn>4</m:mn></m:math> days. How many patients did she treat last week?</para></problem>
+<solution id="fs-id3014324">
+<para id="fs-id2486109">LaVonne treated 48 patients last week.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1562530">
+<title>Everyday Math</title>
+<exercise id="fs-id1378198">
+<problem id="fs-id1378200">
+<para id="fs-id2775055"><emphasis effect="bold">Contact lenses</emphasis> Jenna puts in a new pair of contact lenses every <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> days. How many pairs of contact lenses does she need for <m:math><m:mrow><m:mn>365</m:mn></m:mrow></m:math> days?</para>
+</problem>
+<solution id="fs-id2296303">
+<para id="fs-id2296305">Jenna uses 26 pairs of contact lenses, but there is 1 day left over, so she needs 27 pairs for 365 days.</para>
+</solution>
+</exercise>
+</section>
+</section>
+<section id="fs-id2146627" class="review-exercises">
+<title>Chapter 1 Review Exercises</title><section id="fs-id2266415">
+<title><link class="target-chapter" document="m52990">Introduction to Whole Numbers</link></title>
+<para id="fs-id2443402"><emphasis effect="bold">Identify Counting Numbers and Whole Numbers</emphasis> For the following exercises, determine which of the following are (a) counting numbers (b) whole numbers.</para>
+<exercise id="fs-id1933145">
+<problem id="fs-id1933147">
+<para id="fs-id3013673"><m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>99</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1632904">
+<para id="fs-id1632906">(a) 2, 99 (b) 0, 2, 99</para>
+</solution>
+</exercise>
+<para id="fs-id2452573"><emphasis effect="bold">Identify the Place Value of a Digit</emphasis> For the following exercises, find the place value of the given digits.</para>
+<exercise id="fs-id1882705">
+<problem id="fs-id3228482">
+<para id="fs-id3228484"><m:math><m:mrow><m:mn>472,981</m:mn></m:mrow></m:math></para>
+<para id="fs-id1547705"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math></para>
+<para id="fs-id2431904"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn></m:mrow></m:math></para>
+<para id="fs-id2369551"><m:math><m:mrow><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn></m:mrow></m:math></para>
+<para id="fs-id2565042"><m:math><m:mrow><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn></m:mrow></m:math></para>
+<para id="fs-id1823617"><m:math><m:mrow><m:mtext>(e)</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1611191">
+<para id="fs-id1611193">(a) tens (b) hundred thousands (c) ones (d) thousands (e) ten thousands</para>
+</solution>
+</exercise>
+<para id="fs-id2924558"><emphasis effect="bold">Use Place Value to Name Whole Numbers</emphasis> For the following exercises, name each number in words.</para>
+<exercise id="fs-id1215400">
+<problem id="fs-id2495677">
+<para id="fs-id2495679"><m:math><m:mrow><m:mn>5,280</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2758755">
+<para id="fs-id1366150">Five thousand two hundred eighty</para>
+</solution>
+</exercise>
+<exercise id="fs-id1594954">
+<problem id="fs-id1594956">
+<para id="fs-id2655576"><m:math><m:mrow><m:mn>5,012,582</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1827364">
+<para id="fs-id1827366">Five million twelve thousand five hundred eighty-two</para>
+</solution>
+</exercise>
+<para id="fs-id2218459"><emphasis effect="bold">Use Place Value to Write Whole Numbers</emphasis> For the following exercises, write as a whole number using digits.</para>
+<exercise id="fs-id2215177">
+<problem id="fs-id2222097">
+<para id="fs-id2222099">fifteen thousand, two hundred fifty-three</para>
+</problem>
+<solution id="fs-id2478010">
+<para id="fs-id1916972">15,253</para>
+</solution>
+</exercise>
+<exercise id="fs-id2199114">
+<problem id="fs-id2199117">
+<para id="fs-id2257649">three hundred forty million, nine hundred twelve thousand, sixty-one</para>
+</problem>
+<solution id="fs-id1363926">
+<para id="fs-id1363928">340,912,061</para>
+</solution>
+</exercise>
+<para id="fs-id1774817"><emphasis effect="bold">Round Whole Numbers</emphasis> For the following exercises, round to the nearest ten.</para>
+<exercise id="fs-id1543448">
+<problem id="fs-id1484679">
+<para id="fs-id1484681"><m:math><m:mrow><m:mn>412</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2279893">
+<para id="fs-id2223359">410</para>
+</solution>
+</exercise>
+<exercise id="fs-id1804438">
+<problem id="fs-id1804440">
+<para id="fs-id1851836"><m:math><m:mrow><m:mn>3,556</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1369107">
+<para id="fs-id1369109">3,560</para>
+</solution>
+</exercise>
+<para id="fs-id2583272">For the following exercises, round to the nearest hundred.</para>
+<exercise id="fs-id1510692">
+<problem id="fs-id1982021">
+<para id="fs-id1982023"><m:math><m:mrow><m:mn>38,975</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1737202">
+<para id="fs-id1737204">39,000</para>
+</solution>
+</exercise>
+<exercise id="fs-id2785009">
+<problem id="fs-id2785011">
+<para id="fs-id1408249"><m:math><m:mrow><m:mn>81,486</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1761850">
+<para id="fs-id1519160">81,500</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1549322">
+<title><link class="target-chapter" document="m52993">Add Whole Numbers</link></title>
+<para id="fs-id2609608">For the following exercises, add.</para>
+<exercise id="fs-id2609611">
+<problem id="fs-id1199579">
+<para id="fs-id1199582"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>+</m:mo><m:mn>19</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>19</m:mn><m:mo>+</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2647089">
+<para id="fs-id2491258">(a) 19 (b) 19</para>
+</solution>
+</exercise>
+<exercise id="fs-id1951399">
+<problem id="fs-id1951401">
+<para id="fs-id1885493"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>6</m:mn><m:mo>+</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1937013">
+<para id="fs-id1937015">(a) 13 (b) 13</para>
+</solution>
+</exercise>
+<exercise id="fs-id1730808">
+<problem id="fs-id2707533">
+<para id="fs-id2707535"><m:math><m:mrow><m:mn>44</m:mn><m:mo>+</m:mo><m:mn>35</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1384290">
+<para id="fs-id1471994">82</para>
+</solution>
+</exercise>
+<exercise id="fs-id1613650">
+<problem id="fs-id1613653">
+<para id="fs-id2145939"><m:math><m:mrow><m:mn>96</m:mn><m:mo>+</m:mo><m:mn>58</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2485529">
+<para id="fs-id2485531">154</para>
+</solution>
+</exercise>
+<exercise id="fs-id1257069">
+<problem id="fs-id2168845">
+<para id="fs-id2168847"><m:math><m:mrow><m:mn>7,281</m:mn><m:mo>+</m:mo><m:mn>12,546</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1458180">
+<para id="fs-id1545323">19,827</para>
+</solution>
+</exercise>
+<para id="fs-id2319351"><emphasis effect="bold">Translate Word Phrases to Math Notation</emphasis> For the following exercises, translate each phrase into math notation and then simplify.</para>
+<exercise id="fs-id2642682">
+<problem id="fs-id2206343">
+<para id="fs-id2206345">the sum of <m:math><m:mrow><m:mn>30</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1259192">
+<para id="fs-id1259195">30 + 12; 42</para>
+</solution>
+</exercise>
+<exercise id="fs-id2702125">
+<problem id="fs-id2702127">
+<para id="fs-id1577373"><m:math><m:mrow><m:mn>25</m:mn></m:mrow></m:math> more than <m:math><m:mrow><m:mn>39</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2436536">
+<para id="fs-id2436538">39 + 25; 64</para>
+</solution>
+</exercise>
+<para id="fs-id1956501"><emphasis effect="bold">Add Whole Numbers in Applications</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id1931975">
+<problem id="fs-id2758416">
+<para id="fs-id2758419"><emphasis effect="bold">Shopping for an interview</emphasis> Nathan bought a new shirt, tie, and slacks to wear to a job interview. The shirt cost <m:math><m:mrow><m:mtext>$24,</m:mtext></m:mrow></m:math> the tie cost <m:math><m:mrow><m:mtext>$14,</m:mtext></m:mrow></m:math> and the slacks cost <m:math><m:mrow><m:mtext>$38.</m:mtext></m:mrow></m:math> What was Nathan’s total cost?</para>
+</problem>
+<solution id="fs-id3228217">
+<para id="fs-id3228219">$76</para>
+</solution>
+</exercise>
+<para id="fs-id1166400">For the following exercises, find the perimeter of each figure.</para>
+<exercise id="fs-id2590308">
+<problem id="fs-id2590310">
+<media id="fs-id2787346" alt="An image of a rectangle that is 8 feet tall and 15 feet wide.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_213_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-id1334673">
+<para id="fs-id1334675">46 feet</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1559303">
+<title><link class="target-chapter" document="m52995">Subtract Whole Numbers</link></title>
+<para id="fs-id1948425"><emphasis effect="bold">Subtract Whole Numbers</emphasis> For the following exercises, subtract and then check by adding.</para>
+<exercise id="fs-id1516054">
+<problem id="fs-id1516056">
+<para id="fs-id2434480"><m:math><m:mrow><m:mn>8</m:mn><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1598099">
+<para id="fs-id1598101">3</para>
+</solution>
+</exercise>
+<exercise id="fs-id2704168">
+<problem id="fs-id2905723">
+<para id="fs-id2905725"><m:math><m:mrow><m:mn>23</m:mn><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2646804">
+<para id="fs-id2310354">14</para>
+</solution>
+</exercise>
+<exercise id="fs-id1519788">
+<problem id="fs-id1519790">
+<para id="fs-id1459254"><m:math><m:mrow><m:mn>82</m:mn><m:mo>−</m:mo><m:mn>59</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1938456">
+<para id="fs-id1938458">23</para>
+</solution>
+</exercise>
+<exercise id="fs-id1515888">
+<problem id="fs-id2279155">
+<para id="fs-id2279158"><m:math><m:mrow><m:mn>539</m:mn><m:mo>−</m:mo><m:mn>217</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2167945">
+<para id="fs-id4315824">322</para>
+</solution>
+</exercise>
+<exercise id="fs-id1224228">
+<problem id="fs-id1224231">
+<para id="fs-id1798725"><m:math><m:mrow><m:mn>1,020</m:mn><m:mo>−</m:mo><m:mn>640</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2789146">
+<para id="fs-id2789148">380</para>
+</solution>
+</exercise>
+<exercise id="fs-id1525249">
+<problem id="fs-id1375708">
+<para id="fs-id1375710"><m:math><m:mrow><m:mn>1</m:mn><m:mn>0,000</m:mn><m:mo>−</m:mo><m:mn>15</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1359436">
+<para id="fs-id1359439">9,985</para>
+</solution>
+</exercise>
+<para id="fs-id2453133"><emphasis effect="bold">Translate Word Phrases to Math Notation</emphasis> For the following exercises, translate and simplify.</para>
+<exercise id="fs-id1340036">
+<problem id="fs-id1340038">
+<para id="fs-id4337750">the difference of nineteen and thirteen</para>
+</problem>
+<solution id="fs-id1582752">
+<para id="fs-id1582754">19 − 13; 6</para>
+</solution>
+</exercise>
+<exercise id="fs-id1347459">
+<problem id="fs-id1347462">
+<para id="fs-id2658251">seventy-four decreased by eight</para>
+</problem>
+<solution id="fs-id1581270">
+<para id="fs-id1581273">74 − 8; 66</para>
+</solution>
+</exercise>
+<para id="fs-id1956367"><emphasis effect="bold">Subtract Whole Numbers in Applications</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id1917106">
+<problem id="fs-id2133133">
+<para id="fs-id2133135"><emphasis effect="bold">Temperature</emphasis> The high temperature in Peoria one day was <m:math><m:mrow><m:mn>86</m:mn></m:mrow></m:math> degrees Fahrenheit and the low temperature was <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> degrees Fahrenheit. What was the difference between the high and low temperatures?</para>
+</problem>
+<solution id="fs-id1885431">
+<para id="fs-id1885433">58 degrees Fahrenheit</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1379035">
+<title><link class="target-chapter" document="m52998">Multiply Whole Numbers</link></title>
+<para id="fs-id2661629"><emphasis effect="bold">Multiply Whole Numbers</emphasis> For the following exercises, fill in the missing values in each chart.</para>
+<exercise id="fs-id2789084">
+<problem id="fs-id1981932">
+<media id="fs-id1981934" alt="A table with 10 rows down and 10 rows across. The first row and first column are headers and include the numbers 0 through 9 both across and down, with a plus sign in the first cell. The numbers across in the second row down appear as follows: 0, 0, 0, 0, 0, 0, null, 0, null, 0,0. The numbers across in the third row down appear as follows: 1, 0, 1, 2, null, 4, 5, 6, 7, null, 9.  The numbers across in the fourth row down appear as follows: 2, 0, null, 4, null, 8, 10, null, 14, 16, null. The numbers across in the fifth row down appear as follows: 3, null, 3, null, 9, null, null, 18, null, 24, null. The numbers across in the sixth row down appear as follows: 4, 0, 4, 0, 12, null, null, 24, null, null, 36.  The numbers across in the seventh row down appear as follows:5, 0, 5, 10, null, 20, null, 30, 35, 40, 45. The numbers across in the eighth row down appear as follows: 6, null, null, 12, 18, null, null, 36, 42, null, 54.  The numbers across in the ninth row down appear as follows: 7, 0, 7, null, 21, null, 35, null, null, 56, 63. The numbers in the tenth row down appear as follows: 8, 0, 8, 16, null, 32, null, 48, null, 64, null. The numbers in the eleventh row down appear across as follows: 9, null, null, 18, 27, 36, null, null, 63, 72, null.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_226_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-id1860640">
+<para id="fs-id1167904157526"><newline/><media id="fs-id1860642" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_05_227_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<para id="fs-id2813242">For the following exercises, multiply.</para>
+<exercise id="fs-id2813246">
+<problem id="fs-id1278925">
+<para id="fs-id1278927"><m:math><m:mrow><m:mn>0</m:mn><m:mo>·</m:mo><m:mn>14</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761239366">
+<para id="fs-id2486092">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id2436959">
+<problem id="fs-id2785435">
+<para id="fs-id2785437"><m:math><m:mrow><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>99</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4131750">
+<para id="fs-id2912511">99</para>
+</solution>
+</exercise>
+<exercise id="fs-id2276888">
+<problem id="fs-id1502527">
+<para id="fs-id1502529"><m:math><m:mrow><m:mtext>a)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>4</m:mn><m:mo>;</m:mo><m:mspace width="0.2em"/><m:mtext>b)</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4428635">
+<para id="fs-id4428637">(a) 28 (b) 28</para>
+</solution>
+</exercise>
+<exercise id="fs-id1410345">
+<problem id="fs-id1410347">
+<para id="fs-id2280818"><m:math><m:mrow><m:mn>9,261</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2135892">
+<para id="fs-id2135895">27,783</para>
+</solution>
+</exercise>
+<exercise id="fs-id2646231">
+<problem id="fs-id1534199">
+<para id="fs-id1534201"><m:math><m:mrow><m:mn>64</m:mn><m:mo>·</m:mo><m:mn>10</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1829323">
+<para id="fs-id2927723">640</para>
+</solution>
+</exercise>
+<exercise id="fs-id1355949">
+<problem id="fs-id1376320">
+<para id="fs-id1376322"><m:math><m:mrow><m:mn>162</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>493</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1383029">
+<para id="fs-id4875743">79,866</para>
+</solution>
+</exercise>
+<exercise id="fs-id1535327">
+<problem id="fs-id1828253">
+<para id="fs-id1828256"><m:math><m:mrow><m:mn>3,624</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>517</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2172403">
+<para id="fs-id1327863">1,873,608</para>
+</solution>
+</exercise>
+<para id="fs-id4379006"><emphasis effect="bold">Translate Word Phrases to Math Notation</emphasis> For the following exercises, translate and simplify.</para>
+<exercise id="fs-id2155623">
+<problem id="fs-id2155625">
+<para id="fs-id4335551">the product of <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1747196">
+<para id="fs-id2960320">15(28); 420</para>
+</solution>
+</exercise>
+<exercise id="fs-id1548119">
+<problem id="fs-id1548121">
+<para id="fs-id1548123">twice <m:math><m:mrow><m:mn>575</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1826402">
+<para id="fs-id1826404">2(575); 1,150</para>
+</solution>
+</exercise>
+<para id="fs-id2399154"><emphasis effect="bold">Multiply Whole Numbers in Applications</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id2388645">
+<problem id="fs-id2564345">
+<para id="fs-id2564347"><emphasis effect="bold">Gardening</emphasis> Geniece bought <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math> packs of marigolds to plant in her yard. Each pack has <m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math> flowers. How many marigolds did Geniece buy?</para>
+</problem>
+<solution id="fs-id1987784">
+<para id="fs-id1987786">48 marigolds</para>
+</solution>
+</exercise>
+<exercise id="fs-id1499411">
+<problem id="fs-id1499413">
+<para id="fs-id1499415"><emphasis effect="bold">Multiplex</emphasis> There are twelve theaters at the multiplex and each theater has <m:math><m:mrow><m:mn>150</m:mn></m:mrow></m:math> seats. What is the total number of seats at the multiplex?</para>
+</problem>
+<solution id="fs-id2482141">
+<para id="fs-id2482143">1,800 seats</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2495965">
+<title><link class="target-chapter" document="m53001">Divide Whole Numbers</link></title>
+<para id="fs-id1535585"><emphasis effect="bold">Divide Whole Numbers</emphasis> For the following exercises, divide. Then check by multiplying.</para>
+<exercise id="fs-id3296555">
+<problem id="fs-id1828474">
+<para id="fs-id1828477"><m:math><m:mrow><m:mn>14</m:mn><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1516624">
+<para id="fs-id1516626">7</para>
+</solution>
+</exercise>
+<exercise id="fs-id2365078">
+<problem id="fs-id2365080">
+<para id="fs-id2365082"><m:math><m:mrow><m:mn>52</m:mn><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1383642">
+<para id="fs-id1383644">13</para>
+</solution>
+</exercise>
+<exercise id="fs-id1029739">
+<problem id="fs-id1029741">
+<para id="fs-id1374842"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>97</m:mn></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1828093">
+<para id="fs-id1828095">97</para>
+</solution>
+</exercise>
+<exercise id="fs-id2134481">
+<problem id="fs-id1811159">
+<para id="fs-id1811161"><m:math><m:mrow><m:mn>100</m:mn><m:mo>÷</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1179494">
+<para id="fs-id1179496">undefined</para>
+</solution>
+</exercise>
+<exercise id="fs-id3401566">
+<problem id="fs-id3401569">
+<para id="fs-id3401571"><m:math><m:mrow><m:mn>3828</m:mn><m:mo>÷</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1373364">
+<para id="fs-id2466291">638</para>
+</solution>
+</exercise>
+<exercise id="fs-id2649472">
+<problem id="fs-id928875">
+<para id="fs-id928877"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>7505</m:mn></m:mrow><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1760605">
+<para id="fs-id1760607">300 R5</para>
+</solution>
+</exercise>
+<para id="fs-id2606854"><emphasis effect="bold">Translate Word Phrases to Math Notation</emphasis> For the following exercises, translate and simplify.</para>
+<exercise id="fs-id3407942">
+<problem id="fs-id3407944">
+<para id="fs-id3407946">the quotient of <m:math><m:mrow><m:mn>64</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2265748">
+<para id="fs-id2265750">64 ÷ 16; 4</para>
+</solution>
+</exercise>
+<para id="fs-id2657485"><emphasis effect="bold">Divide Whole Numbers in Applications</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id2909001">
+<problem id="fs-id2909003">
+<para id="fs-id2909005"><emphasis effect="bold">Ribbon</emphasis> One spool of ribbon is <m:math><m:mrow><m:mn>27</m:mn></m:mrow></m:math> feet. Lizbeth uses <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> feet of ribbon for each gift basket that she wraps. How many gift baskets can Lizbeth wrap from one spool of ribbon?</para>
+</problem>
+<solution id="fs-id2727965">
+<para id="fs-id2135877">9 baskets</para>
+</solution>
+</exercise>
+</section>
+</section>
+<section id="fs-id1522244" class="practice-test">
+<title>Chapter 1 Practice Test</title><exercise id="fs-id1786065">
+<problem id="fs-id1786067">
+<para id="fs-id1786070">Determine which of the following numbers are</para>
+<para id="fs-id1284771">(a) counting numbers</para>
+<para id="fs-id1284774">(b) whole numbers.</para>
+<para id="fs-id1945402"><m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>87</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1945059">
+<para id="fs-id2196989">(a) 4, 87 (b) 0, 4, 8</para>
+</solution>
+</exercise>
+<exercise id="fs-id2196994">
+<problem id="fs-id3208500">
+<para id="fs-id3208502">Find the place value of the given digits in the number <m:math><m:mrow><m:mn>549,362</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1529961"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>9</m:mn></m:mrow></m:math></para>
+<para id="fs-id1842836"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>6</m:mn></m:mrow></m:math></para>
+<para id="fs-id2201365"><m:math><m:mrow><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn></m:mrow></m:math></para>
+<para id="fs-id2216458"><m:math><m:mrow><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-587"><title>Solution</title>(a) 9 thousands
+(b) 6 tens
+(c) 2 ones
+(d) 5 hundred thousands</para><exercise id="fs-id222505">
+<problem id="fs-id222507">
+<para id="fs-id222509">Write each number as a whole number using digits.</para>
+<para id="fs-id1401982">(a) six hundred thirteen</para>
+<para id="fs-id1401986">(b) fifty-five thousand two hundred eight</para>
+</problem>
+<solution id="fs-id2471629">
+<para id="fs-id2471631">(a) 613 (b) 55,208</para>
+</solution>
+</exercise>
+<exercise id="fs-id1381669">
+<problem id="fs-id1381671">
+<para id="fs-id1364495">Round <m:math><m:mrow><m:mn>25,849</m:mn></m:mrow></m:math> to the nearest hundred.</para>
+<para id="fs-id2608549"><title>Solution</title>25,800</para></problem>
+</exercise>
+<exercise id="fs-id1762056">
+<problem id="fs-id1762058">
+<para id="fs-id2277780"><m:math><m:mrow><m:mn>45</m:mn><m:mo>+</m:mo><m:mn>23</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1378039">
+<para id="fs-id1526354">68</para>
+</solution>
+</exercise>
+<exercise id="fs-id1518313">
+<problem id="fs-id1518315">
+<para id="fs-id1518317"><m:math><m:mrow><m:mn>65</m:mn><m:mo>−</m:mo><m:mn>42</m:mn></m:mrow></m:math></para></problem>
+</exercise>
+<para id="eip-990"><title>Solution</title>23</para><exercise id="fs-id2095734">
+<problem id="fs-id2462311">
+<para id="fs-id2462314"><m:math><m:mrow><m:mn>85</m:mn><m:mo>÷</m:mo><m:mn>5</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2173246">
+<para id="fs-id2173248">17</para>
+</solution>
+</exercise>
+<exercise id="fs-id2434512">
+<problem id="fs-id2434514">
+<para id="fs-id1400742"><m:math><m:mrow><m:mn>1,000</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-688"><title>Solution</title>8,000</para><exercise id="fs-id1335162">
+<problem id="fs-id1335164">
+<para id="fs-id1335166"><m:math><m:mrow><m:mn>90</m:mn><m:mo>−</m:mo><m:mn>58</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1571932">
+<para id="fs-id1571934">32</para>
+</solution>
+</exercise>
+<exercise id="fs-id2669315">
+<problem id="fs-id2160175">
+<para id="fs-id2160177"><m:math><m:mrow><m:mn>73</m:mn><m:mo>+</m:mo><m:mn>89</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-170"><title>Solution</title>162</para><exercise id="fs-id1395935">
+<problem id="fs-id1395937">
+<para id="fs-id1312936"><m:math><m:mrow><m:mo>(</m:mo><m:mn>0</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:mn>12,675</m:mn><m:mo>)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1358151">
+<para id="fs-id1799385">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id2628792">
+<problem id="fs-id2628794">
+<para id="fs-id2628797"><m:math><m:mrow><m:mn>634</m:mn><m:mo>+</m:mo><m:mn>255</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-160"><title>Solution</title>889</para><exercise id="fs-id1461479">
+<problem id="fs-id1880852">
+<para id="fs-id1880854"><m:math><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4124447">
+<para id="fs-id4124450">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id2657357">
+<problem id="fs-id2657359">
+<para id="fs-id2657361"><m:math><m:mrow><m:mn>8</m:mn><m:menclose notation="longdiv"><m:mrow><m:mn>128</m:mn></m:mrow></m:menclose></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-786"><title>Solution</title>16</para><exercise id="fs-id1945064">
+<problem id="fs-id1945066">
+<para id="fs-id1945069"><m:math><m:mrow><m:mn>145</m:mn><m:mo>−</m:mo><m:mn>79</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1393783">
+<para id="fs-id1393785">66</para>
+</solution>
+</exercise>
+<exercise id="fs-id1577812">
+<problem id="fs-id1577814">
+<para id="fs-id1360616"><m:math><m:mrow><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>475</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2636834">
+<para id="fs-id2661772">3,325</para>
+</solution>
+</exercise>
+<exercise id="fs-id1603354">
+<problem id="fs-id1564690">
+<para id="fs-id1564692"><m:math><m:mrow><m:mn>35</m:mn><m:mo>(</m:mo><m:mn>14</m:mn><m:mo>)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1961926">
+<para id="fs-id1961928">490</para>
+</solution>
+</exercise>
+<exercise id="fs-id2485107">
+<problem id="fs-id2707954">
+<para id="fs-id2707956"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>26</m:mn></m:mrow><m:mn>0</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-97"><title>Solution</title>Undefined</para><exercise id="fs-id2568262">
+<problem id="fs-id2568265">
+<para id="fs-id1381400"><m:math><m:mrow><m:mn>733</m:mn><m:mo>−</m:mo><m:mn>291</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1726003">
+<para id="fs-id1988793">442</para>
+</solution>
+</exercise>
+<exercise id="fs-id1264670">
+<problem id="fs-id1723800">
+<para id="fs-id1723802"><m:math><m:mrow><m:mn>495</m:mn><m:mo>÷</m:mo><m:mn>45</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1891618">
+<para id="fs-id1891620">11</para>
+</solution>
+</exercise>
+<exercise id="fs-id1505540">
+<problem id="fs-id1505542">
+<para id="fs-id2140662"><m:math><m:mrow><m:mn>52</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>983</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-723"><title>Solution</title>51,116</para><para id="fs-id2150332">Translate each phrase to math notation and then simplify.</para>
+<exercise id="fs-id2150335">
+<problem id="fs-id2150337">
+<para id="fs-id2676613">The sum of <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>58</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1607108">
+<para id="fs-id1607111">16 + 58; 74</para>
+</solution>
+</exercise>
+<exercise id="fs-id2222885">
+<problem id="fs-id2222887">
+<para id="fs-id2366294">The product of <m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-903"><title>Solution</title>9 x 15 = 135</para><exercise id="fs-id1416223">
+<problem id="fs-id1416225">
+<para id="fs-id1499992">The difference of <m:math><m:mrow><m:mn>32</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1346246">
+<para id="fs-id1346248">32 − 18; 14</para>
+</solution>
+</exercise>
+<exercise id="fs-id2273430">
+<problem id="fs-id2273432">
+<para id="fs-id1407396">The quotient of <m:math><m:mrow><m:mn>63</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>21</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-878"><title>Solution</title>63/21 = 3</para><exercise id="fs-id1562431">
+<problem id="fs-id1562433">
+<para id="fs-id2297042">Twice <m:math><m:mrow><m:mn>524</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1361532">
+<para id="fs-id1361535">2(524); 1,048</para>
+</solution>
+</exercise>
+<exercise id="fs-id917588">
+<problem id="fs-id1834885">
+<para id="fs-id1834887"><m:math><m:mrow><m:mn>29</m:mn></m:mrow></m:math> more than <m:math><m:mrow><m:mn>32</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="eip-236"><title>Solution</title>29 + 32 = 61</para><exercise id="fs-id2438608">
+<problem id="fs-id2438611">
+<para id="fs-id1356986"><m:math><m:mrow><m:mn>50</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>300</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1566440">
+<para id="fs-id1566442">300 − 50; 250</para>
+</solution>
+</exercise>
+<para id="fs-id2619996">For the following exercises, solve.</para>
+<exercise id="fs-id2692098">
+<problem id="fs-id2692100">
+<para id="fs-id1575515">Last month, Stan’s take-home pay was <m:math><m:mrow><m:mtext>$3,816</m:mtext></m:mrow></m:math> and his expenses were <m:math><m:mrow><m:mtext>$3,472.</m:mtext></m:mrow></m:math> How much of his take-home pay did Stan have left after he paid his expenses?</para>
+</problem>
+<solution id="fs-id1961884">
+<para id="fs-id1961886">Stan had $344 left.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2881667">
+<problem id="fs-id1221417">
+<para id="fs-id1221419">Clayton walked <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> blocks to his mother’s house, <m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math> blocks to the gym, and <m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math> blocks to the grocery store before walking the last <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> blocks home. What was the total number of blocks that Clayton walked?</para>
+</problem>
+<solution id="fs-id1510339">
+<para id="fs-id1510341">Clayton walked 30 blocks.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1826364">
+<term>dividend</term>
+<meaning id="fs-id1932292">number being divided by another</meaning>
+</definition>
+<definition id="fs-id1932296">
+<term>Division Properties of One</term>
+<meaning id="fs-id1517599">rules that state that dividing any number <m:math><m:mrow><m:mtext>(except 0)</m:mtext></m:mrow></m:math> by itself produces a quotient of <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> or dividing any number by <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> is the number</meaning>
+</definition>
+<definition id="fs-id1519280">
+<term>Division Properties of Zero</term>
+<meaning id="fs-id1416143">rules that state that zero divided by any number is <m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math> and any number divided by zero is undefined</meaning>
+</definition>
+<definition id="fs-id1312796">
+<term>divisor</term>
+<meaning id="fs-id1312802">a number doing the dividing in a division problem</meaning>
+</definition>
+<definition id="fs-id2319482">
+<term>quotient</term>
+<meaning id="fs-id2150366">result obtained when dividing one number by another</meaning>
+</definition>
+</glossary>
+</document>

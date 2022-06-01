@@ -1,0 +1,648 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Adding Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62061</md:content-id>
+  <md:title>Adding Whole Numbers</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Use addition notation</item>
+<item>Model addition of whole numbers</item>
+<item>Add whole numbers without models</item>
+<item>Translate word phrases to math notation</item>
+<item>Add whole numbers in applications</item>
+</list></md:abstract>
+  <md:uuid>b967fb42-f200-4d69-b2a4-ff98ad506754</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id2601285">
+<title>Use Addition Notation</title>
+<para id="fs-id3165690">A college student has a part-time job. Last week he worked <m:math><m:mn>3</m:mn></m:math> hours on Monday and <m:math><m:mn>4</m:mn></m:math> hours on Friday. To find the total number of hours he worked last week, he added <m:math><m:mn>3</m:mn></m:math> and <m:math><m:mrow><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id2606793">The operation of addition combines numbers to get a <term>sum</term>. The notation we use to find the sum of <m:math><m:mn>3</m:mn></m:math> and <m:math><m:mn>4</m:mn></m:math> is:</para>
+<equation id="fs-id1474530" class="unnumbered"><label/><m:math><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math></equation>
+<para id="fs-id2619407">We read this as <emphasis effect="italics">three plus four</emphasis> and the result is the sum of three and four. The numbers <m:math><m:mn>3</m:mn></m:math> and <m:math><m:mn>4</m:mn></m:math> are called the <term>addends</term>. A math statement that includes numbers and operations is called an <term>expression</term>.</para>
+</section>
+<section id="fs-id1385496">
+<title>Adding Whole Numbers</title><note id="fs-id3217986">
+<title>Identity Property of Addition</title>
+<para id="fs-id1960203">According to the Identity Property of Addition, the sum of any number <m:math><m:mi>a</m:mi></m:math> and <m:math><m:mn>0</m:mn></m:math> is the number.</para>
+<equation id="fs-id1858891" class="unnumbered"><label/><m:math><m:mtable><m:mtr/><m:mtr><m:mtd><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0</m:mn><m:mo>+</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+</note>
+<example id="fs-id1502923">
+<exercise id="fs-id2323927"><problem id="fs-id2133097">
+<para id="fs-id2287930">Find each sum: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>+</m:mo><m:mn>11</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>42</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4363730">
+
+
+<para id="fs-id1605224"><m:math><m:mrow><m:mn>0</m:mn><m:mo>+</m:mo><m:mn>11</m:mn><m:mo>=</m:mo><m:mn>11</m:mn></m:mrow></m:math></para>
+<para id="fs-id1548652"><m:math><m:mrow><m:mn>42</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mn>42</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise></example>
+<para id="fs-id2777667">Look at the pairs of sums.</para>
+<equation id="fs-id2369339" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>5</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>5</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mo>=</m:mo><m:mn>11</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>11</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>17</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>17</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+<para id="fs-id2785833">Notice that when the order of the <term class="no-emphasis">addends</term> is reversed, the sum does not change. This property is called the <term>Commutative Property of Addition</term>, which states that changing the order of the addends does not change their sum.</para>
+<note id="fs-id1566118">
+<title>Commutative Property of Addition</title>
+<para id="fs-id1884628">According to the Commutative Property of Addition, changing the order of the addends <m:math><m:mrow><m:mi>a</m:mi></m:mrow></m:math> and <m:math><m:mrow><m:mi>b</m:mi></m:mrow></m:math> does not change their sum.</para>
+<equation id="fs-id2670492" class="unnumbered"><label/><m:math><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mi>b</m:mi><m:mo>+</m:mo><m:mi>a</m:mi></m:mrow></m:math></equation>
+</note>
+<example id="fs-id2224023">
+<exercise id="fs-id2454866">
+<problem id="fs-id2262840">
+<para id="fs-id1816267">Add: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1824208">
+<title>Solution</title>
+<para id="fs-id1278787"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>(a)</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>Add.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>15</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>(b)</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>Add.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>15</m:mn></m:mtd></m:mtr></m:mtable></m:math></para>
+</solution>
+</exercise>
+</example>
+<example id="fs-id2686794">
+<exercise id="fs-id1578501"><problem id="fs-id1368562">
+<para id="fs-id2270260">Add: <m:math><m:mrow><m:mn>28</m:mn><m:mo>+</m:mo><m:mn>61</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1791758">
+<para id="fs-id1806085">To add numbers with more than one digit, it is often easier to write the numbers vertically in columns.</para>
+<para id="fs-id1370371"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Write the numbers so the</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>28</m:mn></m:mrow><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>ones and tens digits line up vertically.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="0.4em"/><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>61</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Then add the digits in each place value.</m:mtext></m:mrow></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Add the ones:</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>9</m:mn></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>28</m:mn></m:mrow><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Add the tens:</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>8</m:mn></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="0.4em"/><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>61</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>89</m:mn></m:mrow><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise></example>
+<note id="fs-id1928992" class="try">
+<exercise id="fs-id1275335">
+<problem id="fs-id2562841">
+<para id="fs-id1524844">Add: <m:math><m:mrow><m:mn>25</m:mn><m:mo>+</m:mo><m:mn>74</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2951285">
+<para id="fs-id968671">25 + 74 = 99</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2877345">When the sum in a place value column is greater than <m:math><m:mrow><m:mn>9</m:mn><m:mo>,</m:mo></m:mrow></m:math> we carry over to the next column to the left. Carrying is the same as regrouping by exchanging. For example, <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> ones for <m:math><m:mn>1</m:mn></m:math> ten or <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> tens for <m:math><m:mn>1</m:mn></m:math> hundred.</para>
+<note id="fs-id1567373" class="howto">
+<para id="fs-id2304150"><emphasis effect="bold">Add whole numbers.</emphasis></para>
+<para id="fs-id2589857">Step 1. Write the numbers so each place value lines up vertically.</para>
+<para id="fs-id2168499">Step 2. Add the digits in each place value. Work from right to left starting with the ones place. If a sum in a place value is more than <m:math><m:mrow><m:mn>9</m:mn><m:mo>,</m:mo></m:mrow></m:math> carry to the next place value.</para>
+<para id="fs-id1374749">Step 3. Continue adding each place value from right to left, adding each place value and carrying if needed.</para>
+</note>
+<example id="fs-id1377666"><exercise id="fs-id2325655">
+<problem id="fs-id2785400">
+<para id="fs-id1239115">Add: <m:math><m:mrow><m:mn>43</m:mn><m:mo>+</m:mo><m:mn>69</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2566312">
+<para id="fs-id3407456"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Write the numbers so the digits line up</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>43</m:mn></m:mrow><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>vertically.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>69</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Add the digits in each place.</m:mtext></m:mrow></m:mtd><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Add the ones:</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>12</m:mn></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Write the 2 in the ones place in the sum.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mover><m:mn>4</m:mn><m:mn mathsize="small">1</m:mn></m:mover><m:mn>3</m:mn></m:mrow><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Add the 1 ten to the tens place.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>69</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>2</m:mn><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Now add the tens:</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>11</m:mn></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Write the 11 in the sum.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mover><m:mn>4</m:mn><m:mn mathsize="small">1</m:mn></m:mover><m:mn>3</m:mn></m:mrow><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>69</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>112</m:mn></m:mrow><m:mspace width="0.1em"/></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example><note id="fs-id1257067" class="try">
+<exercise id="fs-id2758260">
+<problem id="fs-id1881610">
+<para id="fs-id2370602">Add: <m:math><m:mrow><m:mn>35</m:mn><m:mo>+</m:mo><m:mn>98</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2215223">
+<para id="fs-id2278434">35 + 98 = 133</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2648959" class="try">
+<exercise id="fs-id1462931">
+<problem id="fs-id2690850">
+<para id="fs-id1376149">Add: <m:math><m:mrow><m:mn>456</m:mn><m:mo>+</m:mo><m:mn>376</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1302654">
+<para id="fs-id2906019">456 + 376 = 832</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1339924" class="try">
+<exercise id="fs-id2267936">
+<problem id="fs-id1298548">
+<para id="fs-id1543215">Add: <m:math><m:mrow><m:mn>269</m:mn><m:mo>+</m:mo><m:mn>578</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2146728">
+<para id="fs-id1314815">269 + 578 = 847</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1988116">
+<exercise id="fs-id2144790"><problem id="fs-id2280686">
+<para id="fs-id2368411">Add: <m:math><m:mrow><m:mn>1,683</m:mn><m:mo>+</m:mo><m:mn>479</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1372016">
+<para id="fs-id2280341">When the addends have different numbers of digits, be careful to line up the corresponding place values starting with the ones and moving toward the left.
+1,683 + 479 = 2,162</para></solution>
+</exercise></example>
+<note id="fs-id2375137" class="try">
+<exercise id="fs-id2174738">
+<problem id="fs-id2278499">
+<para id="fs-id2366246">Add: <m:math><m:mrow><m:mn>4,597</m:mn><m:mo>+</m:mo><m:mn>685</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2173908">
+<para id="fs-id1328241">4,597 + 685 = 5,282</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1801021">
+<exercise id="fs-id2264879"><problem id="fs-id1883946">
+<para id="fs-id1302204">Add: <m:math><m:mrow><m:mn>21,357</m:mn><m:mo>+</m:mo><m:mn>861</m:mn><m:mo>+</m:mo><m:mn>8,596</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2338420">
+
+<para id="fs-id1246087">This example had three addends. We can add any number of addends using the same process as long as we are careful to line up the place values correctly.
+Solution: 30,814</para>
+</solution>
+</exercise></example>
+<note id="fs-id2684886" class="try">
+<exercise id="fs-id2224340">
+<problem id="fs-id1967102">
+<para id="fs-id1881413">Add: <m:math><m:mrow><m:mn>46,195</m:mn><m:mo>+</m:mo><m:mn>397</m:mn><m:mo>+</m:mo><m:mn>6,281</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2924594">
+<para id="fs-id1405279">46,195 + 397 + 6,281 = 52,873</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1282502" class="try">
+<exercise id="fs-id1406185">
+<problem id="fs-id1184057">
+<para id="fs-id1545934">Add: <m:math><m:mrow><m:mn>53,762</m:mn><m:mo>+</m:mo><m:mn>196</m:mn><m:mo>+</m:mo><m:mn>7,458</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1351725">
+<para id="fs-id834282">53,762 + 196 + 7,458 = 61,416</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2691382">
+<title>Translate Word Phrases to Math Notation</title>
+<para id="fs-id1612949">Earlier in this section, we translated math notation into words. Now we’ll reverse the process. We’ll translate word phrases into math notation. Some of the word phrases that indicate addition are listed in <link target-id="fs-id1826990"/>.</para>
+<table id="fs-id1826990" summary="This is a table with two rows and four columns. The top row is a header row. The column names from left to right are operation, words, example, and expression. In the row beneath, the content reads from left to right under each column, addition as the operation, “plus sum increased by more than total of added to” under “words”, 1 plus 2, the sum of 3 and 4, 5 increased by 6, 8 more than 7, the total of 9 and five, and 6 added to 4 under “example”, and 1 plus 2, 3 plus 4, 5 plus 6, 7 plus 8, 9 plus 5, and 4 plus 6 under “expression.”">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="left">Operation</entry>
+<entry align="left">Words</entry>
+<entry align="left">Example</entry>
+<entry align="left">Expression</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Addition</entry>
+<entry valign="top" align="left">plus<newline/>sum<newline/>increased by<newline/>more than<newline/>total of<newline/>added to</entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> plus <m:math><m:mrow><m:mn>2</m:mn></m:mrow></m:math><newline/>the sum of <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> increased by <m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math> more than <m:math><m:mrow><m:mn>7</m:mn></m:mrow></m:math><newline/>the total of <m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math> added to <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-id1826874">
+<exercise id="fs-id1392862">
+<problem id="fs-id1833382">
+<para id="fs-id1950935">Translate and simplify: the sum of <m:math><m:mrow><m:mn>19</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>23</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1363349">
+<title>Solution</title>
+<para id="fs-id2649934">The word <emphasis effect="italics">sum</emphasis> tells us to add. The words <emphasis effect="italics">of</emphasis> <m:math><m:mrow><m:mn>19</m:mn></m:mrow></m:math> <emphasis effect="italics">and</emphasis> <m:math><m:mrow><m:mn>23</m:mn></m:mrow></m:math> tell us the addends.</para>
+<para id="fs-id1854874"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Translate.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mn>19</m:mn><m:mo>+</m:mo><m:mn>23</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Add.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mn>42</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>The sum of 19 and 23 is 42.</m:mtext></m:mtd><m:mtd/><m:mtd/></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1566729" class="try">
+<exercise id="fs-id1932733">
+<problem id="fs-id1375941">
+<para id="fs-id2744730">Translate and simplify: the sum of <m:math><m:mrow><m:mn>17</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>26</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2211062">
+<para id="fs-id2657242">Translate: 17 + 26; Simplify: 43</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1178091">
+<exercise id="fs-id1330230">
+<problem id="fs-id1568191">
+<para id="fs-id1968803">Translate and simplify: <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> increased by <m:math><m:mrow><m:mn>31</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1726814">
+<title>Solution</title>
+<para id="fs-id1578716">The words <emphasis effect="italics">increased by</emphasis> tell us to add. The numbers given are the addends.</para>
+<para id="fs-id2206125"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>28 increased by 31.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mn>28</m:mn><m:mo>+</m:mo><m:mn>31</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Add.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="center"><m:mn>59</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>So</m:mtext><m:mspace width="0.2em"/><m:mn>28</m:mn><m:mspace width="0.2em"/><m:mtext>increased by</m:mtext><m:mspace width="0.2em"/><m:mn>31</m:mn><m:mspace width="0.2em"/><m:mtext>is</m:mtext><m:mspace width="0.2em"/><m:mn>59</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1728016" class="try">
+<exercise id="fs-id2130020">
+<problem id="fs-id2370626">
+<para id="fs-id2269129">Translate and simplify: <m:math><m:mrow><m:mn>29</m:mn></m:mrow></m:math> increased by <m:math><m:mrow><m:mn>76</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2164356">
+<para id="fs-id2375959">Translate 29 + 76; Simplify 105</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2197427">
+<title>Add Whole Numbers in Applications</title>
+<para id="fs-id2926269">Now that we have practiced adding whole numbers, let’s use what we’ve learned to solve real-world problems. We’ll start by outlining a plan. First, we need to read the problem to determine what we are looking for. Then we write a word phrase that gives the information to find it. Next we translate the word phrase into math notation and then simplify. Finally, we write a sentence to answer the question.</para>
+<example id="fs-id1880782">
+<exercise id="fs-id1899571"><problem id="fs-id4300687">
+<para id="fs-id1746953">Hao earned grades of <m:math><m:mrow><m:mn>87</m:mn><m:mo>,</m:mo><m:mn>93</m:mn><m:mo>,</m:mo><m:mn>68</m:mn><m:mo>,</m:mo><m:mn>95</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>89</m:mn></m:mrow></m:math> on the five tests of the semester. What is the total number of points he earned on the five tests?</para>
+</problem>
+<solution id="fs-id1944399">
+
+<para id="fs-id3407671"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the sum of points on the tests</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>87</m:mn><m:mo>+</m:mo><m:mn>93</m:mn><m:mo>+</m:mo><m:mn>68</m:mn><m:mo>+</m:mo><m:mn>95</m:mn><m:mo>+</m:mo><m:mn>89</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Then we simplify by adding.</m:mtext></m:mtd><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Since there are several numbers, we will</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>write them vertically.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mover><m:mn>8</m:mn><m:mn mathsize="small">3</m:mn></m:mover><m:mn>7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mn>93</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mn>68</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mn>95</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.1em"/><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>89</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.51em"/><m:mn>432</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Hao earned a total of 432 points.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id2703969">Notice that we added <emphasis effect="italics">points</emphasis>, so the sum is <m:math><m:mrow><m:mn>432</m:mn></m:mrow></m:math> <emphasis effect="italics">points</emphasis>. It is important to include the appropriate units in all answers to applications problems.</para>
+</solution>
+</exercise></example>
+<note id="fs-id1509280" class="try">
+<exercise id="fs-id1564459">
+<problem id="fs-id2176012">
+<para id="fs-id1919047">Mark is training for a bicycle race. Last week he rode <m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math> miles on Monday, <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> miles on Wednesday, <m:math><m:mrow><m:mn>26</m:mn></m:mrow></m:math> miles on Friday, <m:math><m:mrow><m:mn>49</m:mn></m:mrow></m:math> miles on Saturday, and <m:math><m:mrow><m:mn>32</m:mn></m:mrow></m:math> miles on Sunday. What is the total number of miles he rode last week?</para>
+</problem>
+<solution id="fs-id2146653">
+<para id="fs-id1390222">He rode 140 miles.</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1512036" class="try">
+<exercise id="fs-id1761942">
+<problem id="fs-id1294758">
+<para id="fs-id2295551">Lincoln Middle School has three grades. The number of students in each grade is <m:math><m:mrow><m:mn>230</m:mn><m:mo>,</m:mo><m:mn>165</m:mn><m:mo>,</m:mo><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>325</m:mn><m:mo>.</m:mo></m:mrow></m:math> What is the total number of students?</para>
+</problem>
+<solution id="fs-id2296132">
+<para id="fs-id1931675">The total number is 720 students.</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2594070">Some application problems involve shapes. For example, a person might need to know the distance around a garden to put up a fence or around a picture to frame it. The <term>perimeter</term> is the distance around a geometric figure. The perimeter of a figure is the sum of the lengths of its sides.</para>
+<example id="fs-id1894829">
+<exercise id="fs-id1628979">
+<problem id="fs-id1511502">
+<para id="fs-id908485">Find the perimeter of the patio shown.</para>
+<media id="fs-id588598" alt="This is an image of a perimeter of a patio. There are six sides. The far left side is labeled 4 feet, the top side is labeled 9 feet, the right side is short and labeled 2 feet, then extends across to the left and is labeled 3 feet. From here, the side extends down and is labeled 2 feet. Finally, the base is labeled 6 feet.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_002.jpg"/>
+</media>
+</problem>
+<solution id="fs-id1568241">
+<title>Solution</title>
+<para id="fs-id1337526"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>We are asked to find the perimeter.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the sum of the sides</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>9</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Simplify by adding.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>26</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>We added feet, so the sum is 26 feet.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>The perimeter of the patio is 26 feet.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1378644" class="try">
+<exercise id="fs-id2483376">
+<problem id="fs-id1542511">
+<para id="fs-id1365334">Find the perimeter of each figure. All lengths are in inches.</para>
+<media id="fs-id2175999" alt="This image includes 8 sides. Side one on the left is labeled 4 inches, side 2 on the top is labeled 9 inches, side 3 on the right is labeled 4 inches, side 4 is labeled 3 inches, side 5 is labeled 2 inches, side 6 is labeled 3 inches, side 7 is labeled 2 inches, and side 8 is labeled 3 inches.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_003.jpg"/>
+</media>
+</problem>
+<solution id="fs-id2284683">
+<para id="fs-id1357069">The perimeter is 30 inches.</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id719196" class="media-2">
+<para id="fs-id2218752">Access these online resources for additional instruction and practice with adding whole numbers.</para>
+<list id="fs-id1176422" display="block"><item><link url="http://www.openstaxcollege.org/l/24addwhlnumb">Adding Whole Numbers</link></item>
+</list></note>
+</section>
+<section id="fs-id1611455" class="key-concepts">
+<title>Key Concepts</title>
+<list id="fs-id1530683" list-type="bulleted" bullet-style="bullet"><item>The Identity Property of Addition states that the sum of any number and <m:math><m:mn>0</m:mn></m:math> is the number. See <link target-id="fs-id1502923"/>.</item>
+<item>The Commutative Property of Addition states that changing the order of the addends does not change their sum. See <link target-id="fs-id2224023"/>.</item>
+<item>Numbers can be added horizontally or vertically. When they are written vertically, it is important to align digits in the same place value. See <link target-id="fs-id2686794"/>.</item>
+<item>When adding numbers with more than two-digits write the numbers vertically, align digits in the same place value, and add one place value at a time. See <link target-id="fs-id1392030"/>.</item>
+<item>Just as math notation can be translated into words, English word phrases can be translated into math notation. Key words and phrases, such as <emphasis effect="italics">sum, increased by, total</emphasis>, and <emphasis effect="italics">sum</emphasis> indicate addition. See <link target-id="fs-id1826874"/>.</item>
+<item>To solve applications first identify what is being asked, then write a phrase and translate it to math notation. Finally do the math and write a complete sentence to answer the question. See <link target-id="fs-id1880782"/>.</item>
+</list></section>
+<section id="fs-id2263283" class="section-exercises">
+<section id="fs-id2150139">
+<title>Practice Makes Perfect</title>
+<para id="fs-id4121509"><emphasis effect="bold">Add Whole Numbers</emphasis> In the following exercises, fill in the missing values in each chart.</para>
+<para id="fs-id2702696"><newline/></para>
+<exercise id="fs-id2190914">
+<problem id="fs-id1499443">
+<media id="fs-id1518798" alt="An image of a table with 11 columns and 11 rows. The cells in the first row and first column are shaded darker than the other cells. The first column has the values “+; 0; 1; 2; 3; 4; 5; 6; 7; 8; 9”. The second column has the values “0; 0; 1; null; 3; 4; 5; 6; null; 8; 9”. The third column has the values “1; 1; 2; 3; null; 5; 6; 7; null; 9; 10”. The fourth column has the values “2; 2; 3; 4; 5; null; 7; 8; 9; null; 11”. The fifth column has the values “3; null; 4; 5; null; null; 8; null; 10; 11; null”. The sixth column has the values “4; 4; null; 6;7; 8; null; 10; null; null; 13”. The seventh column has the values “5; 5; null; null; 8; 9; null; null; 12; null; 14”. The eighth column has the values “6; 6; 7; 8; null; null; 11; null; null; 14; null”. The ninth column has the values “7; 7; 8; null; 10; 11; null; 13; null; null; null”. The tenth column has the values “8; null; 9; null; null; 12; 13; null; 15; 16; 17”. The eleventh column has the values “9; 9; null; 11; 12; null; null; 15; 16; null; null”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_216.jpg"/>
+</media>
+</problem>
+<solution id="fs-id1795710">
+<para id="fs-id1171105158842"><newline/><media id="fs-id2658348" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_217.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<para id="fs-id1932281"><newline/></para>
+<exercise id="fs-id2307885">
+<problem id="fs-id2940472">
+<media id="fs-id2370131" alt="An image of a table with 8 columns and 5 rows. The cells in the first row and first column are shaded darker than the other cells. The cells not in the first row or column are all null. The first column has the values “+; 6; 7; 8; 9”. The first row has the values “+; 3; 4; 5; 6; 7; 8; 9”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_220.jpg"/>
+</media>
+</problem>
+<solution id="fs-id2474636">
+<para id="fs-id1171105186222"><newline/><media id="fs-id1463120" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_221.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<para id="fs-id1950178">In the following exercises, add.</para>
+<exercise id="fs-id3433877">
+<problem id="fs-id1841799">
+<para id="fs-id1612039"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>+</m:mo><m:mn>13</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>13</m:mn><m:mo>+</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1059525">
+<para id="fs-id1410064">(a) 13 (b) 13</para>
+</solution>
+</exercise>
+<exercise id="fs-id1800383">
+<problem id="fs-id2432069">
+<para id="fs-id2472756"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2926422">
+<para id="fs-id4143306"> (a) 11 (b) 11</para>
+</solution>
+</exercise>
+<exercise id="fs-id2165529">
+<problem id="fs-id2778182">
+<para id="fs-id2684827"><m:math><m:mrow><m:mn>45</m:mn><m:mo>+</m:mo><m:mn>33</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2755026">
+<para id="fs-id1336891">78</para>
+</solution>
+</exercise>
+<exercise id="fs-id3407533">
+<problem id="fs-id1607908">
+<para id="fs-id1065635"><m:math><m:mrow><m:mn>71</m:mn><m:mo>+</m:mo><m:mn>28</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1221773">
+<para id="fs-id934310">99</para>
+</solution>
+</exercise>
+<exercise id="fs-id2715529">
+<problem id="fs-id764587">
+<para id="fs-id1215661"><m:math><m:mrow><m:mn>26</m:mn><m:mo>+</m:mo><m:mn>59</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1944318">
+<para id="fs-id1828794">85</para>
+</solution>
+</exercise>
+<exercise id="fs-id1612224">
+<problem id="fs-id2143943">
+<para id="fs-id2908339"><m:math><m:mrow><m:mn>64</m:mn><m:mo>+</m:mo><m:mn>78</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1390654">
+<para id="fs-id2279598">142</para>
+</solution>
+</exercise>
+<exercise id="fs-id1360696">
+<problem id="fs-id2280789">
+<para id="fs-id2922241"><m:math><m:mrow><m:mn>168</m:mn><m:mo>+</m:mo><m:mn>325</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2620973">
+<para id="fs-id2676387">493</para>
+</solution>
+</exercise>
+<exercise id="fs-id1619766">
+<problem id="fs-id2485778">
+<para id="fs-id2160161"><m:math><m:mrow><m:mn>584</m:mn><m:mo>+</m:mo><m:mn>277</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4212245">
+<para id="fs-id1946810">861</para>
+</solution>
+</exercise>
+<exercise id="fs-id2238187">
+<problem id="fs-id2366316">
+<para id="fs-id1910846"><m:math><m:mrow><m:mn>832</m:mn><m:mo>+</m:mo><m:mn>199</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1361604">
+<para id="fs-id1499591">1,031</para>
+</solution>
+</exercise>
+<exercise id="fs-id1257721">
+<problem id="fs-id1517058">
+<para id="fs-id2280943"><m:math><m:mrow><m:mn>6,358</m:mn><m:mo>+</m:mo><m:mn>492</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1955469">
+<para id="fs-id2295088">6,850</para>
+</solution>
+</exercise>
+<exercise id="fs-id1791279">
+<problem id="fs-id2219928">
+<para id="fs-id2277393"><m:math><m:mrow><m:mn>3,740</m:mn><m:mo>+</m:mo><m:mn>18,593</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1631210">
+<para id="fs-id2431506">22,333</para>
+</solution>
+</exercise>
+<exercise id="fs-id1582947">
+<problem id="fs-id1207993">
+<para id="fs-id2642784"><m:math><m:mrow><m:mn>485,012</m:mn><m:mo>+</m:mo><m:mn>619,848</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1205670">
+<para id="fs-id1401839">1,104,860</para>
+</solution>
+</exercise>
+<exercise id="fs-id2308954">
+<problem id="fs-id1799797">
+<para id="fs-id1608176"><m:math><m:mrow><m:mn>24,731</m:mn><m:mo>+</m:mo><m:mn>592</m:mn><m:mo>+</m:mo><m:mn>3,868</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2334168">
+<para id="fs-id1566297">29,191</para>
+</solution>
+</exercise>
+<exercise id="fs-id2611500">
+<problem id="fs-id1762023">
+<para id="fs-id2581581"><m:math><m:mrow><m:mn>8,015</m:mn><m:mo>+</m:mo><m:mn>76,946</m:mn><m:mo>+</m:mo><m:mn>16,570</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1563641">
+<para id="fs-id1828176">101,531</para>
+</solution>
+</exercise>
+<para id="fs-id1262565"><emphasis effect="bold">Translate Word Phrases to Math Notation</emphasis> In the following exercises, translate each phrase into math notation and then simplify.</para>
+<exercise id="fs-id2387977">
+<problem id="fs-id2179698">
+<para id="fs-id1394583">the sum of <m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id934090">
+<para id="fs-id1827165">13 + 18 = 31</para>
+</solution>
+</exercise>
+<exercise id="fs-id1916031">
+<problem id="fs-id1632164">
+<para id="fs-id1517572">the sum of <m:math><m:mrow><m:mn>90</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>65</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1609461">
+<para id="fs-id2481653">90 + 65 = 155</para>
+</solution>
+</exercise>
+<exercise id="fs-id2223707">
+<problem id="fs-id1265711">
+<para id="fs-id2432228"><m:math><m:mrow><m:mn>33</m:mn></m:mrow></m:math> increased by <m:math><m:mrow><m:mn>49</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1517108">
+<para id="fs-id1238533">33 + 49 = 82</para>
+</solution>
+</exercise>
+<exercise id="fs-id1760728">
+<problem id="fs-id1397964">
+<para id="fs-id1836854"><m:math><m:mrow><m:mn>250</m:mn></m:mrow></m:math> more than <m:math><m:mrow><m:mn>599</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1480647">
+<para id="fs-id1826480">250 + 599 = 849</para>
+</solution>
+</exercise>
+<exercise id="fs-id1606377">
+<problem id="fs-id1835123">
+<para id="fs-id1785250">the total of <m:math><m:mrow><m:mn>628</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>77</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1944908">
+<para id="fs-id1509499">628 + 77 = 705</para>
+</solution>
+</exercise>
+<exercise id="fs-id2281219">
+<problem id="fs-id2129977">
+<para id="fs-id2265450"><m:math><m:mrow><m:mn>1,482</m:mn></m:mrow></m:math> added to <m:math><m:mrow><m:mn>915</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2144836">
+<para id="fs-id2264496">915 + 1,482 = 2,397</para>
+</solution>
+</exercise>
+<para id="fs-id1458706"><emphasis effect="bold">Add Whole Numbers in Applications</emphasis> In the following exercises, solve the problem.</para>
+<exercise id="fs-id2195542">
+<problem id="fs-id1760965">
+<para id="fs-id1747338"><emphasis effect="bold">Home remodeling</emphasis> Sophia remodeled her kitchen and bought a new range, microwave, and dishwasher. The range cost <m:math><m:mrow><m:mtext>$1,100</m:mtext><m:mo>,</m:mo></m:mrow></m:math> the microwave cost <m:math><m:mrow><m:mtext>$250</m:mtext><m:mo>,</m:mo></m:mrow></m:math> and the dishwasher cost <m:math><m:mrow><m:mtext>$525</m:mtext><m:mo>.</m:mo></m:mrow></m:math> What was the total cost of these three appliances?</para>
+</problem>
+<solution id="fs-id1801474">
+<para id="fs-id1408146">The total cost was $1,875.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2264366">
+<problem id="fs-id2135940">
+<para id="fs-id1968068"><emphasis effect="bold">Bike riding</emphasis> Ethan rode his bike <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> miles on Monday, <m:math><m:mrow><m:mn>19</m:mn></m:mrow></m:math> miles on Tuesday, <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> miles on Wednesday, <m:math><m:mrow><m:mn>25</m:mn></m:mrow></m:math> miles on Friday, and <m:math><m:mrow><m:mn>68</m:mn></m:mrow></m:math> miles on Saturday. What was the total number of miles Ethan rode?</para>
+</problem>
+<solution id="fs-id1722779">
+<para id="fs-id1374526">Ethan rode 138 miles.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2609576">
+<problem id="fs-id2198580">
+<para id="fs-id1835026"><emphasis effect="bold">Apartment size</emphasis> Jackson lives in a <m:math><m:mn>7</m:mn></m:math> room apartment. The number of square feet in each room is <m:math><m:mrow><m:mn>238</m:mn><m:mo>,</m:mo><m:mn>120</m:mn><m:mo>,</m:mo><m:mn>156</m:mn><m:mo>,</m:mo><m:mn>196</m:mn><m:mo>,</m:mo><m:mn>100</m:mn><m:mo>,</m:mo><m:mn>132</m:mn><m:mo>,</m:mo></m:mrow></m:math> and <m:math><m:mrow><m:mn>225</m:mn><m:mo>.</m:mo></m:mrow></m:math> What is the total number of square feet in all <m:math><m:mn>7</m:mn></m:math> rooms?</para>
+</problem>
+<solution id="fs-id2474540">
+<para id="fs-id1386098">The total square footage in the rooms is 1,167 square feet.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1962359">
+<problem id="fs-id1280684">
+<para id="fs-id1352275"><emphasis effect="bold">Salary</emphasis> Last year Natalie’s salary was <m:math><m:mrow><m:mtext>$82,572</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Two years ago, her salary was <m:math><m:mrow><m:mtext>$79,316</m:mtext><m:mo>,</m:mo></m:mrow></m:math> and three years ago it was <m:math><m:mrow><m:mtext>$75,298</m:mtext><m:mo>.</m:mo></m:mrow></m:math> What is the total amount of Natalie’s salary for the past three years?</para>
+</problem>
+<solution id="fs-id1957190">
+<para id="fs-id2164332">Natalie’s total salary is $237,186.</para>
+</solution>
+</exercise>
+<para id="fs-id2789052">In the following exercises, find the perimeter of each figure.</para>
+<exercise id="fs-id2658194">
+<problem id="fs-id2466163">
+<media id="fs-id3323886" alt="An image of a triangle with side lengths of 14 inches, 12 inches, and 18 inches.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_208_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-id764274">
+<para id="fs-id1910210">The perimeter of the figure is 44 inches.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1718142">
+<problem id="fs-id1800041">
+<media id="fs-id1509030" alt="A rectangle 21 meters wide and 7 meters tall.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_210_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-id1786922">
+<para id="fs-id2599809">The perimeter of the figure is 56 meters.</para>
+</solution>
+</exercise>
+<para id="fs-id2792127"><newline/></para>
+<exercise id="fs-id1788660">
+<problem id="fs-id2220439">
+<media id="fs-id1386731" alt="A trapezoid with horizontal top length of 19 yards, the side lengths are 18 yards and are diagonal, and the horizontal bottom length is 16 yards.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_212_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-id1462641">
+<para id="fs-id1918111">The perimeter of the figure is 71 yards.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2427822">
+<problem id="fs-id1933947">
+<media id="fs-id1727317" alt="This is a rectangle-like image with six sides. Starting from the top left of the figure, the first line runs right for 24 feet. From the end of this line, the second line runs down for 7 feet. Then the third line runs left from this point for 19 feet. The fourth line runs up 3 feet. The fifth line runs left for 5 feet. The sixth line runs up for 4 feet, connecting it at a corner with start of the first line.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_02_214_img.jpg"/>
+</media>
+</problem>
+<solution id="fs-id2597307">
+<para id="fs-id764492">The perimeter of the figure is 62 feet.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2280700">
+<title>Everyday Math</title>
+<exercise id="fs-id1606437">
+<problem id="fs-id3217928">
+<para id="fs-id1947377"><emphasis effect="bold">Calories</emphasis> Paulette had a grilled chicken salad, ranch dressing, and a <m:math><m:mrow><m:mtext>16-ounce</m:mtext></m:mrow></m:math> drink for lunch. On the restaurant’s nutrition chart, she saw that each item had the following number of calories:</para>
+<para id="fs-id1262668">Grilled chicken salad – <m:math><m:mrow><m:mn>320</m:mn></m:mrow></m:math> calories<newline/>
+Ranch dressing – <m:math><m:mrow><m:mn>170</m:mn></m:mrow></m:math> calories<newline/>
+<m:math><m:mrow><m:mtext>16-ounce</m:mtext></m:mrow></m:math> drink – <m:math><m:mrow><m:mn>150</m:mn></m:mrow></m:math> calories</para>
+<para id="fs-id2806755">What was the total number of calories of Paulette’s lunch?</para>
+</problem>
+<solution id="fs-id1880768">
+<para id="fs-id1548221">The total number of calories was 640.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1567863">
+<problem id="fs-id1394827">
+<para id="fs-id2270985"><emphasis effect="bold">Test scores</emphasis> A students needs a total of <m:math><m:mrow><m:mn>400</m:mn></m:mrow></m:math> points on five tests to pass a course. The student scored <m:math><m:mrow><m:mn>82</m:mn><m:mo>,</m:mo><m:mn>91</m:mn><m:mo>,</m:mo><m:mn>75</m:mn><m:mo>,</m:mo><m:mn>88</m:mn><m:mo>,</m:mo><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>70</m:mn><m:mo>.</m:mo></m:mrow></m:math> Did the student pass the course?</para>
+</problem>
+<solution id="fs-id1171103481776">
+<para id="fs-id1171105500772">Yes, he scored 406 points.</para>
+</solution>
+</exercise>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2908351">
+<term>addends</term>
+<meaning id="fs-id1256531">numbers that are added together</meaning>
+</definition>
+<definition id="fs-id1918412">
+<term>additive identity</term>
+<meaning id="fs-id1475224">number that does not change the sum when added to another number; zero</meaning>
+</definition>
+<definition id="fs-id2658422">
+<term>Commutative Property of Addition</term>
+<meaning id="fs-id1701288">property that states that changing the order of the addends does not change their sum</meaning>
+</definition>
+<definition id="fs-id1152121">
+<term>equation</term>
+<meaning id="fs-id1523700">math sentence that shows that two expressions are equal</meaning>
+</definition>
+<definition id="fs-id1166761239758">
+<term>expression</term>
+<meaning id="fs-id1581444">math statement that includes numbers and operations</meaning>
+</definition>
+<definition id="fs-id1742795">
+<term>Identity Property of Addition</term>
+<meaning id="fs-id2657628">states that the sum of any number <m:math><m:mrow><m:mi>a</m:mi></m:mrow></m:math> and <m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math> is the number</meaning>
+</definition>
+<definition id="fs-id1618949">
+<term>perimeter</term>
+<meaning id="fs-id1827017">the distance around a geometric figure; the sum of the lengths of the sides</meaning>
+</definition>
+<definition id="fs-id1226736">
+<term>sum</term>
+<meaning id="fs-id1245763">the result of adding numbers</meaning>
+</definition>
+</glossary>
+</document>

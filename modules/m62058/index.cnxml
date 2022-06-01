@@ -1,0 +1,102 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="preface">
+
+<title>About This Book</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62058</md:content-id>
+  <md:title>About This Book</md:title>
+  <md:abstract/>
+  <md:uuid>6cfba058-d6ae-4abf-9cd9-f87d470a7e7c</md:uuid>
+</metadata>
+
+<content><section id="fs-id3067861">
+<para id="eip-898">Welcome to <emphasis effect="italics">Prealgebra,</emphasis> an OpenStax resource. This textbook has been created with several goals in mind: accessibility, customization, and student engagement—all while encouraging students toward high levels of academic scholarship. Instructors and students alike will find that this textbook offers a strong foundation in pre-algebra in an accessible format.</para><section id="fs-id1169923725693">
+  <section id="eip-692"><title><emphasis effect="italics">About OpenStax</emphasis></title><para id="eip-774">OpenStax is a non-profit organization committed to improving student access to quality learning materials. Our free textbooks go through a rigorous editorial publishing process. Our texts are developed and peer-reviewed by educators to ensure they are readable, accurate, and meet the scope and sequence requirements of today’s college courses. Unlike traditional textbooks, OpenStax resources live online and are owned by the community of educators using them. Through our partnerships with companies and foundations committed to reducing costs for students, OpenStax is working to improve access to higher education for all. OpenStax is an initiative of Rice University and is made possible through the generous support of several philanthropic foundations. OpenStax textbooks are used at many colleges and universities around the world.  Please go to <link url="https://openstaxcollege.org/pages/adoptions">https://openstaxcollege.org/pages/adoptions</link> to see our rapidly expanding number of adoptions.
+</para></section><section id="eip-520"><title><emphasis effect="italics">About OpenStax's Resources</emphasis></title><para id="eip-80">
+OpenStax resources provide quality academic instruction. Three key features set our materials apart from others: they can be customized by instructors for each class, they are a "living" resource that grows online through contributions from educators, and they are available free or for minimal cost.
+</para></section><section id="eip-673"><title><emphasis effect="italics">Curation</emphasis></title><para id="eip-629">To broaden access and encourage community curation, <emphasis effect="italics">Prealgebra</emphasis> is “open source” licensed under a Creative Commons Attribution (CC-BY) license. The mathematics community is invited to submit feedback to enhance and strengthen the material and keep it current and relevant for today’s students. 
+</para></section><section id="eip-191"><title><emphasis effect="italics">Cost</emphasis></title><para id="eip-id1230303">
+Our textbooks are available for free online, and in low-cost print and e-book editions.
+</para></section></section><section id="eip-204"><title>About Prealgebra</title><para id="eip-196">The core of <emphasis effect="italics">Prealgebra</emphasis> is a textbook for a one-semester course that serves as a bridge between arithmetic and algebra. The basic philosophy of this book is to strengthen students’ arithmetic skills and introduce the fundamental concepts and vocabulary of algebra in a nurturing, non-threatening environment while addressing the needs of students with diverse backgrounds and learning styles. 
+</para></section><section id="eip-655"><title>Coverage and Scope</title><para id="eip-974">
+<emphasis effect="italics">Openstax Prealgebra</emphasis> follows a nontraditional approach in its presentation of content. The beginning, in particular, is presented as a sequence of small steps so that students gain confidence in their ability to succeed in the course. The order of topics was carefully planned to emphasize the logical progression throughout the course and to facilitate a thorough understanding of each concept. As new ideas are presented, they are explicitly related to previous topics.
+</para><list id="eip-992"><item><emphasis effect="bold">Chapter 1: Whole Numbers</emphasis><newline/><para id="eip-id1166102478472">Each of the four basic operations with whole numbers–addition, subtraction, multiplication, and division–is modeled and explained. As each operation is covered, discussions of algebraic notation and operation signs, translation of algebraic expressions into word phrases, and the use the operation in applications are included.</para></item>
+<item><emphasis effect="bold">Chapter 2: The Language of Algebra</emphasis><newline/><para id="eip-id1164699857258">Mathematical vocabulary as it applies to the whole numbers is presented. The use of variables, which distinguishes algebra from arithmetic, is introduced early in the chapter, and the development of and practice with arithmetic concepts use variables as well as numeric expressions. In addition, the difference between expressions and equations is discussed, word problems are introduced, and the process for solving one-step equations is modeled.</para></item>
+<item><emphasis effect="bold">Chapter 3: Integers</emphasis><newline/><para id="eip-id1164686725741">While introducing the basic operations with negative numbers, students continue to practice simplifying, evaluating, and translating algebraic expressions. The Division Property of Equality is introduced and used to solve one-step equations.</para></item>
+<item><emphasis effect="bold">Chapter 4: Fractions</emphasis><newline/><para id="eip-id1164699787880">Fraction circles and bars are used to help make fractions real and to develop operations on them. Students continue simplifying and evaluating algebraic expressions with fractions, and learn to use the Multiplication Property of Equality to solve equations involving fractions.</para></item>
+<item><emphasis effect="bold">Chapter 5: Decimals</emphasis><newline/><para id="eip-id1164691071563">Basic operations with decimals are presented, as well as methods for converting fractions to decimals and vice versa. Averages and probability, unit rates and unit prices, and square roots are included to provide opportunities to use and round decimals.</para></item>
+<item><emphasis effect="bold">Chapter 6: Percents</emphasis><newline/><para id="eip-id1164693485022">Conversions among percents, fractions, and decimals are explored. Applications of percent include calculating sales tax, commission, and simple interest. Proportions and solving percent equations as proportions are addressed as well.</para></item>
+<item><emphasis effect="bold">Chapter 7: The Properties of Real Numbers</emphasis><newline/><para id="eip-id1164689451233">The properties of real numbers are introduced and applied as a culmination of the work done thus far, and to prepare students for the upcoming chapters on equations, polynomials, and graphing. </para></item>
+<item><emphasis effect="bold">Chapter 8: Solving Linear Equations</emphasis><newline/><para id="eip-id1164688355072">A gradual build-up to solving multi-step equations is presented. Problems involve solving equations with constants on both sides, variables on both sides, variables and constants on both sides, and fraction and decimal coefficients.</para></item>
+<item><emphasis effect="bold">Chapter 9: Math Models and Geometry</emphasis><newline/><para id="eip-id1164701002884">The chapter begins with opportunities to solve “traditional” number, coin, and mixture problems. Geometry sections cover the properties of triangles, rectangles, trapezoids, circles, irregular figures, the Pythagorean Theorem, and volumes and surface areas of solids. Distance-rate-time problems, and formulas are included as well.</para></item>
+<item><emphasis effect="bold">Chapter 10: Polynomials</emphasis><newline/><para id="eip-id1164689142386">Adding and subtracting polynomials is presented as an extension of prior work on combining like terms. Integer exponents are defined and then applied to scientific notation. The chapter concludes with a brief introduction to factoring polynomials.</para></item>
+<item><emphasis effect="bold">Chapter 11: Graphs</emphasis><newline/><para id="eip-id1164689681900">This chapter is placed last so that all of the algebra with one variable is completed before working with linear equations in two variables. Examples progress from plotting points to graphing lines by making a table of solutions to an equation. Properties of vertical and horizontal lines and intercepts are included. Graphing linear equations at the end of the course gives students a good opportunity to review evaluating expressions and solving equations.</para></item></list><para id="eip-178">All chapters are broken down into multiple sections, the titles of which can be viewed in the Table of Contents.</para></section><section id="eip-452"><title>Accuracy of the Content</title><para id="eip-410">
+We have taken great pains to ensure the validity and accuracy of this text. 
+</para><para id="eip-259">The Solutions Manual, which was written and developed after the Student Edition, has also been rigorously checked for accuracy. </para><para id="eip-11">In spite of the efforts described above, we acknowledge the possibility that—as with any textbook—some errata have slipped past the guards. We encourage users to report errors via our <link target-id="https://openstaxcollege.org/textbooks/prealgebra/errata">Errata (https://openstaxcollege.org/textbooks/prealgebra/errata)</link> page.  </para></section><section id="eip-599"><title>About Our Team</title><section id="eip-31"><title><emphasis effect="italics">Lead Authors, Senior Content Experts</emphasis></title><para id="eip-675">Lynn Marecek and MaryAnne Anthony-Smith have been teaching mathematics at Santa Ana College for many years and have worked together on several projects aimed at improving student learning in developmental math courses.  They are the authors of <emphasis effect="italics">Strategies for Success: Study Skills for the College Math Student,</emphasis> published by Pearson HigherEd.</para><para id="eip-891"><title>Lynn Marecek</title>Lynn Marecek has focused her career on meeting the needs of developmental math students during her tenure as a professor at Santa Ana College and prior to that as a high school teacher. No matter what she is involved in, her passion is her students-especially those who have struggled with math. At Santa Ana College she has been awarded the Distinguished Faculty Award, Innovation Award, and the Curriculum Development Award four times. She is a Coordinator of Freshman Experience Program, the Department Facilitator for Redesign, and a member of the Student Success and Equity Committee and the Basic Skills Initiative Task Force. She is a member of the AMATYC Developmental Math Committee. Lynn holds a bachelor’s degree from Valparaiso University and master’s degrees from Purdue University and National University. She has also completed work in a doctoral program in Instructional Leadership in Curriculum and Instruction in Higher Education. </para><para id="eip-676"><title>MaryAnne Anthony-Smith</title>MaryAnne Anthony-Smith was a mathematics professor at Santa Ana College for 39 years, until her retirement in June 2015. She was honored to have been hired fresh out of graduate school as the first woman math professor at the college and has since been honored with the college’s Distinguished Faculty, Professional Development, Curriculum Development, and Professional Achievement awards. MaryAnne has served as department chair, acting dean, chair of the professional development committee, institutional researcher, and faculty coordinator on several state and federally-funded grants.  She is the community college coordinator of California’s Mathematics Diagnostic Testing Project, a member of AMATYC’s Placement and Assessment Committee and is on the math workgroup writing the California Community Colleges’ Common Assessment. She is the author of the chapter <emphasis effect="italics">Making Children Count: Fostering Mathematical Literacy</emphasis> in the 1999 NCTM publication <emphasis effect="italics">Developing Mathematically Promising Students</emphasis>. She earned her bachelor’s degree from the University of California San Diego and master’s degrees from San Diego State and Pepperdine Universities.  </para><section id="eip-725"><title><emphasis effect="italics">Faculty Reviewers and Consultants</emphasis></title><para id="eip-348">
+
+
+Tony Ayers, Collin College – Preston Ridge Community College, TX<newline/>
+David Behrman, Somerset Community College, KY<newline/>
+Brandie Biddy, Cecil College, MD<newline/>
+Bryan Blount, Kentucky Wesleyan College, KY<newline/>
+Steven Boettcher, Estrella Mountain Community College, AZ<newline/>
+Kimberlyn Brooks, Cuyahoga Community College, OH<newline/>
+Pamela Burleson, Lone Star College University Park, TX<newline/>
+Tamara Carter, Texas A&amp;M University, TX<newline/>
+Phil Clark, Scottsdale Community College, AZ<newline/>
+Christina Cornejo, Erie Community College, NY<newline/>
+Denise Cutler, Bay de Noc Community College, MI<newline/>
+Richard Darnell, Eastern Wyoming College, WY<newline/>
+Robert Diaz, Fullerton College, CA<newline/>
+Karen Dillon, Thomas Nelson Community College, VA<newline/>
+Valeree Falduto, Palm Beach State, FL<newline/>
+Bryan Faulkner, Ferrum College, VA<newline/>
+David French, Tidewater Community College, VA<newline/>
+Stephanie Gable, Columbus State University, AL<newline/>
+Heather Gallacher, Cleveland State University, OH<newline/>
+Rachel Gross, Towson University, MD<newline/>
+Dianne Hendrickson, Becker College, MA<newline/>
+Linda Hunt, Shawnee State University, OH<newline/>
+Betty Ivory, Cuyahoga Community College, OH<newline/>
+Joanne Kendall, Lone Star College System, TX<newline/>
+Kevin Kennedy, Athens Technical College, GA<newline/>
+Stephanie Krehl, Mid-South Community College, AR<newline/>
+Allyn Leon, Imperial Valley College, CA <newline/>
+Gerald LePage, Bristol Community College, MA<newline/>
+Laurie Lindstrom, Bay de Noc Community College, MI<newline/>
+Jonathan Lopez, Niagara University, NY<newline/>
+Yixia Lu, South Suburban College, IL<newline/>
+Mikal McDowell, Cedar Valley College, TX<newline/>
+Kim McHale – Columbia  College of Missouri, MO<newline/>
+Allen Miller, Northeast Lakeview College, TX<newline/>
+Michelle Moravec, Baylor University TX/McLennan Community College, TX<newline/>
+Jennifer Nohai-Seaman, Housatonic Community College, CT<newline/>
+Rick Norwood, East Tennessee State University, TN<newline/>
+Linda Padilla, Joliet Junior College, IL<newline/>
+Kelly Proffitt, Patrick Henry Community College, VA<newline/>
+Teresa Richards, Butte-Glenn Community College, CA<newline/>
+Christian Roldan-Johnson, College of Lake County Community College, IL<newline/>
+Patricia C. Rome, Delgado Community College, City Park Campus, LA<newline/>
+Kegan Samuel, Naugatuck Valley Community College, CT<newline/>
+Bruny Santiago, Tarrant College Southeast Campus, TX<newline/>
+Sutandra Sarkar, Georgia State University, GA<newline/>
+Richard Sgarlotti, Bay Mills Community College, MI<newline/>
+Chuang Shao, Rose State College, OK<newline/>
+Carla VanDeSande, Arizona State University, AZ<newline/>
+Shannon Vinson, Wake Technical Community College, NC<newline/>
+Maryam Vulis, Norwalk Community College, CT<newline/>
+Toby Wagner, Chemeketa Community College, OR<newline/>
+Libby Watts, Tidewater Community College, VA<newline/>
+Becky Wheelock, San Diego City College, CA<newline/>
+
+
+
+
+
+
+
+</para></section></section></section><para id="delete_me">
+     <!-- Insert module text here -->
+  </para></section>
+</content>
+
+</document>

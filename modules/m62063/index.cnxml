@@ -1,0 +1,1275 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Multiplying Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62063</md:content-id>
+  <md:title>Multiplying Whole Numbers</md:title>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
+<item>Use multiplication notation</item>
+<item>Model multiplication of whole numbers</item>
+<item>Multiply whole numbers</item>
+<item>Translate word phrases to math notation</item>
+<item>Multiply whole numbers in applications</item>
+</list></md:abstract>
+  <md:uuid>1f807bef-eb95-47b4-a6b9-376fd6d50929</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id2264601">
+<title>Use Multiplication Notation</title>
+<para id="fs-id2496968">Suppose you were asked to count all these pennies shown in <link target-id="CNX_BMath_Figure_01_04_001"/>.</para>
+<figure id="CNX_BMath_Figure_01_04_001">
+<media id="fs-id1387943" alt="An image of 3 horizontal rows of pennies, each row containing 8 pennies.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_001.jpg"/>
+</media>
+</figure>
+<para id="fs-id2300732">Would you count the pennies individually? Or would you count the number of pennies in each row and add that number <m:math><m:mn>3</m:mn></m:math> times.</para>
+<equation id="fs-id1935432" class="unnumbered"><label/><m:math><m:mrow><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1772585">Multiplication is a way to represent repeated addition. So instead of adding <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math> three times, we could write a multiplication expression.</para>
+<equation id="fs-id4229230" class="unnumbered"><label/><m:math><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math></equation>
+<para id="fs-id2818031">We call each number being multiplied a <term>factor</term> and the result the <term>product</term>. We read <m:math><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math> as <emphasis effect="italics">three times eight</emphasis>, and the result as <emphasis effect="italics">the product of three and eight</emphasis>.</para>
+<para id="fs-id2339858">There are several symbols that represent multiplication. These include the symbol <m:math><m:mo>×</m:mo></m:math> as well as the dot, <m:math><m:mo>·</m:mo></m:math>, and parentheses <m:math><m:mrow><m:mo>(</m:mo><m:mspace width="0.2em"/><m:mtext>).</m:mtext></m:mrow></m:math></para>
+<note id="fs-id1266464">
+<title>Operation Symbols for Multiplication</title>
+<para id="fs-id2196798">To describe multiplication, we can use symbols and words.</para>
+<table id="fs-id1187222" summary="A table with 5 columns and 1 row. The first column is labeled “operation” and has the value “multiplication”. The second column is labeled “notation” and has three values - the x multiplication symbol, the dot multiplication symbol, and the parenthesis multiplication symbol. The third column is labeled “expression” and has three values - 3 times 8 with the different multiplication symbols from the second column. The fourth column is labeled “read as” and has the value “three times eight”. The fifth column has the label “result” and has the value “the product of 3 and 8”." class="unnumbered">
+<label/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry align="left">Operation</entry>
+<entry align="left">Notation</entry>
+<entry align="left">Expression</entry>
+<entry align="left">Read as</entry>
+<entry align="left">Result</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><m:math><m:mrow><m:mtext>Multiplication</m:mtext></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math><newline/><m:math><m:mrow><m:mo>·</m:mo></m:mrow></m:math><newline/><m:math><m:mrow><m:mo>(</m:mo><m:mspace width="0.2em"/><m:mo>)</m:mo></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>8</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mtext>three times eight</m:mtext></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mtext>the product of 3 and 8</m:mtext></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</note>
+<note id="fs-id2172015" class="try">
+<exercise id="fs-id1223488">
+<problem id="fs-id2819085">
+<para id="fs-id2595008">Translate from math notation to words:</para>
+<para id="fs-id2297084"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>18</m:mn><m:mo>·</m:mo><m:mn>11</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2278064">
+<para id="fs-id1774673">(a) eight times seven ; the product of eight and seven (b) eighteen times eleven ; the product of eighteen and eleven</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1948860" class="try">
+<exercise id="fs-id1396373">
+<problem id="fs-id1463587">
+<para id="fs-id1823892">Translate from math notation to words:</para>
+<para id="fs-id1545541"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>13</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mo stretchy="false">(</m:mo><m:mn>16</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1465166">
+<para id="fs-id2431256">(a) thirteen times seven ; the product of thirteen and seven (b) five times sixteen; the product of five and sixteen</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2483732">
+<title>Multiply Whole Numbers</title>
+<para id="fs-id1199536">You will need to know all the one digit multiplication facts. Make sure you know them fluently before proceeding in this section.</para><para id="fs-id2458835"><link target-id="fs-id1563789"/> shows the multiplication facts. Each box shows the product of the number down the left column and the number across the top row. If you are unsure about a product, model it. It is important that you memorize any number facts you do not already know so you will be ready to multiply larger numbers.</para>
+<table id="fs-id1563789" class="column-header" summary="This is a multiplication table with 11 columns and 11 rows. The first column has the values “x; 0; 1; 2; 3; 4; 5; 6; 7; 8; 9”. The second column has the values “0” throughout the row. The third column has the values “1; 0; 1; 2; 3; 4; 5; 6; 7; 8; 9”. The fourth column has the values “2; 0; 2; 4; 6; 8; 10; 12; 14; 16; 18”. The fifth column has the values “3; 0; 3; 6; 9; 12; 15; 18; 21; 24; 27”. The sixth column has the values “4; 0; 4; 8; 12; 16; 20; 24; 28; 32; 36”. The seventh column has the values “5; 0; 5; 10; 15; 20; 25; 30; 35; 40; 45”. The eighth column has the values “6; 0; 6; 12; 18; 24; 30; 36; 42; 48; 54”. The ninth column has the values “7; 0; 7; 14; 21; 28; 35; 42; 49; 56; 63”. The tenth column has the values “8; 0; 8; 16; 24; 32; 40; 48; 56; 64; 72”. The eleventh column has the values “9; 0; 9; 18; 27; 36, 45; 54; 63; 72; 81”.">
+<tgroup cols="10">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<colspec colnum="9" colname="c9"/>
+<colspec colnum="10" colname="c10"/>
+<tbody>
+<row valign="top">
+<entry align="center"><m:math><m:mo mathvariant="bold">×</m:mo></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">1</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">2</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">3</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">4</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">5</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">6</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">7</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">8</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn mathvariant="bold">9</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>0</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>1</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>2</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>7</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>2</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>2</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>3</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>21</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>27</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>4</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>32</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>36</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>5</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>25</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>30</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>35</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>40</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>45</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>6</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>30</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>36</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>42</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>48</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>54</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>7</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>7</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>21</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>35</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>42</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>49</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>56</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>63</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>8</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>32</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>40</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>48</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>56</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>64</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>72</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="left"><m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>9</m:mn></m:mstyle></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>27</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>36</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>45</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>54</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>63</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>72</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>81</m:mn></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1377006">What happens when you multiply a number by zero? You can see that the product of any number and zero is zero. This is called the <term>Multiplication Property of Zero</term>.</para>
+<note id="fs-id3256290">
+<title>Multiplication Property of Zero</title>
+<para id="fs-id2590389">According to the Multiplication Property of Zero, the product of any number and <m:math><m:mrow><m:mn>0</m:mn></m:mrow></m:math> is <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<equation id="fs-id2819924" class="unnumbered"><label/><m:math><m:mtable><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mi>a</m:mi><m:mo>·</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0</m:mn><m:mo>·</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+</note>
+<example id="fs-id2382326">
+<exercise id="fs-id2382328"><problem id="fs-id2382330">
+<para id="fs-id2382332">Multiply: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>·</m:mo><m:mn>11</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>42</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2399473">
+<para id="fs-id2399476"><m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn><m:mo>·</m:mo><m:mn>11</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>(a) The product of any number and zero is zero.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mo stretchy="false">(</m:mo><m:mn>42</m:mn><m:mo stretchy="false">)</m:mo><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>(b) Multiplying by zero results in zero.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>0</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise></example>
+<para id="fs-id2218115">What happens when you multiply a number by one? Multiplying a number by one does not change its value. We call this fact the <term>Identity Property of Multiplication</term>, and <m:math><m:mn>1</m:mn></m:math> is called the <term>multiplicative identity</term>.</para>
+<note id="fs-id2202982">
+<title>Identity Property of Multiplication</title>
+<para id="fs-id1509428">According to the Identity Property of Multiplication, the product of any number and <m:math><m:mn>1</m:mn></m:math> is the number.</para>
+<equation id="fs-id2455366" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd><m:mn>1</m:mn><m:mo>·</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mi>a</m:mi><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mi>a</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+</note>
+<example id="fs-id2376859">
+<exercise id="fs-id2376861">
+<problem id="fs-id2376863">
+<para id="fs-id2630139">Multiply: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>11</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>42</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1824666">
+<title>Solution</title>
+<para id="fs-id1824668"><m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mo stretchy="false">(</m:mo><m:mn>11</m:mn><m:mo stretchy="false">)</m:mo><m:mn>1</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>(a) The product of any number and one is the number.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>11</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>42</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>(b) Multiplying by 1 does not change the value.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>42</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1524218" class="try">
+<exercise id="fs-id1383853">
+<problem id="fs-id1383855">
+<para id="fs-id1383857">Find each product:</para>
+<para id="fs-id1383860"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>19</m:mn><m:mo stretchy="false">)</m:mo><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>39</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1805427">
+<para id="fs-id1859560">(a) 19 (b) 39</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1904682">Earlier in this chapter, we learned that the Commutative Property of Addition states that changing the order of addition does not change the sum. We saw that <m:math><m:mrow><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>17</m:mn></m:mrow></m:math> is the same as <m:math><m:mrow><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>17</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id2298877">Is this also true for multiplication? Let’s look at a few pairs of factors.</para>
+<equation id="fs-id2298882" class="unnumbered"><label/><m:math><m:mrow><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mo>=</m:mo><m:mn>28</m:mn><m:mspace width="2em"/><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>28</m:mn></m:mrow></m:math></equation>
+<equation id="fs-id2223565" class="unnumbered"><label/><m:math><m:mrow><m:mn>9</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mo>=</m:mo><m:mn>63</m:mn><m:mspace width="2em"/><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>63</m:mn></m:mrow></m:math></equation>
+<equation id="fs-id2707202" class="unnumbered"><label/><m:math><m:mrow><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>72</m:mn><m:mspace width="2em"/><m:mn>9</m:mn><m:mo>·</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>72</m:mn></m:mrow></m:math></equation>
+<para id="fs-id2630348">When the order of the factors is reversed, the product does not change. This is called the <term>Commutative Property of Multiplication</term>.</para>
+<note id="fs-id2630355">
+<title>Commutative Property of Multiplication</title>
+<para id="fs-id1826597">According to the Commutative Property of Multiplication, changing the order of the factors does not change their product.</para>
+<equation id="fs-id1826601" class="unnumbered"><label/><m:math><m:mrow><m:mi>a</m:mi><m:mo>·</m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mi>b</m:mi><m:mo>·</m:mo><m:mi>a</m:mi></m:mrow></m:math></equation>
+</note>
+<example id="fs-id2204613">
+<exercise id="fs-id2204615">
+<problem id="fs-id2204617">
+<para id="fs-id2204619">Multiply: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1861907">
+<title>Solution</title>
+<para id="fs-id1861912"><m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>(a) Multiply.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>56</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>8</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mtext>(b) Multiply.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>56</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2129773" class="try">
+<exercise id="fs-id2905682">
+<problem id="fs-id2905684">
+<para id="fs-id2905686">Multiply: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>9</m:mn><m:mo>·</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>6</m:mn><m:mo>·</m:mo><m:mn>9</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2426142">
+<para id="fs-id2426144">54 and 54; both are the same.</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1298364">To multiply numbers with more than one digit, it is usually easier to write the numbers vertically in columns just as we did for addition and subtraction.</para>
+<equation id="fs-id1171103456716" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>27</m:mn><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+<para id="fs-id1949006">We start by multiplying <m:math><m:mn>3</m:mn></m:math> by <m:math><m:mrow><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<equation id="fs-id1884635" class="unnumbered"><label/><m:math><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>=</m:mo><m:mn>21</m:mn></m:mrow></m:math></equation>
+<para id="fs-id2269385">We write the <m:math><m:mn>1</m:mn></m:math> in the ones place of the product. We carry the <m:math><m:mn>2</m:mn></m:math> tens by writing <m:math><m:mn>2</m:mn></m:math> above the tens place.</para>
+<media id="fs-id2648668" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_008_img.jpg"/>
+</media>
+<para id="fs-id1517768">Then we multiply the <m:math><m:mn>3</m:mn></m:math> by the <m:math><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo></m:mrow></m:math> and add the <m:math><m:mn>2</m:mn></m:math> above the tens place to the product. So <m:math><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo></m:mrow></m:math> and <m:math><m:mrow><m:mn>6</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math> Write the <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math> in the tens place of the product.</para>
+<media id="fs-id3292986" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_010_img.jpg"/>
+</media>
+<para id="fs-id1823073">The product is <m:math><m:mrow><m:mn>81</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id2993370">When we multiply two numbers with a different number of digits, it’s usually easier to write the smaller number on the bottom. You could write it the other way, too, but this way is easier to work with.</para>
+<example id="fs-id1233452"><exercise id="fs-id1233454">
+<problem id="fs-id1233456">
+<para id="fs-id1233459">Multiply: <m:math><m:mrow><m:mn>15</m:mn><m:mo>·</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1466356">
+<para id="fs-id1466361"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write the numbers so the digits 5 and 4 line up</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>15</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>vertically.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.3em"/><m:mn>4</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply 4 by the digit in the ones place of</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>15</m:mn><m:mtext>.</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>20</m:mn><m:mo>.</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write 0 in the ones place of the product</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mn>1</m:mn><m:mn mathsize="small">2</m:mn></m:mover><m:mn>5</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>and carry the 2 tens.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.3em"/><m:mn>4</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>0</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply 4 by the digit in the tens place of</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>15</m:mn><m:mtext>.</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Add the 2 tens we carried.</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write the 6 in the tens place of the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mn>1</m:mn><m:mn mathsize="small">2</m:mn></m:mover><m:mn>5</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>product.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.3em"/><m:mn>4</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>6</m:mn><m:mspace width="0.08em"/><m:mn>0</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example><note id="fs-id2436957" class="try">
+<exercise id="fs-id1835316">
+<problem id="fs-id1835318">
+<para id="fs-id1835320">Multiply: <m:math><m:mrow><m:mn>64</m:mn><m:mo>·</m:mo><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2927768">
+<para id="fs-id2927770">518</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id3408303" class="try">
+<exercise id="fs-id3408307">
+<problem id="fs-id2280467">
+<para id="fs-id2280469">Multiply: <m:math><m:mrow><m:mn>57</m:mn><m:mo>·</m:mo><m:mn>6</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1384000">
+<para id="fs-id1384002">342</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id2830372">
+<exercise id="fs-id2830374"><problem id="fs-id2830376">
+<para id="fs-id2830378">Multiply: <m:math><m:mrow><m:mn>286</m:mn><m:mo>·</m:mo><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2593919">
+<para id="fs-id2593921"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write the numbers so the digits 5 and 6 line up</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>286</m:mn><m:mspace width="0.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>vertically.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.6em"/><m:mn>5</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply 5 by the digit in the ones place of</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>286</m:mn><m:mtext>.</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>30</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>2</m:mn><m:mover><m:mn>8</m:mn><m:mn mathsize="small">3</m:mn></m:mover><m:mn>6</m:mn><m:mspace width="0.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write the 0 in the ones place of the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.6em"/><m:mn>5</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>product and carry the 3 to the tens place.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>0</m:mn><m:mspace width="0.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply 5 by the digit in the tens place of</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>286</m:mn><m:mtext>.</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>40</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mn>2</m:mn><m:mn mathsize="small">4</m:mn></m:mover><m:mover><m:mn>8</m:mn><m:mn mathsize="small">3</m:mn></m:mover><m:mn>6</m:mn><m:mspace width="0.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Add the 3 tens we carried to get</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.6em"/><m:mn>5</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>40</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>43</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>30</m:mn><m:mspace width="0.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write the 3 in the tens place of the product</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>and carry the 4 to the hundreds place.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply 5 by the digit in the hundreds</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>place of</m:mtext><m:mspace width="0.2em"/><m:mn>286</m:mn><m:mtext>.</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>10</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mn>2</m:mn><m:mn mathsize="small">4</m:mn></m:mover><m:mover><m:mn>8</m:mn><m:mn mathsize="small">3</m:mn></m:mover><m:mn>6</m:mn><m:mspace width="0.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Add the 4 hundreds we carried to get</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mspace width="0.6em"/><m:mn>5</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>10</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>14</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>1,430</m:mn><m:mspace width="0.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write the 4 in the hundreds place of the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>product and the 1 to the thousands place.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise></example>
+<note id="fs-id1722418" class="try">
+<exercise id="fs-id1722422">
+<problem id="fs-id1722424">
+<para id="fs-id2590364">Multiply: <m:math><m:mrow><m:mn>347</m:mn><m:mo>·</m:mo><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2423630">
+<para id="fs-id2423632">1,735</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2474726" class="try">
+<exercise id="fs-id2474730">
+<problem id="fs-id2474733">
+<para id="fs-id2474735">Multiply: <m:math><m:mrow><m:mn>462</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1463647">
+<para id="fs-id1463649">3,234</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1463656">When we multiply by a number with two or more digits, we multiply by each of the digits separately, working from right to left. Each separate product of the digits is called a <term>partial product</term>. When we write partial products, we must make sure to line up the place values.</para>
+<note id="fs-id1463292" class="howto">
+<para id="fs-id1463296"><emphasis effect="bold">Multiply two whole numbers to find the product.</emphasis></para>
+<para id="fs-id2691583">Step 1. Write the numbers so each place value lines up vertically.</para>
+<para id="fs-id2691586">Step 2. Multiply the digits in each place value.</para>
+<list id="fs-id2691590" list-type="bulleted" bullet-style="open-circle">
+<item>Work from right to left, starting with the ones place in the bottom number.
+<list id="fs-id2190882" list-type="bulleted" bullet-style="bullet">
+<item>Multiply the bottom number by the ones digit in the top number, then by the tens digit, and so on.</item>
+<item>If a product in a place value is more than <m:math><m:mn>9</m:mn><m:mo>,</m:mo></m:math> carry to the next place value.</item>
+<item>Write the partial products, lining up the digits in the place values with the numbers above.</item>
+</list></item>
+<item>Repeat for the tens place in the bottom number, the hundreds place, and so on.</item>
+<item>Insert a zero as a placeholder with each additional partial product.</item>
+</list>
+<para id="fs-id2420150">Step 3. Add the partial products.</para>
+</note>
+<example id="fs-id2420154">
+<exercise id="fs-id2420156">
+<problem id="fs-id1730735">
+<para id="fs-id1730738">Multiply: <m:math><m:mrow><m:mn>62</m:mn><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>87</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2643065">
+<title>Solution</title>
+<para id="fs-id1167906633857"><media id="fs-id2484541" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_020_img.jpg"/>
+</media></para>
+<para id="fs-id1631951">The product is <m:math><m:mrow><m:mn>5,394</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id4876855" class="try">
+<exercise id="fs-id4876859">
+<problem id="fs-id4876861">
+<para id="fs-id2492217">Multiply: <m:math><m:mrow><m:mn>43</m:mn><m:mo stretchy="false">(</m:mo><m:mn>78</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2372880">
+<para id="fs-id2372882">3,354</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1756607" class="try">
+<exercise id="fs-id1756611">
+<problem id="fs-id1756613">
+<para id="fs-id2268979">Multiply: <m:math><m:mrow><m:mn>64</m:mn><m:mo stretchy="false">(</m:mo><m:mn>59</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1756678">
+<para id="fs-id1756680">3,776</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1594784">
+<exercise id="fs-id1594786">
+<problem id="fs-id1594788">
+<para id="fs-id1594790">Multiply: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>47</m:mn><m:mo>·</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>47</m:mn><m:mo>·</m:mo><m:mn>100</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2805147">
+<title>Solution</title>
+<para id="fs-id2805152">(a) Multiply <m:math><m:mn>0</m:mn></m:math> by <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> to get the first partial product, which is <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math> Then multiply <m:math><m:mn>1</m:mn></m:math> by <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> to get the second partial product. Be sure to insert a <m:math><m:mn>0</m:mn></m:math> in the ones place of the second partial product as a placeholder. Then add the partial products.</para>
+<para id="fs-id2295141"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>47</m:mn><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>10</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>00</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mn>470</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>470</m:mn></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-id1257063">(b) Multiply <m:math><m:mn>0</m:mn></m:math> by <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> to get the first partial product, which is <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math> Multiply <m:math><m:mn>0</m:mn></m:math> by <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> again to get the second partial product, which is <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math> Be sure to insert a <m:math><m:mn>0</m:mn></m:math> in the ones place as a placeholder. Then multiply <m:math><m:mn>1</m:mn></m:math> by <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> to get the third partial product. Be sure to insert two <m:math><m:mrow><m:mn>0</m:mn><m:mo>'</m:mo><m:mspace width="0.2em"/><m:mtext>s</m:mtext></m:mrow></m:math> to the ones and tens places as placeholders. Each partial product has one more zero as a placeholder. Then add the partial products.</para>
+<para id="fs-id2284783"><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>47</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>100</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>00</m:mn><m:mspace width="0.3em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>000</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>470</m:mn><m:mn>0</m:mn></m:mtd></m:mtr></m:mtable><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>4,700</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-id2295612">When we multiplied <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> times <m:math><m:mrow><m:mn>10</m:mn><m:mo>,</m:mo></m:mrow></m:math> the product was <m:math><m:mrow><m:mn>470</m:mn><m:mo>.</m:mo></m:mrow></m:math> Notice that <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> has one zero, and we put one zero after <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> to get the product. When we multiplied <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> times <m:math><m:mrow><m:mn>100</m:mn><m:mo>,</m:mo></m:mrow></m:math> the product was <m:math><m:mrow><m:mn>4,700</m:mn><m:mo>.</m:mo></m:mrow></m:math> Notice that <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> has two zeros and we put two zeros after <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> to get the product.</para>
+<para id="fs-id4162941">Do you see the pattern? If we multiplied <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> times <m:math><m:mrow><m:mn>10,000</m:mn><m:mo>,</m:mo></m:mrow></m:math> which has four zeros, we would put four zeros after <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> to get the product <m:math><m:mrow><m:mn>470,000</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1946744" class="try">
+<exercise id="fs-id1362896">
+<problem id="fs-id1362898">
+<para id="fs-id1362901">Multiply: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>54</m:mn><m:mo>·</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>54</m:mn><m:mo>·</m:mo><m:mn>100</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2206311">
+<para id="fs-id2206313">(a) 540 (b) 5,400</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2956739" class="try">
+<exercise id="fs-id2956742">
+<problem id="fs-id2956744">
+<para id="fs-id2320635">Multiply: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>75</m:mn><m:mo>·</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>75</m:mn><m:mo>·</m:mo><m:mn>100</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2218288">
+<para id="fs-id2218290">(a) 750 (b) 7,500</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id2218296">
+<exercise id="fs-id1259024">
+<problem id="fs-id1259026">
+<para id="fs-id1259028">Multiply: <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>354</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>438</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2284103">
+<title>Solution</title>
+<para id="fs-id1387561">There are three digits in the factors so there will be <m:math><m:mn>3</m:mn></m:math> partial products. We do not have to write the <m:math><m:mn>0</m:mn></m:math> as a placeholder as long as we write each partial product in the correct place.<newline/>
+<media id="fs-id3241993" alt="An image of the multiplication problem “354 times 438” worked out vertically. 354 is the top number, 438 is the second number. Below 438 is a multiplication bar. Below the bar is the number 2,832. 2832 has the label “Multiply 8 times 354”. Below 2832 is the number 1,062;  1062 has the label “Multiply 3 times 354”.  Below 1062 is the number 1,416; 1416 has the label “Multiply 4 times 354”.  Below this is a bar and below the bar is the number “155,052”, with the label “Add the partial products”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_011_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2645352" class="try">
+<exercise id="fs-id2645356">
+<problem id="fs-id1545368">
+<para id="fs-id1545370">Multiply: <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>265</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>483</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2160929">
+<para id="fs-id2160931">127,995</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2160937" class="try">
+<exercise id="fs-id1363896">
+<problem id="fs-id1363898">
+<para id="fs-id1363900">Multiply: <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>823</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>794</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2275794">
+<para id="fs-id2275796">653,462</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id3165734">
+<exercise id="fs-id3165737">
+<problem id="fs-id3165739">
+<para id="fs-id3165741">Multiply: <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>896</m:mn><m:mo stretchy="false">)</m:mo><m:mn>201</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2376781">
+<title>Solution</title>
+<para id="fs-id1373393">There should be <m:math><m:mn>3</m:mn></m:math> partial products. The second partial product will be the result of multiplying <m:math><m:mrow><m:mn>896</m:mn></m:mrow></m:math> by <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+<media id="fs-id2296471" alt="An image of the multiplication problem “896 times 201” worked out vertically. 896 is the top number, the 8 in the hundreds place, the 9 in the tens place, the 6 in the ones place. 201 is the second number,  the 2 in the hundreds place, the 0 in the tens place, the 1 in the ones place. Below 201 is a multiplcation bar. Below the bar is the number 896, the 8 in the hundreds place, the 9 in the tens place, the 6 in the ones place. 896 has the label “Multiply 1 times 896”. Below 896 is the number “000”, the 0 in the thousands place, the 0 in the hundreds place, and the 0 in the tens place. “000” has the label “Multiply 0 times 896”.  Below “000” is the number 1792, the 1 in the hundred thousands place, the 7 in the ten thousands place, the 9 in the thousands place, and the 2 in the hundreds place. 1792 has the label “Multiply 2 times 896”.  Below this is a bar and below the bar is the number “180,096”, with the label “Add the partial products”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_012_img.jpg"/>
+</media></para>
+<para id="fs-id1597636">Notice that the second <term class="no-emphasis">partial product</term> of all zeros doesn’t really affect the result. We can place a zero as a placeholder in the tens place and then proceed directly to multiplying by the <m:math><m:mn>2</m:mn></m:math> in the hundreds place, as shown.</para>
+<para id="fs-id2278409">Multiply by <m:math><m:mrow><m:mn>10</m:mn><m:mo>,</m:mo></m:mrow></m:math> but insert only one zero as a placeholder in the tens place. Multiply by <m:math><m:mrow><m:mn>200</m:mn><m:mo>,</m:mo></m:mrow></m:math> putting the <m:math><m:mn>2</m:mn></m:math> from the <m:math><m:mrow><m:mn>12</m:mn><m:mo>.</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>12</m:mn></m:mrow></m:math> in the hundreds place.</para>
+<para id="fs-id1826061"><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mn>896</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>201</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder><m:mspace width="0.3em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>896</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:munder><m:mrow><m:mn>17920</m:mn></m:mrow><m:mtext>__________</m:mtext></m:munder><m:mspace width="0.29em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>180,096</m:mn><m:mspace width="0.5em"/></m:mtd></m:mtr></m:mtable></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1577602" class="try">
+<exercise id="fs-id1577606">
+<problem id="fs-id1577608">
+<para id="fs-id1906000">Multiply: <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>718</m:mn><m:mo stretchy="false">)</m:mo><m:mn>509</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1523979">
+<para id="fs-id1523981">365,462</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2495259" class="try">
+<exercise id="fs-id2495263">
+<problem id="fs-id2495265">
+<para id="fs-id1508737">Multiply: <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>627</m:mn><m:mo stretchy="false">)</m:mo><m:mn>804</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1934288">
+<para id="fs-id1934290">504,108</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2655020">When there are three or more factors, we multiply the first two and then multiply their product by the next factor. For example:</para>
+<equation id="fs-id2655025" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>to multiply</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>2</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>first multiply</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>24</m:mn><m:mo>·</m:mo><m:mn>2</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>then multiply</m:mtext><m:mspace width="0.2em"/><m:mn>24</m:mn><m:mo>·</m:mo><m:mn>2</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>48</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+</section>
+<section id="fs-id2762475">
+<title>Translate Word Phrases to Math Notation</title>
+<para id="fs-id1742012">Earlier in this section, we translated math notation into words. Now we’ll reverse the process and translate <term class="no-emphasis">word phrases</term> into math notation. Some of the words that indicate multiplication are given in <link target-id="fs-id1971628"/>.</para>
+<table id="fs-id1971628" summary="A table with 4 columns and 3 rows. The first column is labeled “operation” and has the value “multiplication”, which spans all rows. The second column is labeled “word phrase” and has the values “times; product; and twice”. The third column is labeled “example” and has the values “3 times 8; the product of 3 and 8; twice 4”. The fourth column is labeled “expression” and has the values “3 times 8 (with 3 notations); 3 times 8 (in parentheses notation); and 2 times 4 (in dot notation)”.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="left">Operation</entry>
+<entry align="left">Word Phrase</entry>
+<entry align="left">Example</entry>
+<entry align="left">Expression</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Multiplication</entry>
+<entry valign="top" align="left">times<newline/>product<newline/>twice</entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> times <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math><newline/>the product of <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math><newline/>twice <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>8</m:mn><m:mo>,</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math><newline/><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mn>8</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>or</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>4</m:mn></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-id1361120">
+<exercise id="fs-id1361122"><problem id="fs-id1371919">
+<para id="fs-id1371921">Translate and simplify: the product of <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>27</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1542854">
+<para id="fs-id1851683">The word <emphasis effect="italics">product</emphasis> tells us to multiply. The words <emphasis effect="italics">of</emphasis> <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> <emphasis effect="italics">and</emphasis> <m:math><m:mrow><m:mn>27</m:mn></m:mrow></m:math> tell us the two factors.</para>
+<para id="fs-id1851776"><m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the product of 12 and 27</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>12</m:mn><m:mo>·</m:mo><m:mn>27</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>324</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise></example>
+<note id="fs-id2314470" class="try">
+<exercise id="fs-id2630938">
+<problem id="fs-id2630941">
+<para id="fs-id2630943">Translate and simplify the product of <m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>28</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1356926">
+<para id="fs-id1356928">13 · 28; 364</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1899186" class="try">
+<exercise id="fs-id1899190">
+<problem id="fs-id1899192">
+<para id="fs-id1899195">Translate and simplify the product of <m:math><m:mrow><m:mn>47</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>14</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1833387">
+<para id="fs-id1833389">47 · 14; 658</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1833396">
+<exercise id="fs-id2199166">
+<problem id="fs-id2199168">
+<para id="fs-id2199170">Translate and simplify: twice two hundred eleven.</para>
+</problem>
+<solution id="fs-id2199174">
+<title>Solution</title>
+<para id="fs-id2145559">The word <emphasis effect="italics">twice</emphasis> tells us to multiply by <m:math><m:mrow><m:mn>2</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1565765"><m:math><m:mrow><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>twice two hundred eleven</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>211</m:mn><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>422</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2334125" class="try">
+<exercise id="fs-id2334130">
+<problem id="fs-id2334132">
+<para id="fs-id1748434">Translate and simplify: twice one hundred sixty-seven.</para>
+</problem>
+<solution id="fs-id1748438">
+<para id="fs-id1748441">2(167); 334</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2751534">
+<title>Multiply Whole Numbers in Applications</title>
+<para id="fs-id2751539">We will use the same strategy we used previously to solve <term class="no-emphasis">applications</term> of multiplication. First, we need to determine what we are looking for. Then we write a phrase that gives the information to find it. We then translate the phrase into math notation and simplify to get the answer. Finally, we write a sentence to answer the question.</para>
+<example id="fs-id2215808">
+<exercise id="fs-id1337923"><problem id="fs-id1337926">
+<para id="fs-id1337928">Humberto bought <m:math><m:mn>4</m:mn></m:math> sheets of stamps. Each sheet had <m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math> stamps. How many stamps did Humberto buy?</para>
+</problem>
+<solution id="fs-id3323805">
+<para id="fs-id3323808">We are asked to find the total number of stamps.</para>
+<para id="fs-id2925190"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase for the total.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the product of</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>20</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>20</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.3em"/><m:mn>2</m:mn><m:mspace width="0.05em"/><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mspace width="0.05em"/><m:mn>0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Humberto bought</m:mtext><m:mspace width="0.2em"/><m:mn>80</m:mn><m:mspace width="0.2em"/><m:mtext>stamps.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise></example>
+<note id="fs-id1934005" class="try">
+<exercise id="fs-id2788401">
+<problem id="fs-id2788403">
+<para id="fs-id2788405">Valia donated water for the snack bar at her son’s baseball game. She brought <m:math><m:mn>6</m:mn></m:math> cases of water bottles. Each case had <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> water bottles. How many water bottles did Valia donate?</para>
+</problem>
+<solution id="fs-id2819073">
+<para id="fs-id1611299">Valia donated 144 water bottles.</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1860844" class="try">
+<exercise id="fs-id1860848">
+<problem id="fs-id1860850">
+<para id="fs-id1736766">Vanessa brought <m:math><m:mn>8</m:mn></m:math> packs of hot dogs to a family reunion. Each pack has <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> hot dogs. How many hot dogs did Vanessa bring?</para>
+</problem>
+<solution id="fs-id1944018">
+<para id="fs-id1944020">Vanessa bought 80 hot dogs.</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1619799">
+<exercise id="fs-id1619802">
+<problem id="fs-id1619804">
+<para id="fs-id1619806">When Rena cooks rice, she uses twice as much water as rice. How much water does she need to cook <m:math><m:mn>4</m:mn></m:math> cups of rice?</para>
+</problem>
+<solution id="fs-id2139565">
+<title>Solution</title>
+<para id="fs-id2139567">We are asked to find how much water Rena needs.</para>
+<para id="fs-id2484215"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write as a phrase.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>twice as much as</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mtext>cups</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>4</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply to simplify.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>8</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Rena needs 8 cups of water for 4 cups of</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>rice.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1836270" class="try">
+<exercise id="fs-id1836274">
+<problem id="fs-id1836277">
+<para id="fs-id1480539">Erin is planning her flower garden. She wants to plant twice as many dahlias as sunflowers. If she plants <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> sunflowers, how many dahlias does she need?</para>
+</problem>
+<solution id="fs-id2668814">
+<para id="fs-id2668816">Erin needs 28 dahlias.</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id3242019">
+<exercise id="fs-id3242021">
+<problem id="fs-id3242023">
+<para id="fs-id3242026">Van is planning to build a patio. He will have <m:math><m:mn>8</m:mn></m:math> rows of tiles, with <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> tiles in each row. How many tiles does he need for the patio?</para>
+</problem>
+<solution id="fs-id2275645">
+<title>Solution</title>
+<para id="fs-id2275647">We are asked to find the total number of tiles.</para>
+<para id="fs-id2275651"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the product of 8 and 14</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>8</m:mn><m:mo>·</m:mo><m:mn>14</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply to simplify.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.38em"/><m:mover><m:mn>1</m:mn><m:mn>3</m:mn></m:mover><m:mn>4</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.1em"/><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>112</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>Van needs 112 tiles for his patio.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1894984" class="try">
+<exercise id="fs-id1894988">
+<problem id="fs-id1894990">
+<para id="fs-id1465071">Jane is tiling her living room floor. She will need <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> rows of tile, with <m:math><m:mrow><m:mn>2</m:mn><m:mn>0</m:mn></m:mrow></m:math> tiles in each row. How many tiles does she need for the living room floor?</para>
+</problem>
+<solution id="fs-id1542680">
+<para id="fs-id1542682">Jane needs 320 tiles.</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1632408" class="try">
+<exercise id="fs-id1632412">
+<problem id="fs-id2205650">
+<para id="fs-id2205652">Yousef is putting shingles on his garage roof. He will need <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> rows of shingles, with <m:math><m:mrow><m:mn>45</m:mn></m:mrow></m:math> shingles in each row. How many shingles does he need for the garage roof?</para>
+</problem>
+<solution id="fs-id1747313">
+<para id="fs-id1747316">Yousef needs 1,080 tiles.</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2361897">If we want to know the size of a wall that needs to be painted or a floor that needs to be carpeted, we will need to find its <term>area</term>. The area is a measure of the amount of surface that is covered by the shape. Area is measured in square units. We often use square inches, square feet, square centimeters, or square miles to measure area. A square centimeter is a square that is one centimeter (cm.) on a side. A square inch is a square that is one inch on each side, and so on.</para>
+<media id="fs-id4315350" alt="An image of two squares, one larger than the other. The smaller square is 1 centimeter by 1 centimeter and has the label “1 square centimeter”. The larger square is 1 inch by 1 inch and has the label “1 square inch”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_014_img.jpg"/>
+</media>
+<para id="fs-id1631797">For a rectangular figure, the area is the product of the length and the width. <link target-id="CNX_BMath_Figure_01_04_013"/> shows a rectangular rug with a length of <m:math><m:mn>2</m:mn></m:math> feet and a width of <m:math><m:mn>3</m:mn></m:math> feet. Each square is <m:math><m:mn>1</m:mn></m:math> foot wide by <m:math><m:mn>1</m:mn></m:math> foot long, or <m:math><m:mn>1</m:mn></m:math> square foot. The rug is made of <m:math><m:mn>6</m:mn></m:math> squares. The area of the rug is <m:math><m:mn>6</m:mn></m:math> square feet.</para>
+<figure id="CNX_BMath_Figure_01_04_013">
+<media id="fs-id2646642" alt="An image of a rectangle containing 6 blocks, 2 feet tall and 3 feet wide. This image has the label “2 times 3 = 6 feet squared”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_013.jpg"/>
+</media>
+<caption>The area of a rectangle is the product of its length and its width, or <m:math><m:mn>6</m:mn></m:math> square feet.</caption>
+</figure>
+<example id="fs-id2691350">
+<exercise id="fs-id2691352"><problem id="fs-id3014723">
+<para id="fs-id3014725">Jen’s kitchen ceiling is a rectangle that measures <m:math><m:mn>9</m:mn></m:math> feet long by <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> feet wide. What is the area of Jen’s kitchen ceiling?</para>
+</problem>
+<solution id="fs-id2173669">
+<para id="fs-id2173671">We are asked to find the area of the kitchen ceiling.</para>
+<para id="fs-id2142734"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase for the area.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the product of 9 and 12</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>9</m:mn><m:mo>·</m:mo><m:mn>12</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Multiply.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.5em"/><m:mover><m:mn>1</m:mn><m:mn mathsize="small">1</m:mn></m:mover><m:mn>2</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.1em"/><m:munder accentunder="true"><m:mrow><m:mo>×</m:mo><m:mn>9</m:mn></m:mrow><m:mtext>___</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>108</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Answer with a sentence.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>The area of Jen’s kitchen ceiling is 108</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>square feet.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise></example>
+<note id="fs-id2221013" class="try">
+<exercise id="fs-id1394908">
+<problem id="fs-id1394910">
+<para id="fs-id1394912">Zoila bought a rectangular rug. The rug is <m:math><m:mn>8</m:mn></m:math> feet long by <m:math><m:mn>5</m:mn></m:math> feet wide. What is the area of the rug?</para>
+</problem>
+<solution id="fs-id2351094">
+<para id="fs-id1524291">The area of the rug is 40 square feet.</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1356536">We encourage you to go to <link class="target-chapter" document="m56269">Appendix B</link> to take the Self Check for this section.</para>
+<note id="fs-id1298390" class="media-2">
+<para id="fs-id2136680">Access these online resources for additional instruction and practice with multiplying whole numbers.</para>
+<list id="fs-id2136683" display="block">
+<item><link url="http://www.openstaxcollege.org/l/24multwhlnum">Multiplying Whole Numbers</link></item>
+<item><link url="http://www.openstaxcollege.org/l/24multpartprod">Multiplication with Partial Products</link></item>
+<item><link url="http://www.openstaxcollege.org/l/24examplemultnm">Example of Multiplying by Whole Numbers</link></item>
+</list>
+</note>
+</section>
+<section id="fs-id1475244" class="key-concepts">
+<title>Key Concepts</title>
+<list id="fs-id2410277" list-type="bulleted" bullet-style="bullet">
+<item>The Multiplication Property of Zero states that the product of any number and zero is zero. See <link target-id="fs-id2382326"/>.</item>
+<item>The Identity Property of Multiplication states that the product of any number and one is the number. See <link target-id="fs-id2376859"/>.</item>
+<item>The Commutative Property of Multiplication states that changing the order of the factors does not change their product. See <link target-id="fs-id2204613"/>.</item>
+<item>When numbers are multiplied vertically, it is important to line up digits in the same place value. See <link target-id="fs-id1233452"/>.</item>
+<item>When we multiply by a number with two or more digits, partial products can be calculated and then added. See <link target-id="fs-id2420154"/>.</item>
+<item>Zeros may be used as place holders in the partial products when multiplying, but they are not required as long as digits are recorded in the correct place value. Just as math notation can be translated into words, word phrases can be translated into math notation. Key words and phrases that indicate multiplication are <emphasis effect="italics">times</emphasis>, <emphasis effect="italics">product</emphasis>, and <emphasis effect="italics">twice</emphasis>. See <link target-id="fs-id1594784"/>.</item>
+<item>Applications involving the multiplication of whole numbers requires identifying the problem, writing a phrase, translating to math notation, and then multiplying. See <link target-id="fs-id2215808"/>.</item>
+<item>Area. The area of a rectangle is the product of its length and its width. See <link target-id="fs-id2691350"/>.</item>
+</list>
+</section>
+<section id="fs-id2835512" class="section-exercises">
+<section id="fs-id1566236">
+<title>Practice Makes Perfect</title>
+<para id="fs-id1566242"><emphasis effect="bold">Use Multiplication Notation</emphasis> For the following exercises, translate from math notation to words.</para>
+<exercise id="fs-id3017285">
+<problem id="fs-id3017287">
+<para id="fs-id3017289"><m:math><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1722847">
+<para id="fs-id1515490">four times seven; the product of four and seven</para>
+</solution>
+</exercise>
+<exercise id="fs-id2817736">
+<problem id="fs-id2660747">
+<para id="fs-id2660749"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>10</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>25</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1858507">
+<para id="fs-id1858509">ten times twenty-five; the product of ten and twenty-five</para>
+</solution>
+</exercise>
+<para id="fs-id4876421"><emphasis effect="bold">Multiply Whole Numbers</emphasis> For the following exercises, fill in the missing values in each chart.</para>
+<para id="fs-id4876422"><newline/></para>
+<exercise id="fs-id2860960">
+<problem id="fs-id2860962">
+<media id="fs-id2715597" alt="An image of a table with 11 columns and 11 rows. The cells in the first row and first column are shaded darker than the other cells. The first column has the values “x; 0; 1; 2; 3; 4; 5; 6; 7; 8; 9”. The second column has the values “0; 0; 0; null; 0; 0; 0; 0; null; 0; 0”. The third column has the values “1; 0; 1; 2; null; 4; 5; 6; null; 8; 9”. The fourth column has the values “2; 0; 2; 4; 6; null; 10; 12; 14; null; 18”. The fifth column has the values “3; null; 3; 6; null; null; 15; null; 21; 24; null”. The sixth column has the values “4; 0; null; 8; 12; 16; null; 24; null; null; 36”. The seventh column has the values “5; 0; null; null; 15; 20; null; null; 35; null; 45”. The eighth column has the values “6; 0; 6; 12; null; null; 30; null; null; 48; null”. The ninth column has the values “7; 0; 7; null; 21; 28; null; 42; null; null; null”. The tenth column has the values “8; null; 8; null; null; 32; 40; null; 56; 64; 72”. The eleventh column has the values “9; 0; null; 18; 27; null, null; 54; 63; null; null”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_205.jpg"/>
+</media>
+</problem>
+<solution id="fs-id1570988">
+<para id="fs-id1171101888203"><newline/><media id="fs-id1483199" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_206.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<para id="fs-id1909530"><newline/></para>
+<exercise id="fs-id1392501">
+<problem id="fs-id1392503">
+<media id="fs-id2579384" alt="An image of a table with 8 columns and 5 rows. The cells in the first row and first column are shaded darker than the other cells. The cells not in the first row or column are all null.  The first row has the values “x; 3; 4; 5; 6; 7; 8; 9”. The first column has the values “x;  6; 7; 8; 9”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_213.jpg"/>
+</media>
+<para id="fs-id2300589"><newline/></para>
+</problem>
+<solution id="fs-id2300588">
+<para id="fs-id1171103641121"><newline/><media id="fs-id2199599" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_214.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<exercise id="fs-id2646608">
+<problem id="fs-id2646610">
+<media id="fs-id2842957" alt="PROD: An image of a table with 6 columns and 6 rows. The cells in the first row and first column are shaded darker than the other cells. The cells not in the first row or column are all null.  The first column has the values “x; 5; 6; 7; 8; 9”. The first row has the values “x; 5; 6; 7; 8; 9”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_217.jpg"/>
+</media>
+</problem>
+<solution id="fs-id2346167">
+<para id="fs-id1171103661556"><newline/><media id="fs-id1933701" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_04_218.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<para id="fs-id1741442">For the following exercises, multiply.</para>
+<exercise id="fs-id1741445">
+<problem id="fs-id2279822">
+<para id="fs-id2279825"><m:math><m:mrow><m:mn>0</m:mn><m:mo>·</m:mo><m:mn>15</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id3447979">
+<para id="fs-id3447981">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id3013724">
+<problem id="fs-id3013726">
+<para id="fs-id1364166"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>99</m:mn><m:mo stretchy="false">)</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id3263027">
+<para id="fs-id3263029">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id2356607">
+<problem id="fs-id2669683">
+<para id="fs-id2669686"><m:math><m:mrow><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>43</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1917078">
+<para id="fs-id1917080">43</para>
+</solution>
+</exercise>
+<exercise id="fs-id1629542">
+<problem id="fs-id1629544">
+<para id="fs-id2608714"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>28</m:mn><m:mo stretchy="false">)</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2276002">
+<para id="fs-id2276004">28</para>
+</solution>
+</exercise>
+<exercise id="fs-id3294241">
+<problem id="fs-id1803983">
+<para id="fs-id1803985"><m:math><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">(</m:mo><m:mn>240,055</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2662019">
+<para id="fs-id2662021">240,055</para>
+</solution>
+</exercise>
+<exercise id="fs-id2700518">
+<problem id="fs-id2700520">
+<para id="fs-id2700522"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>6</m:mn><m:mo>·</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2686790">
+<para id="fs-id2686792">(a) 42 (b) 42</para>
+</solution>
+</exercise>
+<exercise id="fs-id2687535">
+<problem id="fs-id2687538">
+<para id="fs-id2687540"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>79</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2485153">
+<para id="fs-id2485155">395</para>
+</solution>
+</exercise>
+<exercise id="fs-id1786990">
+<problem id="fs-id1786993">
+<para id="fs-id1786995"><m:math><m:mrow><m:mn>275</m:mn><m:mo>·</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2257847">
+<para id="fs-id2297067">1,650</para>
+</solution>
+</exercise>
+<exercise id="fs-id2608773">
+<problem id="fs-id2608775">
+<para id="fs-id2608777"><m:math><m:mrow><m:mn>3,421</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1813772">
+<para id="fs-id1813774">23,947</para>
+</solution>
+</exercise>
+<exercise id="fs-id2142813">
+<problem id="fs-id2142815">
+<para id="fs-id2142817"><m:math><m:mrow><m:mn>52</m:mn><m:mo stretchy="false">(</m:mo><m:mn>38</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2486663">
+<para id="fs-id2486665">1,976</para>
+</solution>
+</exercise>
+<exercise id="fs-id2277379">
+<problem id="fs-id2277382">
+<para id="fs-id2277384"><m:math><m:mrow><m:mn>96</m:mn><m:mo>·</m:mo><m:mn>73</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1461268">
+<para id="fs-id1461270">7,008</para>
+</solution>
+</exercise>
+<exercise id="fs-id1408434">
+<problem id="fs-id1408436">
+<para id="fs-id1408438"><m:math><m:mrow><m:mn>27</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>85</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2903622">
+<para id="fs-id2903624">2,295</para>
+</solution>
+</exercise>
+<exercise id="fs-id1714647">
+<problem id="fs-id2323141">
+<para id="fs-id2323143"><m:math><m:mrow><m:mn>23</m:mn><m:mo>·</m:mo><m:mn>10</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2221031">
+<para id="fs-id2221034">230</para>
+</solution>
+</exercise>
+<exercise id="fs-id1800652">
+<problem id="fs-id1800654">
+<para id="fs-id1499365"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>100</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>36</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1960838">
+<para id="fs-id1960841">360</para>
+</solution>
+</exercise>
+<exercise id="fs-id2467280">
+<problem id="fs-id2467282">
+<para id="fs-id2200554"><m:math><m:mrow><m:mn>1,000</m:mn><m:mo stretchy="false">(</m:mo><m:mn>88</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2795607">
+<para id="fs-id2795609">88,000</para>
+</solution>
+</exercise>
+<exercise id="fs-id4358938">
+<problem id="fs-id1335296">
+<para id="fs-id1335298"><m:math><m:mrow><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1,000,000</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2217793">
+<para id="fs-id2217795">50,000,000</para>
+</solution>
+</exercise>
+<exercise id="fs-id1484833">
+<problem id="fs-id1484835">
+<para id="fs-id2132141"><m:math><m:mrow><m:mn>247</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>139</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2202509">
+<para id="fs-id2202511">34,333</para>
+</solution>
+</exercise>
+<exercise id="fs-id2359188">
+<problem id="fs-id2359191">
+<para id="fs-id2359193"><m:math><m:mrow><m:mn>586</m:mn><m:mo stretchy="false">(</m:mo><m:mn>721</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2676856">
+<para id="fs-id2676858">422,506</para>
+</solution>
+</exercise>
+<exercise id="fs-id2297407">
+<problem id="fs-id2297409">
+<para id="fs-id2164039"><m:math><m:mrow><m:mn>915</m:mn><m:mo>·</m:mo><m:mn>879</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1755195">
+<para id="fs-id1755197">804,285</para>
+</solution>
+</exercise>
+<exercise id="fs-id2190471">
+<problem id="fs-id2190473">
+<para id="fs-id2190475"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>104</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>256</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1710606">
+<para id="fs-id1710608">26,624</para>
+</solution>
+</exercise>
+<exercise id="fs-id2340104">
+<problem id="fs-id2340106">
+<para id="fs-id2340108"><m:math><m:mrow><m:mn>348</m:mn><m:mo stretchy="false">(</m:mo><m:mn>705</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1569000">
+<para id="fs-id1569002">245,340</para>
+</solution>
+</exercise>
+<exercise id="fs-id1890728">
+<problem id="fs-id1890730">
+<para id="fs-id2223909"><m:math><m:mrow><m:mn>2,719</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>543</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1830002">
+<para id="fs-id1830004">1,476,417</para>
+</solution>
+</exercise>
+<para id="fs-id2136265"><emphasis effect="bold">Translate Word Phrases to Math Notation</emphasis> For the following exercises, translate and simplify.</para>
+<exercise id="fs-id2565034">
+<problem id="fs-id2565036">
+<para id="fs-id2565038">the product of <m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>33</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2649696">
+<para id="fs-id2138246">18 · 33; 594</para>
+</solution>
+</exercise>
+<exercise id="fs-id1869686">
+<problem id="fs-id1869688">
+<para id="fs-id1869690">fifty-one times sixty-seven</para>
+</problem>
+<solution id="fs-id1946670">
+<para id="fs-id1946672">51(67); 3,417</para>
+</solution>
+</exercise>
+<exercise id="fs-id2790909">
+<problem id="fs-id2790911">
+<para id="fs-id1475104">twice <m:math><m:mrow><m:mn>249</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1475113">
+<para id="fs-id2223539">2(249); 498</para>
+</solution>
+</exercise>
+<exercise id="fs-id2199401">
+<problem id="fs-id1716993">
+<para id="fs-id1716995">ten times three hundred seventy-five</para>
+</problem>
+<solution id="fs-id1716999">
+<para id="fs-id1717001">10(375); 3,750</para>
+</solution>
+</exercise>
+<para id="fs-id2420878"><emphasis effect="bold">Mixed Practice</emphasis> For the following exercises, simplify.</para>
+<exercise id="fs-id2352913">
+<problem id="fs-id2352915">
+<para id="fs-id2352917"><m:math><m:mrow><m:mn>38</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>37</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2281180">
+<para id="fs-id2281182">1,406</para>
+</solution>
+</exercise>
+<exercise id="fs-id1529237">
+<problem id="fs-id4143667">
+<para id="fs-id4143669"><m:math><m:mrow><m:mn>415</m:mn><m:mo>−</m:mo><m:mn>267</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2631010">
+<para id="fs-id2631013">148</para>
+</solution>
+</exercise>
+<exercise id="fs-id2133732">
+<problem id="fs-id2133734">
+<para id="fs-id1816329"><m:math><m:mrow><m:mn>6,251</m:mn><m:mo>+</m:mo><m:mn>4,749</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2710706">
+<para id="fs-id2710709">11,000</para>
+</solution>
+</exercise>
+<exercise id="fs-id1811710">
+<problem id="fs-id1811712">
+<para id="fs-id1811714"><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>56</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>204</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1760819">
+<para id="fs-id1760821">11,424</para>
+</solution>
+</exercise>
+<exercise id="fs-id2691622">
+<problem id="fs-id2691624">
+<para id="fs-id2691626"><m:math><m:mrow><m:mn>947</m:mn><m:mo>·</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2451325">
+<para id="fs-id1730594">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id2284408">
+<problem id="fs-id2284411">
+<para id="fs-id2284413"><m:math><m:mrow><m:mn>15,382</m:mn><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2434480">
+<para id="fs-id2434482">15,383</para>
+</solution>
+</exercise>
+<para id="fs-id2758234">For the following exercises, translate and simplify.</para>
+<exercise id="fs-id2758238">
+<problem id="fs-id2758240">
+<para id="fs-id2758242">the difference of <m:math><m:mrow><m:mn>50</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>18</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2658549">
+<para id="fs-id2658552">50 − 18; 32</para>
+</solution>
+</exercise>
+<exercise id="fs-id1789860">
+<problem id="fs-id1789862">
+<para id="fs-id1789864">twice <m:math><m:mrow><m:mn>35</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2462907">
+<para id="fs-id2462910">2(35); 70</para>
+</solution>
+</exercise>
+<exercise id="fs-id1968762">
+<problem id="fs-id1968764">
+<para id="fs-id2150075"><m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math> more than <m:math><m:mrow><m:mn>980</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4219958">
+<para id="fs-id4219960">20 + 980; 1,000</para>
+</solution>
+</exercise>
+<exercise id="fs-id2583310">
+<problem id="fs-id2583313">
+<para id="fs-id2626480">the product of <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>875</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1391266">
+<para id="fs-id1391268">12(875); 10,500</para>
+</solution>
+</exercise>
+<exercise id="fs-id2170283">
+<problem id="fs-id2170286">
+<para id="fs-id2170288">subtract <m:math><m:mrow><m:mn>74</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>89</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2299290">
+<para id="fs-id2299292">89 − 74; 15</para>
+</solution>
+</exercise>
+<exercise id="fs-id1629031">
+<problem id="fs-id1629034">
+<para id="fs-id1629036">the sum of <m:math><m:mrow><m:mn>3,075</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>95</m:mn><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1352164">
+<para id="fs-id1352166">3,075 + 950; 4,025</para>
+</solution>
+</exercise>
+<exercise id="fs-id1356504">
+<problem id="fs-id2483966">
+<para id="fs-id2483968"><m:math><m:mrow><m:mn>366</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>814</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2748387">
+<para id="fs-id2748389">814 − 366; 448</para>
+</solution>
+</exercise>
+<para id="fs-id1762336"><emphasis effect="bold">Multiply Whole Numbers in Applications</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id1405472">
+<problem id="fs-id1405474">
+<para id="fs-id1471854"><emphasis effect="bold">Party supplies</emphasis> Tim brought <m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math> six-packs of soda to a club party. How many cans of soda did Tim bring?</para>
+</problem>
+<solution id="fs-id2676330">
+<para id="fs-id2676332">Tim brought 54 cans of soda to the party.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1506191">
+<problem id="fs-id1506193">
+<para id="fs-id2221049"><emphasis effect="bold">Field trip</emphasis> Seven school busses let off their students in front of a museum in Washington, DC. Each school bus had <m:math><m:mrow><m:mn>44</m:mn></m:mrow></m:math> students. How many students were there?</para>
+</problem>
+<solution id="fs-id1373262">
+<para id="fs-id1373264">There were 308 students.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1384110">
+<problem id="fs-id1384112">
+<para id="fs-id1384115"><emphasis effect="bold">Charity</emphasis> Rey donated <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> twelve-packs of t-shirts to a homeless shelter. How many t-shirts did he donate?</para>
+</problem>
+<solution id="fs-id2471999">
+<para id="fs-id2472001">Rey donated 180 t-shirts.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2149566">
+<problem id="fs-id1361044">
+<para id="fs-id1361046"><emphasis effect="bold">Recipe</emphasis> Stephanie is making punch for a party. The recipe calls for twice as much fruit juice as club soda. If she uses <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> cups of club soda, how much fruit juice should she use?</para>
+</problem>
+<solution id="fs-id2751551">
+<para id="fs-id2751553">Stephanie should use 20 cups of fruit juice.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2306358">
+<problem id="fs-id2306360">
+<para id="fs-id2306362"><emphasis effect="bold">Government</emphasis> The United States Senate has twice as many senators as there are states in the United States. There are <m:math><m:mrow><m:mn>5</m:mn><m:mn>0</m:mn></m:mrow></m:math> states. How many senators are there in the United States Senate?</para>
+</problem>
+<solution id="fs-id1857745">
+<para id="fs-id1857748">There are 100 senators in the U.S. senate.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2620993">
+<problem id="fs-id2620995">
+<para id="fs-id2331000"><emphasis effect="bold">Painting</emphasis> Jane is painting one wall of her living room. The wall is rectangular, <m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math> feet wide by <m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math> feet high. What is the area of the wall?</para>
+</problem>
+<solution id="fs-id1713502">
+<para id="fs-id1206183">The area of the wall is 117 square feet.</para>
+</solution>
+</exercise>
+<exercise id="fs-id3415411">
+<problem id="fs-id2654782">
+<para id="fs-id2654784"><emphasis effect="bold">Room size</emphasis> The meeting room in a senior center is rectangular, with length <m:math><m:mrow><m:mn>42</m:mn></m:mrow></m:math> feet and width <m:math><m:mrow><m:mn>34</m:mn></m:mrow></m:math> feet. What is the area of the meeting room?</para>
+</problem>
+<solution id="fs-id3323613">
+<para id="fs-id3323615">The area of the room is 1,428 square feet.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2626472">
+<problem id="fs-id2486614">
+<para id="fs-id2486616"><emphasis effect="bold">NCAA basketball</emphasis> According to NCAA regulations, the dimensions of a rectangular basketball court must be <m:math><m:mrow><m:mn>94</m:mn></m:mrow></m:math> feet by <m:math><m:mrow><m:mn>5</m:mn><m:mn>0</m:mn></m:mrow></m:math> feet. What is the area of the basketball court?</para>
+</problem>
+<solution id="fs-id2134802">
+<para id="fs-id2134804">The area of the court is 4,700 square feet.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1951597">
+<title>Everyday Math</title>
+<exercise id="fs-id1226787">
+<problem id="fs-id1226789">
+<para id="fs-id1226791"><emphasis effect="bold">Stock market</emphasis> Javier owns <m:math><m:mrow><m:mn>3</m:mn><m:mn>00</m:mn></m:mrow></m:math> shares of stock in one company. On Tuesday, the stock price rose <m:math><m:mrow><m:mtext>$</m:mtext><m:mn>12</m:mn></m:mrow></m:math> per share. How much money did Javier’s portfolio gain?</para>
+<para id="fs-id1226790"><newline/></para>
+</problem>
+<solution id="fs-id2588241">
+<para id="fs-id2743390">Javier’s portfolio gained $3,600.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1266681">
+<title>Writing Exercises</title>
+<exercise id="fs-id1266686">
+<problem id="fs-id1169790">
+<para id="fs-id1169792">How confident do you feel about your knowledge of the multiplication facts? If you are not fully confident, what will you do to improve your skills?</para>
+</problem>
+<solution id="fs-id1169797">
+<para id="fs-id2160202">Answers will vary.</para>
+</solution>
+</exercise>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2700462">
+<term>area</term>
+<meaning id="fs-id2700468">a measure of the surface covered by a flat shape
+</meaning>
+</definition>
+<definition id="fs-id2700472">
+<term>Commutative Property of Multiplication</term>
+<meaning id="fs-id4428645">states that changing the order of the factors does not change their product
+</meaning>
+</definition>
+<definition id="fs-id4428649">
+<term>factor</term>
+<meaning id="fs-id2666146">a number being multiplied by one or more numbers
+</meaning>
+</definition>
+<definition id="fs-id2666150">
+<term>Identity Property of Multiplication</term>
+<meaning id="fs-id2603253">rule that states that the product of any number and one is the number.
+</meaning>
+</definition>
+<definition id="fs-id2603257">
+<term>Multiplication Property of Zero</term>
+<meaning id="fs-id1529103">rule that states that the product of any number and zero is zero
+</meaning>
+</definition>
+<definition id="fs-id1529108">
+<term>partial</term>
+<meaning id="fs-id1943405">product each separate product of the digits in a multiplication problem
+</meaning>
+</definition>
+<definition id="fs-id1943409">
+<term>product</term>
+<meaning id="fs-id1943414">the result obtained by multiplying two or more factors together</meaning>
+</definition>
+</glossary>
+</document>

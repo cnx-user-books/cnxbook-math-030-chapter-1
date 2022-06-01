@@ -1,0 +1,680 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Introduction to Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62060</md:content-id>
+  <md:title>Introduction to Whole Numbers</md:title>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
+<item>Identify counting numbers and whole numbers</item>
+<item>Model whole numbers</item>
+<item>Identify the place value of a digit</item>
+<item>Use place value to name whole numbers</item>
+<item>Use place value to write whole numbers</item>
+<item>Round whole numbers</item>
+</list></md:abstract>
+  <md:uuid>5e9653d3-b134-4963-b0b9-b238b727d65c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1830385">
+<title>Identify Counting Numbers and Whole Numbers</title>
+<para id="fs-id2325869">Learning algebra is similar to learning a language. You start with a basic vocabulary and then add to it as you go along. You need to practice often until the vocabulary becomes easy to you. The more you use the vocabulary, the more familiar it becomes.</para>
+<para id="fs-id2269442">Algebra uses numbers and symbols to represent words and ideas. Let’s look at the numbers first. The most basic numbers used in algebra are those we use to count objects: <m:math><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>,</m:mo></m:mrow></m:math> and so on. These are called the <term>counting numbers</term>. The notation “…” is called an <term>ellipsis</term>, which is another way to show “and so on”, or that the pattern continues endlessly. Counting numbers are also called <term>natural numbers</term>.</para>
+<note id="fs-id2631065">
+<title>Counting Numbers</title>
+<para id="fs-id1565524">The counting numbers start with <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> and continue.</para>
+<equation id="fs-id1601874" class="unnumbered"><label/><m:math><m:mrow><m:mtext>{1</m:mtext><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mtext>5…}</m:mtext></m:mrow></m:math></equation>
+</note>
+<para id="fs-id2741297">Counting numbers and whole numbers can be visualized on a <term>number line</term> as shown in <link target-id="CNX_BMath_Figure_01_01_001"/>.</para>
+<figure id="CNX_BMath_Figure_01_01_001">
+<media id="fs-id2316516" alt="An image of a number line from 0 to 6 in increments of one. An arrow above the number line pointing to the right with the label “larger”. An arrow pointing to the left with the label “smaller”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_001.jpg"/>
+</media>
+<caption>The numbers on the number line increase from left to right, and decrease from right to left.</caption>
+</figure>
+<para id="fs-id1410425">The point labeled <m:math><m:mn>0</m:mn></m:math> is called the <term>origin</term>. The points are equally spaced to the right of <m:math><m:mn>0</m:mn></m:math> and labeled with the counting numbers. When a number is paired with a point, it is called the <term>coordinate</term> of the point.</para>
+<para id="fs-id1383646">The discovery of the number zero was a big step in the history of mathematics. Including zero with the counting numbers gives a new set of numbers called the <term>whole numbers</term>.</para>
+<note id="fs-id2606982">
+<title>Whole Numbers</title>
+<para id="fs-id1516323">The whole numbers are the counting numbers and zero.</para>
+<equation id="fs-id2260967" class="unnumbered"><label/><m:math><m:mrow><m:mo>{</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mtext>5…</m:mtext><m:mo>}</m:mo></m:mrow></m:math></equation>
+</note>
+<example id="fs-id1262372"><exercise id="fs-id1398237">
+<problem id="fs-id3413579">
+<para id="fs-id1393222">Which of the following are (a) counting numbers? (b) whole numbers?</para>
+<para id="fs-id1269630"><m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>5.2</m:mn><m:mo>,</m:mo><m:mn>15</m:mn><m:mo>,</m:mo><m:mn>105</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2564359">
+<para id="fs-id2198081">(a) The counting numbers start at <m:math><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo></m:mrow></m:math> so <m:math><m:mn>0</m:mn></m:math> is not a counting number. The numbers <m:math><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>15</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>105</m:mn></m:mrow></m:math> are all counting numbers</para>
+<para id="fs-id1396286">(b) Whole numbers are counting numbers and <m:math><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math> The numbers <m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>15</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>105</m:mn></m:mrow></m:math> are whole numbers.</para>
+<para id="fs-id1952631">The numbers <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:mn>5.2</m:mn></m:mrow></m:math> are neither counting numbers nor whole numbers. We will discuss these numbers later.</para>
+</solution>
+</exercise>
+</example></section>
+<section id="fs-id2340048">
+<title>Model Whole Numbers</title>
+<para id="fs-id1862565">Our number system is called a <term>place value system</term> because the value of a digit depends on its position, or place, in a number. The number <m:math><m:mrow><m:mn>537</m:mn></m:mrow></m:math> has a different value than the number <m:math><m:mrow><m:mn>735</m:mn><m:mo>.</m:mo></m:mrow></m:math> Even though they use the same digits, their value is different because of the different placement of the and the <m:math><m:mrow><m:mn>7</m:mn></m:mrow></m:math> and the <m:math><m:mrow><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<media id="fs-id2438560" alt="An image of “$300 + $70 +$4” where the “3” in “$300”, the “7” in “$70”, and the “4” in “$4” are all in red instead of black like the rest of the expression. Below this expression there is the value “$374”. An arrow points from the red “3” in the expression to the “3” in “$374”, an arrow points to the red “7” in the expression to the “7” in “$374”, and an arrow points from the red “4” in the expression to the “4” in “$374”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_003_img.jpg"/>
+</media>
+<media id="fs-id2387933" alt="An image of “100 + 30 +8” where the “1” in “100”, the “3” in “30”, and the “8” are all in red instead of black like the rest of the expression. Below this expression there is the value “138”. An arrow points from the red “1” in the expression to the “1” in “138”, an arrow points to the red “3” in the expression to the “3” in “138”, and an arrow points from the red “8” in the expression to the “8” in 138.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_006_img.jpg"/>
+</media>
+<table id="fs-id1714120" class="unnumbered" summary="This is a table with 3 columns and 5 rows. The first row is a header row. Each column in this row is labeled: first column is labeled Place value,  the second column is labeled Digit, and the third column is labeled total value. Under the heading Place value in the second row it states hundreds, below that it states tens, and below that it states ones. In the next column under Digit, there is a 1 in the second row, a 3 in the third row, and an 8 in the fourth row. In the next column under Total value it has 100 in the second row, 30 in the third row, 8 in the fourth row and the number 138 in the fifth row.">
+<label/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry align="center">Place value</entry>
+<entry align="center">Digit</entry>
+<entry align="center">Total value</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="center">hundreds</entry>
+<entry align="center"><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="center">tens</entry>
+<entry align="center"><m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>30</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry align="center">ones</entry>
+<entry align="center"><m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math></entry>
+<entry align="center"><m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry/><entry/><entry align="center"><m:math><m:mrow><m:mn>138</m:mn></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1883656">
+<title>Identify the Place Value of a Digit</title>
+<para id="fs-id1795155">A <term>place value chart</term> is a useful way to summarize place values. The place values are separated into groups of three, called periods. The <term class="no-emphasis">periods</term> are <emphasis effect="italics">ones, thousands, millions, billions, trillions</emphasis>, and so on. In a written number, commas separate the periods.</para><para id="fs-id1408851"><link target-id="CNX_BMath_Figure_01_01_011"/> shows how the number <m:math><m:mrow><m:mn>5,278,194</m:mn></m:mrow></m:math> is written in a place value chart.</para>
+<figure id="CNX_BMath_Figure_01_01_011"><media id="fs-id1339846" alt="A chart titled 'Place Value' with fifteen columns and 4 rows, with the columns broken down into five groups of three. The header row shows Trillions, Billions, Millions, Thousands, and Ones. The next row has the values 'Hundred trillions', 'Ten trillions', 'trillions', 'hundred billions', 'ten billions', 'billions', 'hundred millions', 'ten millions', 'millions', 'hundred thousands', 'ten thousands', 'thousands', 'hundreds', 'tens', and 'ones'. The first 8 values in the next row are blank. Starting with the ninth column, the values are '5', '2', '7', '8', '1', '9', and '4'.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_011.jpg"/>
+</media>
+</figure><list id="fs-id930962" list-type="bulleted" bullet-style="bullet">
+<item>The digit <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> is in the millions place. Its value is <m:math><m:mrow><m:mn>5,000,000</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>The digit <m:math><m:mrow><m:mn>2</m:mn></m:mrow></m:math> is in the hundred thousands place. Its value is <m:math><m:mrow><m:mn>200,000</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>The digit <m:math><m:mrow><m:mn>7</m:mn></m:mrow></m:math> is in the ten thousands place. Its value is <m:math><m:mrow><m:mn>70,000</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>The digit <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math> is in the thousands place. Its value is <m:math><m:mrow><m:mn>8,000</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>The digit <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> is in the hundreds place. Its value is <m:math><m:mrow><m:mn>100</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>The digit <m:math><m:mrow><m:mn>9</m:mn></m:mrow></m:math> is in the tens place. Its value is <m:math><m:mrow><m:mn>90</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>The digit <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> is in the ones place. Its value is <m:math><m:mrow><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+</list>
+<note id="fs-id2310429" class="try">
+<exercise id="fs-id1573052">
+<problem id="fs-id1607674">
+<para id="fs-id1816164">For each number, find the place value of digits listed: <m:math><m:mrow><m:mn>27,493,615</m:mn></m:mrow></m:math></para>
+<para id="fs-id1386307"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>;(b)</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>;(c)</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mtext>;(d)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mtext>;(e)</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn></m:mrow></m:math></para></problem>
+<solution id="fs-id2903653">
+<para id="fs-id1811287">(a) ten millions (b) tens (c) hundred thousands (d) millions (e) ones</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1321580">
+<title>Use Place Value to Name Whole Numbers</title>
+<para id="fs-id2566318">When you write a check, you write out the number in words as well as in digits. To write a number in words, write the number in each period followed by the name of the period without the ‘s’ at the end. Start with the digit at the left, which has the largest place value. The commas separate the periods, so wherever there is a comma in the number, write a comma between the words. The ones period, which has the smallest place value, is not named.</para>
+<media id="fs-id1227744" alt="An image with three values separated by commas. The first value is “37” and has the label “millions”. The second value is “519” and has the label thousands. The third value is “248” and has the label ones. Underneath, the value “37” has an arrow pointing to “Thirty-seven million”, the value “519” has an arrow pointing to “Five hundred nineteen thousand”, and the value “248” has an arrow pointing to “Two hundred forty-eight”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_013_img.jpg"/>
+</media>
+<para id="fs-id2220075">The number <m:math><m:mrow><m:mn>37,519,248</m:mn></m:mrow></m:math> is written thirty-seven million, five hundred nineteen thousand, two hundred forty-eight.</para><para id="fs-id3400199">Notice that the word <emphasis effect="italics">and</emphasis> is not used when naming a whole number.</para>
+<note id="fs-id1364640" class="howto">
+<para id="fs-id3199439"><emphasis effect="bold">Name a whole number in words.</emphasis></para>
+<para id="fs-id1575922">Step 1. Starting at the digit on the left, name the number in each period, followed by the period name. Do not include the period name for the ones.</para>
+<para id="fs-id1232351">Step 2. Use commas in the number to separate the periods.</para>
+</note>
+<example id="fs-id2326974"><exercise id="fs-id1545709">
+<problem id="fs-id882630">
+<para id="fs-id1880734">Name the number <m:math><m:mrow><m:mn>8,165,432,098,710</m:mn></m:mrow></m:math> in words.</para>
+</problem>
+<solution id="fs-id2196744">
+
+<para id="fs-id1851678">Eight trillion, one hundred sixty-five billion, four hundred thirty-two million, ninety-eight thousand, seven hundred ten.</para></solution>
+</exercise>
+</example><note id="fs-id2774887" class="try">
+<exercise id="fs-id2601285">
+<problem id="fs-id2353164">
+<para id="fs-id2269538">Name each number in words: <m:math><m:mrow><m:mn>9,258,137,904,061</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1312880">
+<para id="fs-id1469854">Nine trillion two hundred fifty-eight billion one hundred thirty-seven million nine hundred four thousand sixty-one</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1825910"><exercise id="fs-id1314136">
+<problem id="fs-id4315464">
+<para id="fs-id2627959">A student conducted research and found that the number of mobile phone users in the United States during one month in <m:math><m:mrow><m:mn>2014</m:mn></m:mrow></m:math> was <m:math><m:mrow><m:mstyle fontweight="bold"><m:mn>327,577,529</m:mn></m:mstyle><m:mo>.</m:mo></m:mrow></m:math> Name that number in words.</para>
+</problem>
+<solution id="fs-id2425040">
+
+
+
+
+
+
+<para id="fs-id1394436">The number of mobile phone users in the Unites States during the month of April was three hundred twenty-seven million, five hundred seventy-seven thousand, five hundred twenty-nine.</para>
+</solution>
+</exercise>
+</example><note id="fs-id1808812" class="try">
+<exercise id="fs-id2060477">
+<problem id="fs-id2172100">
+<para id="fs-id1250766">One year is <m:math><m:mrow><m:mn>31,536,000</m:mn></m:mrow></m:math> seconds. Name that number.</para>
+</problem>
+<solution id="fs-id1360632">
+<para id="fs-id1269733">Thirty one million, five hundred thirty-six thousand</para></solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1339359">
+<title>Use Place Value to Write Whole Numbers</title>
+<para id="fs-id2607182">We will now reverse the process and write a number given in words as digits.</para>
+<note id="fs-id2398163" class="howto">
+<para id="fs-id1782334"><emphasis effect="bold">Use place value to write a whole number.</emphasis></para>
+<para id="fs-id1967576">Step 1. Identify the words that indicate periods. (Remember the ones period is never named.)</para>
+<para id="fs-id1529389">Step 2. Draw three blanks to indicate the number of places needed in each period. Separate the periods by commas.</para>
+<para id="fs-id1402304">Step 3. Name the number in each period and place the digits in the correct place value position.</para>
+</note>
+<example id="fs-id2376697">
+<exercise id="fs-id1340436">
+<problem id="fs-id845531">
+<para id="fs-id1576302">Write the following numbers using digits.</para>
+<para id="fs-id2264653">(a) fifty-three million, four hundred one thousand, seven hundred forty-two</para>
+</problem>
+<solution id="fs-id1786412">
+<title>Solution</title>
+<para id="fs-id4300938">Write the digits in each period.<newline/>
+<media id="fs-id2668978" alt="An image with three blocks of text pointing to numerical values. The first block of text is “fifty-three million”, has the label “millions”, and points to value 53. The second block of text is “four hundred one thousand”, has the label “thousands”, and points to value 401. The third block of text is “seven hundred forty-two”, has the label “ones”, and points to value 742.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_016_img.jpg"/>
+</media></para><para id="fs-id1726897">Put the numbers together, including the commas. The number is <m:math><m:mrow><m:mn>53,401,742</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1542693" class="try">
+<exercise id="fs-id2646708">
+<problem id="fs-id3436547">
+<para id="fs-id2270159">Write each number in standard form:</para>
+<para id="fs-id2149876">fifty-three million, eight hundred nine thousand, fifty-one.</para>
+</problem>
+<solution id="fs-id998472">
+<para id="fs-id4163187">53,809,051</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2437124" class="try">
+<exercise id="fs-id2202956">
+<problem id="fs-id1402052">
+<para id="fs-id1337332">Write each number in standard form:</para>
+<para id="fs-id1792489">two billion, twenty-two million, seven hundred fourteen thousand, four hundred sixty-six.</para>
+</problem>
+<solution id="fs-id1330293">
+<para id="fs-id1885399">2,022,714,466</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id3202693">
+<exercise id="fs-id1336757">
+<problem id="fs-id1917299">
+<para id="fs-id2590590">A state budget was about <m:math><m:mrow><m:mtext>$77</m:mtext></m:mrow></m:math> billion. Write the budget in standard form.</para>
+</problem>
+<solution id="fs-id1949045">
+<title>Solution</title>
+<para id="fs-id2634266">Identify the periods. In this case, only two digits are given and they are in the billions period. To write the entire number, write zeros for all of the other periods.<newline/>
+<media id="fs-id1345376" alt="An image with four blocks of text pointing to numerical values. The first block of text is “77 billion”, has the label “billions”, and points to value “77”. The second block of text is null, has the label “millions”, and points to value “000”. The third block of text is null, has the label “thousands”, and points to value “000”. The fourth block of text is null, has the label “ones”, and points to the value “000”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_018_img.jpg"/>
+</media></para>
+<para id="fs-id2319817">The budget was about <m:math><m:mrow><m:mtext>$77,000,000,000.</m:mtext></m:mrow></m:math></para></solution>
+</exercise>
+</example>
+<note id="fs-id1805534" class="try">
+<exercise id="fs-id1485641">
+<problem id="fs-id1929413">
+<para id="fs-id2262938">Write each number in standard form:</para>
+<para id="fs-id1800228">The closest distance from Earth to Mars is about <m:math><m:mrow><m:mn>34</m:mn></m:mrow></m:math> million miles.</para>
+</problem>
+<solution id="fs-id1779102">
+<para id="fs-id865214">34,000,000 miles</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2472737"><title>Round Whole Numbers</title><para id="fs-id1333125">In <m:math><m:mrow><m:mn>2013</m:mn><m:mo>,</m:mo></m:mrow></m:math> the U.S. Census Bureau reported the population of the state of New York as <m:math><m:mrow><m:mn>19,651,127</m:mn></m:mrow></m:math> people. It might be enough to say that the population is approximately <m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math> million. The word <emphasis effect="italics">approximately</emphasis> means that <m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math> million is not the exact population, but is close to the exact value.</para>
+<para id="fs-id2368933">The process of approximating a number is called <term>rounding</term>. Numbers are rounded to a specific place value depending on how much accuracy is needed. Saying that the population of New York is approximately <m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math> million means we rounded to the millions place. The place value to which we round to depends on how we need to use the number.</para>
+<para id="fs-id2132131">Using the number line can help you visualize and understand the rounding process. Look at the number line in <link target-id="CNX_BMath_Figure_01_01_019"/>. Suppose we want to round the number <m:math><m:mrow><m:mn>76</m:mn></m:mrow></m:math> to the nearest ten. Is <m:math><m:mrow><m:mn>76</m:mn></m:mrow></m:math> closer to <m:math><m:mrow><m:mn>70</m:mn></m:mrow></m:math> or <m:math><m:mrow><m:mn>80</m:mn></m:mrow></m:math> on the number line?</para>
+
+<figure id="CNX_BMath_Figure_01_01_019">
+<media id="fs-id3447999" alt="An image of a number line from 70 to 80 with increments of one. All the numbers on the number line are black except for 70 and 80 which are red. There is an orange dot at the value “76” on the number line.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_019.jpg"/>
+</media>
+<caption>We can see that <m:math><m:mrow><m:mn>76</m:mn></m:mrow></m:math> is closer to <m:math><m:mrow><m:mn>80</m:mn></m:mrow></m:math> than to <m:math><m:mrow><m:mn>70</m:mn><m:mo>.</m:mo></m:mrow></m:math> So <m:math><m:mrow><m:mn>76</m:mn></m:mrow></m:math> rounded to the nearest ten is <m:math><m:mrow><m:mn>80</m:mn><m:mo>.</m:mo></m:mrow></m:math></caption>
+</figure>
+<para id="fs-id1885331">Now consider the number <m:math><m:mrow><m:mn>72</m:mn><m:mo>.</m:mo></m:mrow></m:math> Find <m:math><m:mrow><m:mn>72</m:mn></m:mrow></m:math> in <link target-id="CNX_BMath_Figure_01_01_020"/>.</para>
+<figure id="CNX_BMath_Figure_01_01_020">
+<media id="fs-id2907091" alt="An image of a number line from 70 to 80 with increments of one. All the numbers on the number line are black except for 70 and 80 which are red. There is an orange dot at the value “72” on the number line.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_020.jpg"/>
+</media>
+<caption>We can see that <m:math><m:mrow><m:mn>72</m:mn></m:mrow></m:math> is closer to <m:math><m:mrow><m:mn>70</m:mn><m:mo>,</m:mo></m:mrow></m:math> so <m:math><m:mrow><m:mn>72</m:mn></m:mrow></m:math> rounded to the nearest ten is <m:math><m:mrow><m:mn>70</m:mn><m:mo>.</m:mo></m:mrow></m:math></caption>
+</figure>
+<para id="fs-id2646813">How do we round <m:math><m:mrow><m:mn>75</m:mn></m:mrow></m:math> to the nearest ten. Find <m:math><m:mrow><m:mn>75</m:mn></m:mrow></m:math> in <link target-id="CNX_BMath_Figure_01_01_021"/>.</para>
+<figure id="CNX_BMath_Figure_01_01_021">
+<media id="fs-id2471614" alt="An image of a number line from 70 to 80 with increments of one. All the numbers on the number line are black except for 70 and 80 which are red. There is an orange dot at the value “75” on the number line.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_021.jpg"/>
+</media>
+<caption>The number <m:math><m:mrow><m:mn>75</m:mn></m:mrow></m:math> is exactly midway between <m:math><m:mrow><m:mn>70</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>80</m:mn><m:mo>.</m:mo></m:mrow></m:math></caption>
+</figure>
+<para id="fs-id1384953">So that everyone rounds the same way in cases like this, mathematicians have agreed to round to the higher number, <m:math><m:mrow><m:mn>80</m:mn><m:mo>.</m:mo></m:mrow></m:math> So, <m:math><m:mrow><m:mn>75</m:mn></m:mrow></m:math> rounded to the nearest ten is <m:math><m:mrow><m:mn>80</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1545266">Now that we have looked at this process on the number line, we can introduce a more general procedure. To round a number to a specific place, look at the number to the right of that place. If the number is less than <m:math><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo></m:mrow></m:math> round down. If it is greater than or equal to <m:math><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo></m:mrow></m:math> round up.</para>
+
+<media id="fs-id1318626" alt="An image of value “76”. The text “tens place” is in blue and points to number 7 in “76”. The text “is greater than 5” is in red and points to the number 6 in “76”.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_022.jpg"/>
+</media>
+<para id="fs-id1717390">The digit in the ones place is a <m:math><m:mrow><m:mn>6</m:mn><m:mo>.</m:mo></m:mrow></m:math> Because <m:math><m:mn>6</m:mn></m:math> is greater than or equal to <m:math><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo></m:mrow></m:math> we increase the digit in the tens place by one. So the <m:math><m:mn>7</m:mn></m:math> in the tens place becomes an <m:math><m:mrow><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math> Now, replace any digits to the right of the <m:math><m:mn>8</m:mn></m:math> with zeros. So, <m:math><m:mrow><m:mn>76</m:mn></m:mrow></m:math> rounds to <m:math><m:mrow><m:mn>80</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<example id="fs-id1395272">
+<exercise id="fs-id3298586">
+<problem id="fs-id3365604">
+<para id="fs-id555970">Round <m:math><m:mrow><m:mn>843</m:mn></m:mrow></m:math> to the nearest ten.</para>
+</problem>
+<solution id="fs-id1245694">
+<title>Solution</title>
+<para id="fs-id1171103109715"><media id="fs-id1863239" alt="This image is two columns. The first column states locate the tens place. Next to this is the number 843 with the label “tens place” pointed at the 4 in 843. The next line down in the left column states “underline the digit to the right of the tens place”, followed by the number 843 with the 3 underlined. The next line states “since 3 is less than 5, do not change the digit in the tens place”, followed by the number 843 with the 3 remaining underlined. The next line states “replace all digits to the right of the tens place with zeros”, followed by the number 840 with the 0 underlined.  The last line states “rounding 843 to the nearest ten gives 840.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_01_01_034_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2324035" class="try">
+<exercise id="fs-id1312230">
+<problem id="fs-id1361993">
+<para id="fs-id1347444">Round to the nearest ten: <m:math><m:mrow><m:mn>157</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2458753">
+<para id="fs-id1178888">160</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2306340" class="try">
+<exercise id="fs-id2648829">
+<problem id="fs-id1732081">
+<para id="fs-id2210570">Round to the nearest ten: <m:math><m:mrow><m:mn>884</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1822077">
+<para id="fs-id1269556">880</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id3407439"><exercise id="fs-id1788778">
+<problem id="fs-id2351315">
+<para id="fs-id1339512">Round each number to the nearest hundred:</para>
+<para id="fs-id2170075"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>23,658</m:mn></m:mrow></m:math></para>
+<para id="fs-id1245879"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>3,978</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1352043">
+
+<para id="fs-id2655541"><newline/> 
+(a) 23, 700
+(b) 4,000</para>
+</solution>
+</exercise>
+</example><note id="fs-id1518702" class="try">
+<exercise id="fs-id1288049">
+<problem id="fs-id1512227">
+<para id="fs-id2133764">Round to the nearest hundred: <m:math><m:mrow><m:mn>17,852</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2877246">
+<para id="fs-id1336744">17,900</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1263758"><exercise id="fs-id1951300">
+<problem id="fs-id1471031">
+<para id="fs-id2283895">Round each number to the nearest thousand:</para>
+<para id="fs-id1808612"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>147,032</m:mn></m:mrow></m:math></para>
+<para id="fs-id1512094"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>29,504</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1559025">
+
+<para id="fs-id1751923">(a) 147,000
+(b) 30,000</para>
+</solution>
+</exercise>
+</example><para id="fs-id1171101843953">We encourage you to go to <link class="target-chapter" document="m56269">Appendix B</link> to take the Self Check for this section.</para>
+<note id="fs-id3323694" class="media-2">
+<para id="fs-id2208943">Access these online resources for additional instruction and practice with whole numbers.</para>
+<list id="fs-id1881276" display="block">
+<item><link url="http://www.openstaxcollege.org/l/24detplaceval">Determine Place Value</link></item>
+<item><link url="http://www.openstaxcollege.org/l/24numdigword">Write a Whole Number in Digits from Words</link></item>
+</list>
+</note>
+</section><section id="fs-id2296006" class="key-concepts">
+<title>Key Concepts</title>
+<list id="fs-id1577445" list-type="bulleted" bullet-style="bullet">
+<item>Counting numbers begin with <m:math><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo></m:mrow></m:math> and continue forever. Whole numbers are the counting numbers and zero: <m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mtext>…</m:mtext></m:mrow></m:math> See <link target-id="fs-id1262372"/>.</item>
+<item>Our number system uses a place value system, in which the value of a digit depends on its place in a number. The values can be represented by <m:math><m:mrow><m:mtext>base-10</m:mtext></m:mrow></m:math> blocks. See <link target-id="fs-id2222880"/>.</item>
+<item>A place-value chart is a way to find the values of the digits in a number. See <link target-id="fs-id1891091"/>.</item>
+<item>Place values are used to write numbers in words. See <link target-id="fs-id2326974"/>.</item>
+<item>Numbers can be translated from words to digits. See <link target-id="fs-id1825910"/>.</item>
+<item>Rounding a number means to approximate it to a specific place value. See <link target-id="fs-id2376697"/>.</item>
+</list>
+</section>
+<section id="fs-id2279009" class="section-exercises">
+<section id="fs-id2318815">
+<title>Practice Makes Perfect</title>
+<para id="fs-id2686876"><emphasis effect="bold">Identify Counting Numbers and Whole Numbers</emphasis> In the following exercises, determine which of the following numbers are (a) counting numbers (b) whole numbers.</para>
+<exercise id="fs-id1617693">
+<problem id="fs-id2475713">
+<para id="fs-id1029877"><m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>8.1</m:mn><m:mo>,</m:mo><m:mn>125</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2686692">
+<para id="fs-id1933041">(a) 0, 5, 125 (b) 0, 5, 125</para>
+</solution>
+</exercise>
+<exercise id="fs-id834824">
+<problem id="fs-id1566499">
+<para id="fs-id1321421"><m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>20.5</m:mn><m:mo>,</m:mo><m:mn>300</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2925019">
+<problem id="fs-id2186619">
+<para id="fs-id1717367"><m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>3.9</m:mn><m:mo>,</m:mo><m:mn>50</m:mn><m:mo>,</m:mo><m:mn>221</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1932107">
+<para id="fs-id2278021">(a) 50, 221 (b) 0, 50, 221</para>
+</solution>
+</exercise>
+<exercise id="fs-id2134956">
+<problem id="fs-id1367088">
+<para id="fs-id2452665"><m:math><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>,</m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>303</m:mn><m:mo>,</m:mo><m:mn>422.6</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1362956"><emphasis effect="bold">Identify the Place Value of a Digit</emphasis> In the following exercises, find the place value of the given digits.</para>
+<exercise id="fs-id2466117">
+<problem id="fs-id1238472">
+<para id="fs-id2375962"><m:math><m:mrow><m:mn>579,601</m:mn></m:mrow></m:math></para>
+<para id="fs-id2356115"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>9</m:mn></m:mrow></m:math></para>
+<para id="fs-id1360656"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>6</m:mn></m:mrow></m:math></para>
+<para id="fs-id1511314"><m:math><m:mrow><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>0</m:mn></m:mrow></m:math></para>
+<para id="fs-id4202472"><m:math><m:mrow><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn></m:mrow></m:math></para>
+<para id="fs-id1379169"><m:math><m:mrow><m:mtext>(e)</m:mtext><m:mspace width="0.2em"/><m:mn>5</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2279435">
+<para id="fs-id1942190">(a) thousands (b) hundreds (c) tens (d) ten thousands (e) hundred thousands</para>
+</solution>
+</exercise>
+<exercise id="fs-id1522372">
+<problem id="fs-id1684233">
+<para id="fs-id2208962"><m:math><m:mrow><m:mn>398,127</m:mn></m:mrow></m:math></para>
+<para id="fs-id1415713"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>9</m:mn></m:mrow></m:math></para>
+<para id="fs-id2749191"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn></m:mrow></m:math></para>
+<para id="fs-id2420140"><m:math><m:mrow><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn></m:mrow></m:math></para>
+<para id="fs-id1166761237482"><m:math><m:mrow><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math></para>
+<para id="fs-id1591906"><m:math><m:mrow><m:mtext>(e)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2197876">
+<problem id="fs-id2273409">
+<para id="fs-id2494777"><m:math><m:mrow><m:mn>56,804,379</m:mn></m:mrow></m:math></para>
+<para id="fs-id1369003"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math></para>
+<para id="fs-id2200484"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>6</m:mn></m:mrow></m:math></para>
+<para id="fs-id1606959"><m:math><m:mrow><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn></m:mrow></m:math></para>
+<para id="fs-id1620052"><m:math><m:mrow><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn></m:mrow></m:math></para>
+<para id="fs-id2438571"><m:math><m:mrow><m:mtext>(e)</m:mtext><m:mspace width="0.2em"/><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2323011">
+<para id="fs-id1548338">(a) hundred thousands (b) millions (c) thousands (d) tens (e) ten thousands</para>
+</solution>
+</exercise>
+<exercise id="fs-id1350682">
+<problem id="fs-id1464316">
+<para id="fs-id1948506"><m:math><m:mrow><m:mn>78,320,465</m:mn></m:mrow></m:math></para>
+<para id="fs-id1950845"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math></para>
+<para id="fs-id2626536"><m:math><m:mrow><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>4</m:mn></m:mrow></m:math></para>
+<para id="fs-id2775855"><m:math><m:mrow><m:mtext>(c)</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn></m:mrow></m:math></para>
+<para id="fs-id1570726"><m:math><m:mrow><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mn>6</m:mn></m:mrow></m:math></para>
+<para id="fs-id1335452"><m:math><m:mrow><m:mtext>(d)</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id769116"><emphasis effect="bold">Use Place Value to Name Whole Numbers</emphasis> In the following exercises, name each number in words.</para>
+<exercise id="fs-id2221898">
+<problem id="fs-id1336694">
+<para id="fs-id1176880"><m:math><m:mrow><m:mn>1,078</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1231920">
+<para id="fs-id1578269">One thousand, seventy-eight</para>
+</solution>
+</exercise>
+<exercise id="fs-id1222581">
+<problem id="fs-id2466500">
+<para id="fs-id1193988"><m:math><m:mrow><m:mn>364,510</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2137703">
+<para id="fs-id1841547">Three hundred sixty-four thousand, five hundred ten</para>
+</solution>
+</exercise>
+<exercise id="fs-id2908841">
+<problem id="fs-id2483981">
+<para id="fs-id2767318"><m:math><m:mrow><m:mn>5,846,103</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2953088">
+<para id="fs-id2703955">Five million, eight hundred forty-six thousand, one hundred three</para>
+</solution>
+</exercise>
+<exercise id="fs-id2159905">
+<problem id="fs-id2772277">
+<para id="fs-id1862644"><m:math><m:mrow><m:mn>37,889,005</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1009593">
+<para id="fs-id1236756">Thirty seven million, eight hundred eighty-nine thousand, five</para>
+</solution>
+</exercise>
+<exercise id="fs-id1341564">
+<problem id="fs-id2495818">
+<para id="fs-id3202675">Seventy years is <m:math><m:mrow><m:mn>613,200</m:mn></m:mrow></m:math> hours.</para>
+</problem>
+<solution id="fs-id1891547">
+<para id="fs-id1358066">Six hundred thirteen thousand, two hundred</para>
+</solution>
+</exercise>
+<exercise id="fs-id1300121">
+<problem id="fs-id2223819">
+<para id="fs-id1633813">One year is <m:math><m:mrow><m:mn>525,600</m:mn></m:mrow></m:math> minutes.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1386002">
+<problem id="fs-id1172613">
+<para id="fs-id2754303">The population of Chicago was <m:math><m:mrow><m:mn>2,718,782</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1611785">
+<problem id="fs-id1893505">
+<para id="fs-id1515209">There are projected to be <m:math><m:mrow><m:mn>23,867,000</m:mn></m:mrow></m:math> college and university students in the US in five years.</para>
+</problem>
+<solution id="fs-id2261866">
+<para id="fs-id1166481">Twenty three million, eight hundred sixty-seven thousand</para>
+</solution>
+</exercise>
+<exercise id="fs-id1339309">
+<problem id="fs-id1546274">
+<para id="fs-id1860576">The population of China is expected to reach <m:math><m:mrow><m:mn>1,377,583,156</m:mn></m:mrow></m:math> in <m:math><m:mrow><m:mn>2016</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1263173">
+<para id="fs-id2221988">One billion, three hundred seventy-seven million, five hundred eighty-three thousand, one hundred fifty-six</para>
+</solution>
+</exercise>
+<exercise id="fs-id1544452">
+<problem id="fs-id2443426">
+<para id="fs-id2344514">The population of India is estimated at <m:math><m:mrow><m:mn>1,267,401,849</m:mn></m:mrow></m:math> as of July <m:math><m:mrow><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2014</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1714165"><emphasis effect="bold">Use Place Value to Write Whole Numbers</emphasis> In the following exercises, write each number as a whole number using digits.</para>
+<exercise id="fs-id226532">
+<problem id="fs-id1217055">
+<para id="fs-id1388718">four hundred twelve</para>
+</problem>
+<solution id="fs-id1227127">
+<para id="fs-id3324386">412</para>
+</solution>
+</exercise>
+<exercise id="fs-id1633028">
+<problem id="fs-id2957960">
+<para id="fs-id2135363">thirty-five thousand, nine hundred seventy-five</para>
+</problem>
+<solution id="fs-id1693609">
+<para id="fs-id1828858">35,975</para>
+</solution>
+</exercise>
+<exercise id="fs-id1609639">
+<problem id="fs-id2319610">
+<para id="fs-id2491175">eleven million, forty-four thousand, one hundred sixty-seven</para>
+</problem>
+<solution id="fs-id2474599">
+<para id="fs-id2277386">11,044,167</para>
+</solution>
+</exercise>
+<exercise id="fs-id328342">
+<problem id="fs-id1325594">
+<para id="fs-id1612747">three billion, two hundred twenty-six million, five hundred twelve thousand, seventeen</para>
+</problem>
+<solution id="fs-id1883860">
+<para id="fs-id4126359">3,226,512,017</para>
+</solution>
+</exercise>
+<exercise id="fs-id1825926">
+<problem id="fs-id1242968">
+<para id="fs-id2211384">The population of the world was estimated to be seven billion, one hundred seventy-three million people.</para>
+</problem>
+<solution id="fs-id1617818">
+<para id="fs-id2486210">7,173,000,000</para>
+</solution>
+</exercise>
+<exercise id="fs-id1733890">
+<problem id="fs-id3204832">
+<para id="fs-id1576329">Lake Tahoe has a capacity of thirty-nine trillion gallons of water.</para>
+</problem>
+<solution id="fs-id2700417">
+<para id="fs-id2202290">39,000,000,000,000</para>
+</solution>
+</exercise>
+<para id="fs-id3228060"><emphasis effect="bold">Round Whole Numbers</emphasis> In the following exercises, round to the indicated place value.</para>
+<exercise id="fs-id2188696">
+<problem id="fs-id2751447">
+<para id="fs-id1348283">Round to the nearest ten: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>386</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>2,931</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1383942">
+<para id="fs-id825804">(a) 390 (b) 2,930</para>
+</solution>
+</exercise>
+<exercise id="fs-id1341642">
+<problem id="fs-id1965804">
+<para id="fs-id2475738">Round to the nearest hundred: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>13,748</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>391,794</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1742262">
+<para id="fs-id2433804">(a) 13,700 (b) 391,800</para>
+</solution>
+</exercise>
+<exercise id="fs-id1387845">
+<problem id="fs-id1161100">
+<para id="fs-id1136960">Round to the nearest ten: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>1,492</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>1,497</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1574330">
+<para id="fs-id1973719">(a) 1490 (b) 1500</para>
+</solution>
+</exercise>
+<exercise id="fs-id1185521">
+<problem id="fs-id2626750">
+<para id="fs-id1608098">Round to the nearest hundred: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>63,994</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>63,949</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1560808">
+<para id="fs-id1177121">(a) 64,000 (b) 63,900</para>
+</solution>
+</exercise>
+<exercise id="fs-id1372149">
+<problem id="fs-id1605093">
+<para id="fs-id892326">Round to the nearest thousand: <m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>163,584</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>163,246</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise><para id="eip-893"><title>Solution</title>(a) 164,000
+(b) 163,000</para>
+</section>
+<section id="fs-id1717629">
+<title>Everyday Math</title>
+<exercise id="fs-id1294881">
+<problem id="fs-id1744657">
+<para id="fs-id2692049"><emphasis effect="bold">Writing a Check</emphasis> Jorge bought a car for <m:math><m:mrow><m:mtext>$24,493</m:mtext><m:mo>.</m:mo></m:mrow></m:math> He paid for the car with a check. Write the purchase price in words.</para>
+</problem>
+<solution id="fs-id764785">
+<para id="fs-id2587177">Twenty four thousand, four hundred ninety-three dollars</para>
+</solution>
+</exercise>
+<exercise id="fs-id1604312">
+<problem id="fs-id1166211">
+<para id="fs-id1932966"><emphasis effect="bold">Remodeling a Kitchen</emphasis> Marissa’s kitchen remodeling cost <m:math><m:mrow><m:mtext>$18,549</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Round the cost to the nearest:</para>
+<para id="fs-id1862168">(a) ten dollars</para>
+<para id="fs-id1189585">(b) hundred dollars</para>
+<para id="fs-id1410247">(c) thousand dollars</para>
+<para id="fs-id3324375">(d) ten-thousand dollars</para>
+</problem>
+</exercise>
+<para id="eip-497"><title>Solution</title>(a) $18,550
+(b) $18,600
+(c) $19,000
+(d) $20,000</para></section>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2642858">
+<term>coordinate</term>
+<meaning id="fs-id2145854">a number paired with its point on a number line</meaning>
+</definition>
+<definition id="fs-id2935860">
+<term>counting numbers</term>
+<meaning id="fs-id2567732">used for counting which start at <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> and continue without end, <m:math><m:mrow><m:mtext>{1</m:mtext><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mtext>…}</m:mtext><m:mo>,</m:mo></m:mrow></m:math> also known as natural numbers</meaning>
+</definition>
+<definition id="fs-id2210616">
+<term>ellipsis</term>
+<meaning id="fs-id3407406">notation composed of three dots that indicate that numbers continue forever</meaning>
+</definition>
+<definition id="fs-id2411900">
+<term>estimate</term>
+<meaning id="fs-id4212280">a number that is close to another number, but not exactly</meaning>
+</definition>
+<definition id="fs-id2711214">
+<term>natural numbers</term>
+<meaning id="fs-id2443061">numbers used for counting which extend from <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> to infinity, <m:math><m:mrow><m:mtext>{1</m:mtext><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mtext>…}</m:mtext><m:mo>,</m:mo></m:mrow></m:math> also known as counting numbers</meaning>
+</definition>
+<definition id="fs-id3330600">
+<term>origin</term>
+<meaning id="fs-id2284600">the point labeled zero on a number line</meaning>
+</definition>
+<definition id="fs-id2246093">
+<term>period</term>
+<meaning id="fs-id1358099">group of three places values within a number, such as billions, millions, thousands, hundreds, tens, and ones</meaning>
+</definition>
+<definition id="fs-id1358104">
+<term>place value chart</term>
+<meaning id="fs-id1594424">a method of summarizing information about the value of each digit in a number</meaning>
+</definition>
+<definition id="fs-id1336470">
+<term>place value system</term>
+<meaning id="fs-id2263265">number system in which the value of a digit depends on its position, or place</meaning>
+</definition>
+<definition id="fs-id2263270">
+<term>rounding</term>
+<meaning id="fs-id2326485">a process of estimating, or approximating a number</meaning>
+</definition>
+<definition id="fs-id4338000">
+<term>whole numbers</term>
+<meaning id="fs-id1934263">counting numbers and zero, <m:math><m:mrow><m:mtext>{0</m:mtext><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mtext>…}</m:mtext></m:mrow></m:math></meaning>
+</definition>
+</glossary>
+</document>

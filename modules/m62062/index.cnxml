@@ -1,0 +1,597 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Subtracting Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62062</md:content-id>
+  <md:title>Subtracting Whole Numbers</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Use subtraction notation</item>
+<item>Model subtraction of whole numbers</item>
+<item>Subtract whole numbers</item>
+<item>Translate word phrases to math notation</item>
+<item>Subtract whole numbers in applications</item>
+</list></md:abstract>
+  <md:uuid>b7a6675e-edf0-42d6-a6fa-a747bf30cf3d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1799687">
+<title>Use Subtraction Notation</title>
+<para id="fs-id1885623">Suppose there are seven bananas in a bowl. Elana uses three of them to make a smoothie. How many bananas are left in the bowl? To answer the question, we subtract three from seven. When we subtract, we take one number away from another to find the <term>difference</term>. The notation we use to subtract <m:math><m:mn>3</m:mn></m:math> from <m:math><m:mn>7</m:mn></m:math> is</para>
+<equation id="fs-id1467448" class="unnumbered"><label/><m:math><m:mrow><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math></equation>
+<para id="fs-id2670515">We read <m:math><m:mrow><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math> as <emphasis effect="italics">seven minus three</emphasis> and the result is <emphasis effect="italics">the difference of seven and three</emphasis>.</para>
+</section>
+<section id="fs-id1185692">
+<title>Subtract Whole Numbers</title>
+<para id="fs-id2197106">Addition and subtraction are <term>inverse operations</term>. Addition undoes subtraction, and subtraction undoes addition.</para>
+<para id="fs-id2609724">We know <m:math><m:mrow><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math> because <m:math><m:mrow><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math> Knowing all the addition number facts will help with subtraction. Then we can check subtraction by adding. In the examples above, our subtractions can be checked by addition.</para>
+<equation id="fs-id2898525" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mspace width="1em"/><m:mrow><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>because</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mspace width="0.5em"/><m:mn>13</m:mn><m:mo>−</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>5</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>because</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>13</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>43</m:mn><m:mo>−</m:mo><m:mn>26</m:mn><m:mo>=</m:mo><m:mn>17</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>because</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>17</m:mn><m:mo>+</m:mo><m:mn>26</m:mn><m:mo>=</m:mo><m:mn>43</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<note id="fs-id2719276" class="try">
+<exercise id="fs-id2912373">
+<problem id="fs-id1210785">
+<para id="fs-id1629685">Subtract and then check by adding:</para>
+<para id="fs-id1560767"><m:math><m:mrow><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1951537">
+<para id="fs-id693621">7 − 0 = 7; 7 + 0 = 7</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id2845428">To subtract numbers with more than one digit, it is usually easier to write the numbers vertically in columns just as we did for addition. Align the digits by place value, and then subtract each column starting with the ones and then working to the left.</para>
+<example id="fs-id2475555">
+<exercise id="fs-id2296830">
+<problem id="fs-id2296304">
+<para id="fs-id1461696">Subtract and then check by adding: <m:math><m:mrow><m:mn>89</m:mn><m:mo>−</m:mo><m:mn>61</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1410339">
+<title>Solution</title>
+<para id="fs-id1408648"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write the numbers so the ones and tens</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>89</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>digits line up vertically.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>61</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Subtract the digits in each place value.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Subtract the ones:</m:mtext><m:mspace width="0.2em"/><m:mn>9</m:mn><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>8</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>89</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Subtract the tens:</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>−</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>2</m:mn></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>61</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>28</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>28</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check using addition.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>61</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>89</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id1361693">Our answer is correct.</para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1360708" class="try">
+<exercise id="fs-id1629443">
+<problem id="fs-id1910909">
+<para id="fs-id1525494">Subtract and then check by adding: <m:math><m:mrow><m:mn>86</m:mn><m:mo>−</m:mo><m:mn>54</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1410435">
+<para id="fs-id2820396">86 − 54 = 32 because 54 + 32 = 86</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1223489" class="try">
+<exercise id="fs-id2815009">
+<problem id="fs-id2620973">
+<para id="fs-id3218912">Subtract and then check by adding: <m:math><m:mrow><m:mn>99</m:mn><m:mo>−</m:mo><m:mn>74</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2748218">
+<para id="fs-id1800833">99 − 74 = 25 because 74 + 25 = 99</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1731638" class="howto">
+<para id="fs-id1381742"><emphasis effect="bold">Find the difference of whole numbers.</emphasis></para>
+<para id="fs-id1858288">Step 1. Write the numbers so each place value lines up vertically.</para>
+<para id="fs-id2280887">Step 2. Subtract the digits in each place value. Work from right to left starting with the ones place. If the digit on top is less than the digit below, borrow as needed.</para>
+<para id="fs-id1416149">Step 3. Continue subtracting each place value from right to left, borrowing if needed.</para>
+<para id="fs-id4333486">Step 4. Check by adding.</para>
+</note>
+<example id="fs-id1275385">
+<exercise id="fs-id1613753">
+<problem id="fs-id2164078">
+<para id="fs-id1577749">Subtract: <m:math><m:mrow><m:mn>43</m:mn><m:mo>−</m:mo><m:mn>26</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1348086">
+<title>Solution</title>
+<para id="fs-id2658369"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Write the numbers so each place value</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>43</m:mn></m:mrow><m:mspace width="1.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>lines up vertically.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>26</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder><m:mspace width="1em"/></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Subtract the ones. We cannot subtract 6</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>4</m:mn></m:menclose></m:mrow><m:mn mathsize="small">3</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">13</m:mn></m:mrow></m:mover><m:mspace width="1em"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>from 3, so we borrow 1 ten. This makes 3</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>2</m:mn><m:mspace width="0.11em"/><m:mn>6</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mrow><m:mspace width="1.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>tens and 13 ones. We write these numbers</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>above each place and cross out the original</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>digits.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Now we can subtract the ones.</m:mtext><m:mspace width="0.2em"/><m:mn>13</m:mn><m:mo>−</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>7</m:mn><m:mo>.</m:mo><m:mspace width="0.2em"/><m:mtext>We write</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>the 7 in the ones place in the difference.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>4</m:mn></m:menclose></m:mrow><m:mn mathsize="small">3</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">13</m:mn></m:mrow></m:mover><m:mspace width="1.1em"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>2</m:mn><m:mspace width="0.16em"/><m:mn>6</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mrow><m:mspace width="1.3em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>7</m:mn><m:mspace width="1.3em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Now we subtract the tens.</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mo>−</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>.</m:mo><m:mspace width="0.2em"/><m:mtext>We</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>4</m:mn></m:menclose></m:mrow><m:mn mathsize="small">3</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">13</m:mn></m:mrow></m:mover><m:mspace width="1.1em"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>write the 1 in the tens place in the</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>2</m:mn><m:mspace width="0.16em"/><m:mn>6</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder></m:mrow><m:mspace width="1.3em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>difference.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>1</m:mn><m:mspace width="0.1em"/><m:mn>7</m:mn><m:mspace width="1.3em"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>17</m:mn><m:mspace width="1.4em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by adding.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mn>26</m:mn></m:mrow><m:mtext>____</m:mtext></m:munder><m:mspace width="1.3em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>43</m:mn><m:mo>✓</m:mo><m:mspace width="0.05em"/></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id3408265">Our answer is correct.</para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2150843" class="try">
+<exercise id="fs-id1742261">
+<problem id="fs-id1701846">
+<para id="fs-id2303950">Subtract and then check by adding: <m:math><m:mrow><m:mn>93</m:mn><m:mo>−</m:mo><m:mn>58</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id3317038">
+<para id="fs-id2135460">93 − 58 = 35 because 58 + 35 = 93</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1342104"><exercise id="fs-id2170154">
+<problem id="fs-id2626383">
+<para id="fs-id2326446">Subtract and then check by adding: <m:math><m:mrow><m:mn>207</m:mn><m:mo>−</m:mo><m:mn>64</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1239022">
+<title>Solution</title>
+<para id="fs-id1966233"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Write the numbers so each place value</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>2</m:mn><m:mspace width="0.1em"/><m:mn>0</m:mn><m:mspace width="0.1em"/><m:mn>7</m:mn></m:mrow><m:mspace width="1.8em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>lines up vertically.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.8em"/><m:mn>6</m:mn><m:mspace width="0.1em"/><m:mn>4</m:mn></m:mrow><m:mtext>______</m:mtext></m:munder><m:mspace width="1.7em"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Subtract the ones.</m:mtext><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Write the 3 in the ones place in the</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>2</m:mn><m:mspace width="0.1em"/><m:mn>0</m:mn><m:mspace width="0.1em"/><m:mn>7</m:mn><m:mspace width="1.8em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>difference.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.8em"/><m:mn>6</m:mn><m:mspace width="0.1em"/><m:mn>4</m:mn></m:mrow><m:mtext>______</m:mtext></m:munder><m:mspace width="1.7em"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>3</m:mn></m:mrow><m:mspace width="1.85em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Subtract the tens. We cannot subtract 6</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>from 0, so we borrow 1 hundred and add</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mn mathsize="small">1</m:mn></m:mover><m:mover><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose><m:mn mathsize="small">10</m:mn></m:mover><m:mn>7</m:mn><m:mspace width="1.7em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>10 tens to the 0 tens we had. This makes a</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.8em"/><m:mn>6</m:mn><m:mspace width="0.1em"/><m:mn>4</m:mn></m:mrow><m:mtext>______</m:mtext></m:munder><m:mspace width="1.6em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>total of 10 tens. We write 10 above the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>3</m:mn><m:mspace width="1.7em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>tens place and cross out the 0. Then we</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>cross out the 2 in the hundreds place and</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>write 1 above it.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Now we can subtract the tens.</m:mtext><m:mspace width="0.2em"/><m:mn>10</m:mn><m:mo>−</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write the 4 in the tens place in the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>difference.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mn mathsize="small">1</m:mn></m:mover><m:mover><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose><m:mn mathsize="small">10</m:mn></m:mover><m:mn>7</m:mn><m:mspace width="1.7em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.8em"/><m:mn>6</m:mn><m:mspace width="0.1em"/><m:mn>4</m:mn></m:mrow><m:mtext>______</m:mtext></m:munder><m:mspace width="1.6em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>4</m:mn><m:mspace width="0.1em"/><m:mn>3</m:mn><m:mspace width="1.7em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Finally, subtract the hundreds. There is no</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>digit in the hundreds place in the bottom</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mspace width="0.2em"/><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mn mathsize="small">1</m:mn></m:mover><m:mover><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose><m:mn mathsize="small">10</m:mn></m:mover><m:mn>7</m:mn><m:mspace width="1.7em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>number so we can imagine a 0 in that</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.4em"/><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mn>6</m:mn><m:mspace width="0.1em"/><m:mn>4</m:mn></m:mrow><m:mtext>_______</m:mtext></m:munder><m:mspace width="1.6em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>place. Since</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mo>−</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>we write 1 in the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>1</m:mn><m:mspace width="0.1em"/><m:mn>4</m:mn><m:mspace width="0.1em"/><m:mn>3</m:mn><m:mspace width="1.8em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>hundreds place in the difference.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mn>1</m:mn><m:mn>1</m:mn></m:mover><m:mspace width="0.1em"/><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mspace width="1.7em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Check by adding.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mspace width="1em"/><m:mn>6</m:mn><m:mspace width="0.18em"/><m:mn>4</m:mn></m:mrow><m:mtext>_______</m:mtext></m:munder><m:mspace width="1.5em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>2</m:mn><m:mspace width="0.1em"/><m:mn>0</m:mn><m:mspace width="0.1em"/><m:mn>7</m:mn><m:mo>✓</m:mo><m:mspace width="0.4em"/></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id1886794">Our answer is correct.</para>
+</solution>
+</exercise>
+</example><note id="fs-id1270084" class="try">
+<exercise id="fs-id1827735">
+<problem id="fs-id1968857">
+<para id="fs-id2304206">Subtract and then check by adding: <m:math><m:mrow><m:mn>318</m:mn><m:mo>−</m:mo><m:mn>75</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1581788">
+<para id="fs-id2375206">318 − 75 = 243 because 243 + 75 = 318</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1945438">
+<exercise id="fs-id2279338">
+<problem id="fs-id1394122">
+<para id="fs-id1358072">Subtract and then check by adding: <m:math><m:mrow><m:mn>910</m:mn><m:mo>−</m:mo><m:mn>586</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1633271">
+<title>Solution</title>
+<para id="fs-id2478551"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write the numbers so each place value line</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>910</m:mn><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>up vertically.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>586</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>Subtract the ones. We cannot subtract 6</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>from 0, so we borrow 1 ten and add 10</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:mn>9</m:mn><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>1</m:mn></m:menclose></m:mrow><m:mn mathsize="small">0</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>ones to the 10 ones we had. This makes 10</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.05em"/><m:mn>5</m:mn><m:mspace width="0.1em"/><m:mn>8</m:mn><m:mspace width="0.1em"/><m:mn>6</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder></m:mrow><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>ones. We write a 0 above the tens place</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>and cross out the 1. We write the 10 above</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mtext>the ones place and cross out the 0.</m:mtext></m:mrow></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Now we can subtract the ones.</m:mtext><m:mspace width="0.2em"/><m:mn>10</m:mn><m:mo>−</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write the 4 in the ones place of the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>9</m:mn><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>1</m:mn></m:menclose></m:mrow><m:mn mathsize="small">0</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>difference.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.05em"/><m:mn>5</m:mn><m:mspace width="0.1em"/><m:mn>8</m:mn><m:mspace width="0.1em"/><m:mn>6</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>4</m:mn><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Subtract the tens. We cannot subtract 8</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>from 0, so we borrow 1 hundred and add</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>9</m:mn></m:menclose></m:mrow><m:mn mathsize="small">8</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>1</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>10 tens to the 0 tens we had, which gives</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.05em"/><m:mn>5</m:mn><m:mspace width="0.16em"/><m:mn>8</m:mn><m:mspace width="0.16em"/><m:mn>6</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>us 10 tens. Write 8 above the hundreds</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>4</m:mn><m:mspace width="0.1em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>place and cross out the 9. Write 10 above</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>the tens place.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Now we can subtract the tens.</m:mtext><m:mspace width="0.2em"/><m:mn>10</m:mn><m:mo>−</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write 2 in the tens place in the difference.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>9</m:mn></m:menclose></m:mrow><m:mn mathsize="small">8</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>1</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.05em"/><m:mn>5</m:mn><m:mspace width="0.16em"/><m:mn>8</m:mn><m:mspace width="0.16em"/><m:mn>6</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>2</m:mn><m:mspace width="0.16em"/><m:mn>4</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Subtract the hundreds place.</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>−</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>.</m:mo></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write the 3 in the hundreds place in the</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>9</m:mn></m:menclose></m:mrow><m:mn mathsize="small">8</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>1</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>0</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">10</m:mn></m:mrow></m:mover></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>difference.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mspace width="0.1em"/><m:mn>5</m:mn><m:mspace width="0.25em"/><m:mn>8</m:mn><m:mspace width="0.25em"/><m:mn>6</m:mn></m:mrow><m:mtext>______</m:mtext></m:munder><m:mspace width="0.2em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="right"><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mn>4</m:mn><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></para>
+<para id="fs-id1167906080643"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Check by adding.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="11.3em"/><m:mover><m:mn>3</m:mn><m:mn mathsize="small">1</m:mn></m:mover><m:mspace width="0.2em"/><m:mover><m:mn>2</m:mn><m:mn mathsize="small">1</m:mn></m:mover><m:mspace width="0.2em"/><m:mn>4</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="10.3em"/><m:munder accentunder="true"><m:mrow><m:mo>+</m:mo><m:mspace width="0.1em"/><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mn>6</m:mn></m:mrow><m:mtext>______</m:mtext></m:munder></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="11.3em"/><m:mn>9</m:mn><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mn>0</m:mn><m:mo>✓</m:mo></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id2730314">Our answer is correct.</para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1971918" class="try">
+<exercise id="fs-id2276824">
+<problem id="fs-id1168988">
+<para id="fs-id2129521">Subtract and then check by adding: <m:math><m:mrow><m:mn>832</m:mn><m:mo>−</m:mo><m:mn>376</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2498289">
+<para id="fs-id4163390">832 − 376 = 456 because 456 + 376 = 832</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1171105576258" class="try">
+<exercise id="fs-id1585831">
+<problem id="fs-id2650144">
+<para id="fs-id1579616">Subtract and then check by adding: <m:math><m:mrow><m:mn>847</m:mn><m:mo>−</m:mo><m:mn>578</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2642642">
+<para id="fs-id1249841">847 − 578 = 269 because 269 + 578 = 847</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2593949" class="try">
+<exercise id="fs-id1388321">
+<problem id="fs-id1715649">
+<para id="fs-id1263162">Subtract and then check by adding: <m:math><m:mrow><m:mn>4,585</m:mn><m:mo>−</m:mo><m:mn>697</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1575932">
+<para id="fs-id1632703">4,585 − 697 = 3,888 because 3,888 + 697 = 4,585</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1789710" class="try">
+<exercise id="fs-id1397173">
+<problem id="fs-id1351192">
+<para id="fs-id2339954">Subtract and then check by adding: <m:math><m:mrow><m:mn>5,637</m:mn><m:mo>−</m:mo><m:mn>899</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1410058">
+<para id="fs-id2284283">5,637 − 899 = 4,738 because 4,738 + 899 = 5,637</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id2567736">
+<title>Translate Word Phrases to Math Notation</title>
+<para id="fs-id2171599">As with addition, <term class="no-emphasis">word phrases</term> can tell us to operate on two numbers using subtraction. To translate from a word phrase to math notation, we look for key words that indicate subtraction. Some of the words that indicate subtraction are listed in <link target-id="fs-id1549826"/>.</para>
+<table id="fs-id1549826" summary="This table has two rows and five columns. The first row is a header row. Columns are labeled from left to right operation, word phrase, example, and expression. Under the operation column in the second row is the word subtraction. Under the word phrase column are the words minus, difference, decreased by, less than, subtracted from. Under the example column is a list of examples: 5 minus 2, the difference of 9 and 4, 7 decreased by 3, 5 less than 8, 1 subtracted from 6. The expression column includes the expressions in a list 5 minus 1, 9 minus 4, 7 minus 3, 8 minus 5, 6 minus 1.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry align="left">Operation</entry>
+<entry align="left">Word Phrase</entry>
+<entry align="left">Example</entry>
+<entry align="left">Expression</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Subtraction</entry>
+<entry valign="top" align="left">minus<newline/>difference<newline/>decreased by<newline/>less than<newline/>subtracted from</entry>
+<entry valign="top" align="left"><m:math><m:mn>5</m:mn></m:math> minus <m:math><m:mn>1</m:mn></m:math><newline/>the difference of <m:math><m:mn>9</m:mn></m:math> and <m:math><m:mn>4</m:mn></m:math><newline/><m:math><m:mrow><m:mn>7</m:mn></m:mrow></m:math> decreased by <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> subtracted from <m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:mn>5</m:mn><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>9</m:mn><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>7</m:mn><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>8</m:mn><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mn>6</m:mn><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="fs-id2297604">
+<exercise id="fs-id2564560">
+<problem id="fs-id1474802">
+<para id="fs-id1270867">Translate and then simplify:</para>
+<para id="fs-id2275769">(a) the difference of <m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math> and <m:math><m:mn>8</m:mn></m:math></para>
+<para id="fs-id2270245">(b) subtract <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>43</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1594955">
+<title>Solution</title>
+<para id="fs-id1921154">(a) The word <emphasis effect="italics">difference</emphasis> tells us to subtract the two numbers. The numbers stay in the same order as in the phrase.</para>
+<para id="fs-id1210204"><m:math><m:mrow><m:mspace width="1.5em"/><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the difference of 13 and 8</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>13</m:mn><m:mo>−</m:mo><m:mn>8</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Simplify.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>5</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+<para id="fs-id1701622">(b) The words <emphasis effect="italics">subtract</emphasis> <emphasis effect="italics">from</emphasis> tells us to take one number away from the other. We must be careful to get the order correct.</para><para id="fs-id4333616"><m:math><m:mrow><m:mspace width="1.5em"/><m:mtable><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>subtract 24 from 43</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>43</m:mn><m:mo>−</m:mo><m:mn>24</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Simplify.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>19</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1368904" class="try">
+<exercise id="fs-id2262948">
+<problem id="fs-id3400211">
+<para id="fs-id1788606">Translate and simplify:</para>
+<para id="fs-id2715566">(a) the difference of <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> and <m:math><m:mn>9</m:mn></m:math> (b) subtract <m:math><m:mrow><m:mn>21</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>37</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2619048">
+<para id="fs-id2451692">(a) 14 − 9 = 5 (b) 37 − 21 = 16</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1171103491683" class="try">
+<exercise id="fs-id1508933">
+<problem id="fs-id1246927">
+<para id="fs-id1171105193959">Translate and simplify:</para>
+<para id="fs-id2777574"><m:math><m:mrow><m:mtext>(a)</m:mtext><m:mspace width="0.2em"/><m:mn>11</m:mn></m:mrow></m:math> decreased by <m:math><m:mrow><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>(b)</m:mtext><m:mspace width="0.2em"/><m:mn>18</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>67</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1544573">
+<para id="fs-id1544575">(a) 11 − 6 = 5 (b) 67 − 18 = 49</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1828922">
+<title>Subtract Whole Numbers in Applications</title>
+<para id="fs-id1842344">To solve <term class="no-emphasis">applications</term> with subtraction, we will use the same plan that we used with addition. First, we need to determine what we are asked to find. Then we write a phrase that gives the information to find it. We translate the phrase into math notation and then simplify to get the answer. Finally, we write a sentence to answer the question, using the appropriate units.</para>
+<example id="fs-id1827542">
+<exercise id="fs-id1827544">
+<problem id="fs-id768604">
+<para id="fs-id768606">The temperature in Chicago one morning was <m:math><m:mrow><m:mn>73</m:mn></m:mrow></m:math> degrees Fahrenheit. A cold front arrived and by noon the temperature was <m:math><m:mrow><m:mn>27</m:mn></m:mrow></m:math> degrees Fahrenheit. What was the difference between the temperature in the morning and the temperature at noon?</para>
+</problem>
+<solution id="fs-id1397059">
+<title>Solution</title>
+<para id="fs-id1151361">We are asked to find the difference between the morning temperature and the noon temperature.</para>
+<para id="fs-id2392617"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the difference of 73 and 27</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="left"><m:mstyle fontstyle="italic"><m:mtext>Difference</m:mtext></m:mstyle><m:mspace width="0.2em"/><m:mtext>tells us to subtract.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>73</m:mn><m:mo>−</m:mo><m:mn>27</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Then we do the subtraction.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.86em"/><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>7</m:mn></m:menclose></m:mrow><m:mn mathsize="small">6</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">13</m:mn></m:mrow></m:mover></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>2</m:mn><m:mspace width="0.17em"/><m:mn>7</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder><m:mspace width="1.42em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="1em"/><m:mn>4</m:mn><m:mspace width="0.18em"/><m:mn>6</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>The difference in temperatures was</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>46 degrees Fahrenheit.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2626691" class="try">
+<exercise id="fs-id1862405">
+<problem id="fs-id1233159">
+<para id="fs-id1233161">The high temperature on <m:math><m:mrow><m:mtext>June</m:mtext><m:mspace width="0.2em"/><m:msup><m:mn>1</m:mn><m:mtext>st</m:mtext></m:msup></m:mrow></m:math> in Boston was <m:math><m:mrow><m:mn>77</m:mn></m:mrow></m:math> degrees Fahrenheit, and the low temperature was <m:math><m:mrow><m:mn>58</m:mn></m:mrow></m:math> degrees Fahrenheit. What was the difference between the high and low temperatures?</para>
+</problem>
+<solution id="fs-id1631128">
+<para id="fs-id2265563">The difference is 19 degrees Fahrenheit.</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id942857">
+<exercise id="fs-id3016565">
+<problem id="fs-id3016567">
+<para id="fs-id1342007">A washing machine is on sale for <m:math><m:mrow><m:mtext>$399</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Its regular price is <m:math><m:mrow><m:mtext>$588</m:mtext><m:mo>.</m:mo></m:mrow></m:math> What is the difference between the regular price and the sale price?</para>
+</problem>
+<solution id="fs-id1568270">
+<title>Solution</title>
+<para id="fs-id2256365">We are asked to find the difference between the regular price and the sale price.</para>
+<para id="fs-id1205894"><m:math><m:mrow><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Write a phrase.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>the difference between 588 and 399</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Translate to math notation.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mn>588</m:mn><m:mo>−</m:mo><m:mn>399</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Subtract.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.6em"/><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>5</m:mn></m:menclose></m:mrow><m:mn mathsize="small">4</m:mn></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>8</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">17</m:mn></m:mrow></m:mover><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>8</m:mn></m:menclose></m:mrow><m:mrow><m:mn mathsize="small">18</m:mn></m:mrow></m:mover></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn><m:mspace width="0.18em"/><m:mn>9</m:mn><m:mspace width="0.18em"/><m:mn>9</m:mn></m:mrow><m:mtext>_____</m:mtext></m:munder><m:mspace width="0.5em"/></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="0.6em"/><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mn>9</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>Write a sentence to answer the question.</m:mtext></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>The difference between the regular price</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mtext>and the sale price is $189.</m:mtext></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
+</solution>
+</exercise>
+</example>
+<note id="fs-id2202283" class="try">
+<exercise id="fs-id1582423">
+<problem id="fs-id1620294">
+<para id="fs-id1620296">A television set is on sale for <m:math><m:mrow><m:mtext>$499</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Its regular price is <m:math><m:mrow><m:mtext>$648</m:mtext><m:mo>.</m:mo></m:mrow></m:math> What is the difference between the regular price and the sale price?</para>
+</problem>
+<solution id="fs-id2771860">
+<para id="fs-id2771862">The difference is $149.</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1916974">We encourage you to go to <link class="target-chapter" document="m56269">Appendix B</link> to take the Self Check for this section.</para>
+<note id="fs-id1580677" class="media-2">
+<para id="fs-id2338412">Access these online resources for additional instruction and practice with subtracting whole numbers.</para>
+<list id="fs-id2877317" display="block"><item><link url="http://www.openstaxcollege.org/l/24subwholenum">Subtract Whole Numbers</link></item>
+</list></note>
+</section>
+<section id="fs-id1379009" class="key-concepts">
+<title>Key Concepts</title>
+<list id="fs-id1471138" list-type="bulleted" bullet-style="bullet"><item>Subtraction and addition are inverse operations. Addition can be used to check the result found by subtraction. See <link target-id="fs-id1977308"/>.</item>
+<item>When numbers to be subtracted are written vertically, it is important to align digits in the same place value. See <link target-id="fs-id2475555"/>.</item>
+<item>To subtract numbers with more than two-digits write the numbers vertically, aligning digits in the same place value, and subtract one place value at a time. See <link target-id="fs-id1342104"/>.</item>
+<item>Just as math notation can be translated into words, word phrases can be translated into math notation. Some key words and phrases that mean subtraction are <emphasis effect="italics">minus, difference, decreased by</emphasis>, and <emphasis effect="italics">subtracted from</emphasis>. See <link target-id="fs-id2297604"/>.</item>
+</list></section>
+<section id="fs-id2649429" class="section-exercises">
+<section id="fs-id2908415">
+<title>Practice Makes Perfect</title>
+<para id="fs-id2219786"><emphasis effect="bold">Use Subtraction Notation</emphasis> For the following exercises, translate from math notation to words.</para>
+<exercise id="fs-id1852234">
+<problem id="fs-id1852236">
+<para id="fs-id2431916"><m:math><m:mrow><m:mn>15</m:mn><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1885585">
+<para id="fs-id1885587">fifteen minus nine; the difference of fifteen and nine</para>
+</solution>
+</exercise>
+<para id="fs-id2140008"><emphasis effect="bold">Subtract Whole Numbers</emphasis> For the following exercises, subtract and then check by adding.</para>
+<exercise id="fs-id1519586">
+<problem id="fs-id2338380">
+<para id="fs-id2338382"><m:math><m:mrow><m:mn>9</m:mn><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1518946">
+<para id="fs-id1518948">5</para>
+</solution>
+</exercise>
+<exercise id="fs-id1811747">
+<problem id="fs-id1811749">
+<para id="fs-id1595516"><m:math><m:mrow><m:mn>8</m:mn><m:mo>−</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2171100">
+<para id="fs-id2219091">8</para>
+</solution>
+</exercise>
+<exercise id="fs-id1948833">
+<problem id="fs-id1866724">
+<para id="fs-id1866726"><m:math><m:mrow><m:mn>38</m:mn><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2472749">
+<para id="fs-id2472751">22</para>
+</solution>
+</exercise>
+<exercise id="fs-id1395153">
+<problem id="fs-id1395156">
+<para id="fs-id1461706"><m:math><m:mrow><m:mn>85</m:mn><m:mo>−</m:mo><m:mn>52</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2577979">
+<para id="fs-id1402223">33</para>
+</solution>
+</exercise>
+<exercise id="fs-id2777936">
+<problem id="fs-id1390811">
+<para id="fs-id1390813"><m:math><m:mrow><m:mn>493</m:mn><m:mo>−</m:mo><m:mn>370</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1693352">
+<para id="fs-id1693354">123</para>
+</solution>
+</exercise>
+<exercise id="fs-id1732685">
+<problem id="fs-id1732687">
+<para id="fs-id2368077"><m:math><m:mrow><m:mn>5,946</m:mn><m:mo>−</m:mo><m:mn>4,625</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1364819">
+<para id="fs-id2277740">1,321</para>
+</solution>
+</exercise>
+<exercise id="fs-id1160640">
+<problem id="fs-id1563482">
+<para id="fs-id1563484"><m:math><m:mrow><m:mn>75</m:mn><m:mo>−</m:mo><m:mn>47</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2587507">
+<para id="fs-id2587509">28</para>
+</solution>
+</exercise>
+<exercise id="fs-id1511785">
+<problem id="fs-id1511787">
+<para id="fs-id2495676"><m:math><m:mrow><m:mn>461</m:mn><m:mo>−</m:mo><m:mn>239</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2788989">
+<para id="fs-id2645573">222</para>
+</solution>
+</exercise>
+<exercise id="fs-id1269410">
+<problem id="fs-id2662315">
+<para id="fs-id2662317"><m:math><m:mrow><m:mn>525</m:mn><m:mo>−</m:mo><m:mn>179</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1360117">
+<para id="fs-id1360119">346</para>
+</solution>
+</exercise>
+<exercise id="fs-id1185192">
+<problem id="fs-id1185194">
+<para id="fs-id1263091"><m:math><m:mrow><m:mn>6,318</m:mn><m:mo>−</m:mo><m:mn>2,799</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1774863">
+<para id="fs-id1525134">3,519</para>
+</solution>
+</exercise>
+<exercise id="fs-id1736638">
+<problem id="fs-id1278934">
+<para id="fs-id1278936"><m:math><m:mrow><m:mn>2,150</m:mn><m:mo>−</m:mo><m:mn>964</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2485237">
+<para id="fs-id2485239">1,186</para>
+</solution>
+</exercise>
+<exercise id="fs-id2196640">
+<problem id="fs-id2196642">
+<para id="fs-id2482004"><m:math><m:mrow><m:mn>43,650</m:mn><m:mo>−</m:mo><m:mn>8,982</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1545895">
+<para id="fs-id1739686">34,668</para>
+</solution>
+</exercise>
+<para id="fs-id2907455"><emphasis effect="bold">Translate Word Phrases to Algebraic Expressions</emphasis> For the following exercises, translate and simplify.</para>
+<exercise id="fs-id2410312">
+<problem id="fs-id2410314">
+<para id="fs-id2430605">The difference of <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1510166">
+<para id="fs-id1347458">10 − 3; 7</para>
+</solution>
+</exercise>
+<exercise id="fs-id1524431">
+<problem id="fs-id2368430">
+<para id="fs-id2368432">The difference of <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1578004">
+<para id="fs-id1578006">15 − 4; 11</para>
+</solution>
+</exercise>
+<exercise id="fs-id2280738">
+<problem id="fs-id3294285">
+<para id="fs-id3294287">Subtract <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>75</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1397533">
+<para id="fs-id1397535">75 − 28; 47</para>
+</solution>
+</exercise>
+<exercise id="fs-id1580218">
+<problem id="fs-id1580220">
+<para id="fs-id1967076"><m:math><m:mrow><m:mn>45</m:mn></m:mrow></m:math> decreased by <m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id328328">
+<para id="fs-id328330">45 − 20; 25</para>
+</solution>
+</exercise>
+<exercise id="fs-id1384524">
+<problem id="fs-id1384526">
+<para id="fs-id2667784"><m:math><m:mrow><m:mn>92</m:mn></m:mrow></m:math> decreased by <m:math><m:mrow><m:mn>67</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2933640">
+<para id="fs-id2933642">92 − 67; 25</para>
+</solution>
+</exercise>
+<exercise id="fs-id2140620">
+<problem id="fs-id2140622">
+<para id="fs-id1572428"><m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1830525">
+<para id="fs-id1830527">16 − 12; 4</para>
+</solution>
+</exercise>
+<exercise id="fs-id2483708">
+<problem id="fs-id2483710">
+<para id="fs-id4308636"><m:math><m:mrow><m:mn>38</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>61</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1336187">
+<para id="fs-id1336189">61 − 38; 23</para>
+</solution>
+</exercise>
+<para id="fs-id1898532"><emphasis effect="bold">Mixed Practice</emphasis> For the following exercises, simplify.</para>
+<exercise id="fs-id2299081">
+<problem id="fs-id2270658">
+<para id="fs-id2270660"><m:math><m:mrow><m:mn>256</m:mn><m:mo>−</m:mo><m:mn>184</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1335837">
+<para id="fs-id1335839">72</para>
+</solution>
+</exercise>
+<exercise id="fs-id1778706">
+<problem id="fs-id1778708">
+<para id="fs-id2322996"><m:math><m:mrow><m:mn>719</m:mn><m:mo>+</m:mo><m:mn>341</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1542146">
+<para id="fs-id1371724">1,060</para>
+</solution>
+</exercise>
+<para id="fs-id1893502">For the following exercises, translate and simplify.</para>
+<exercise id="fs-id2431291">
+<problem id="fs-id2431293">
+<para id="fs-id1737434">Seventy more than thirty-five</para>
+</problem>
+<solution id="fs-id1885053">
+<para id="fs-id1885056">75 + 35; 110</para>
+</solution>
+</exercise>
+<exercise id="fs-id1842028">
+<problem id="fs-id1952627">
+<para id="fs-id1952629">Sixty more than ninety-three</para>
+</problem>
+</exercise>
+<exercise id="fs-id1973987">
+<problem id="fs-id1973989">
+<para id="fs-id1346960"><m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>41</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1792541">
+<para id="fs-id1792544">41 − 13; 28</para>
+</solution>
+</exercise>
+<exercise id="fs-id3400285">
+<problem id="fs-id2691171">
+<para id="fs-id2691173"><m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> less than <m:math><m:mrow><m:mn>36</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1966712">
+<problem id="fs-id1966715">
+<para id="fs-id1378889">The difference of <m:math><m:mrow><m:mn>100</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>76</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1973898">
+<para id="fs-id1973901">100 − 76; 24</para>
+</solution>
+</exercise>
+<exercise id="fs-id2319783">
+<problem id="fs-id2319785">
+<para id="fs-id1531037">The difference of <m:math><m:mrow><m:mn>1,000</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>945</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id2650348"><emphasis effect="bold">Subtract Whole Numbers in Applications</emphasis> For the following exercises, solve.</para>
+<exercise id="fs-id3321482">
+<problem id="fs-id3321484">
+<para id="fs-id2377095"><emphasis effect="bold">Temperature</emphasis> The high temperature on June <m:math><m:mn>2</m:mn></m:math> in Las Vegas was <m:math><m:mrow><m:mn>80</m:mn></m:mrow></m:math> degrees and the low temperature was <m:math><m:mrow><m:mn>63</m:mn></m:mrow></m:math> degrees. What was the difference between the high and low temperatures?</para>
+</problem>
+<solution id="fs-id1373291">
+<para id="fs-id1373294">The difference between the high and low temperature was 17 degrees</para>
+</solution>
+</exercise>
+<exercise id="fs-id4131869">
+<problem id="fs-id2173766">
+<para id="fs-id2173768"><emphasis effect="bold">Class size</emphasis> Olivia’s third grade class has <m:math><m:mrow><m:mn>35</m:mn></m:mrow></m:math> children. Last year, her second grade class had <m:math><m:mrow><m:mn>22</m:mn></m:mrow></m:math> children. What is the difference between the number of children in Olivia’s third grade class and her second grade class?</para>
+</problem>
+<solution id="fs-id2590425">
+<para id="fs-id2590427">The difference between the third grade and second grade was 13 children.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1628108">
+<problem id="fs-id1816173">
+<para id="fs-id1816175"><emphasis effect="bold">Shopping</emphasis> A mountain bike is on sale for <m:math><m:mrow><m:mtext>$399</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Its regular price is <m:math><m:mrow><m:mtext>$650</m:mtext><m:mo>.</m:mo></m:mrow></m:math> What is the difference between the regular price and the sale price?</para>
+</problem>
+<solution id="fs-id1597793">
+<para id="fs-id1916174">The difference between the regular price and sale price is $251.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2209737">
+<problem id="fs-id1575031">
+<para id="fs-id1575034"><emphasis effect="bold">Savings</emphasis> John wants to buy a laptop that costs <m:math><m:mrow><m:mtext>$840</m:mtext><m:mo>.</m:mo></m:mrow></m:math> He has <m:math><m:mrow><m:mtext>$685</m:mtext></m:mrow></m:math> in his savings account. How much more does he need to save in order to buy the laptop?</para>
+</problem>
+<solution id="fs-id2792025">
+<para id="fs-id2792028">John needs to save $155 more.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2141061">
+<title>Everyday Math</title>
+<exercise id="fs-id1782279">
+<problem id="fs-id1966743">
+<para id="fs-id1966745"><emphasis effect="bold">Road trip</emphasis> Noah was driving from Philadelphia to Cincinnati, a distance of <m:math><m:mrow><m:mn>5</m:mn><m:mn>0</m:mn><m:mn>2</m:mn></m:mrow></m:math> miles. He drove <m:math><m:mrow><m:mn>115</m:mn></m:mrow></m:math> miles, stopped for gas, and then drove another <m:math><m:mrow><m:mn>23</m:mn><m:mn>0</m:mn></m:mrow></m:math> miles before lunch. How many more miles did he have to travel?</para>
+</problem>
+<solution id="fs-id1364660">
+<para id="fs-id1364662">157 miles</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2443393">
+<title>Writing Exercises</title>
+<exercise id="fs-id1967686">
+<problem id="fs-id1967689">
+<para id="fs-id1967691">Explain how subtraction and addition are related.</para>
+</problem>
+<solution id="fs-id2264295">
+<para id="fs-id1366534">Answers may vary.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1394772">
+<problem id="fs-id1394774">
+<para id="fs-id1394776">How does knowing addition facts help you to subtract numbers?</para>
+</problem>
+</exercise>
+</section>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1334793">
+<term>difference</term>
+<meaning id="fs-id1602243">result obtained when subtracting one number from another</meaning>
+</definition>
+<definition id="fs-id1932673">
+<term>inverse operations</term>
+<meaning id="fs-id1492041">operations that undo each other, such as addition and subtraction</meaning>
+</definition>
+</glossary>
+</document>
