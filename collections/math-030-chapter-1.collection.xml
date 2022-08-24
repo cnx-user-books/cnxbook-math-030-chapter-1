@@ -1,68 +1,24 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Julie Hawkins">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12024</md:content-id>
-  <md:title>Math 030 Chapter 1</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>fd54572c-340b-4808-a841-1954a150a9b1</md:uuid>
-<md:slug>math-030-chapter-1</md:slug>
-</metadata>
-
+    <md:content-id>col12024</md:content-id>
+    <md:title>Math 030 Chapter 1</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>fd54572c-340b-4808-a841-1954a150a9b1</md:uuid>
+    <md:slug>math-030-chapter-1</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Whole Numbers</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m62058"/>
-        
-      
-    
-    
-      <col:module document="m62060"/>
-        
-      
-    
-    
-      <col:module document="m62061"/>
-        
-      
-    
-    
-      <col:module document="m62062"/>
-        
-      
-    
-    
-      <col:module document="m62063"/>
-        
-      
-    
-    
-      <col:module document="m62064"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Whole Numbers</md:title>
+      <col:content>
+        <col:module document="m62058"/>
+        <col:module document="m62060"/>
+        <col:module document="m62061"/>
+        <col:module document="m62062"/>
+        <col:module document="m62063"/>
+        <col:module document="m62064"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
